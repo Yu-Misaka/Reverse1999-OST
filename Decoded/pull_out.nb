@@ -1,0 +1,348 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[     13223,        340]
+NotebookOptionsPosition[     11711,        308]
+NotebookOutlinePosition[     12133,        325]
+CellTagsIndexPosition[     12090,        322]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"Clear", "[", "\"\<Global`*\>\"", "]"}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"DirectoryName", "[", 
+    RowBox[{"NotebookFileName", "[", "]"}], "]"}], "//", "SetDirectory"}], 
+  ";"}]}], "Input",
+ CellChangeTimes->{{3.942043535577486*^9, 3.9420435482495146`*^9}, 
+   3.942043871660672*^9, {3.94204569126481*^9, 3.9420457132306986`*^9}},
+ CellLabel->"In[79]:=",ExpressionUUID->"f2e34c32-96d9-4e46-a7cc-c849687c3591"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"files", "=", 
+   RowBox[{"FileNames", "[", 
+    RowBox[{"All", ",", 
+     RowBox[{"Directory", "[", "]"}], ",", "Infinity"}], "]"}]}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"path", "=", 
+   RowBox[{"Select", "[", 
+    RowBox[{"files", ",", 
+     RowBox[{
+      RowBox[{"(", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"FileType", "[", "#", "]"}], "==", "File"}], "&&", 
+        RowBox[{
+         RowBox[{"FileExtension", "[", "#", "]"}], "!=", "\"\<nb\>\""}]}], 
+       ")"}], "&"}]}], "]"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"out", "=", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{"#", ",", 
+       RowBox[{
+        RowBox[{"DirectoryName", "[", 
+         RowBox[{"#", ",", "2"}], "]"}], "<>", 
+        RowBox[{"FileNameTake", "[", "#", "]"}]}]}], "}"}], "&"}], "/@", 
+    "path"}]}], ";"}]}], "Input",
+ CellChangeTimes->{{3.942043552394986*^9, 3.942043554941684*^9}, {
+  3.9420435898678856`*^9, 3.9420436643322515`*^9}, {3.9420437083635874`*^9, 
+  3.942043744605067*^9}, {3.9420438139437504`*^9, 3.9420438308430214`*^9}, {
+  3.942043874580571*^9, 3.9420438818091917`*^9}, {3.9420446233979692`*^9, 
+  3.942044655929755*^9}},
+ CellLabel->"In[81]:=",ExpressionUUID->"4ea4cd7d-bff4-4ec9-bbec-9efa167b6e8d"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"Parallelize", "[", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"RenameFile", "[", 
+      RowBox[{
+       RowBox[{"#", "[", 
+        RowBox[{"[", "1", "]"}], "]"}], ",", 
+       RowBox[{"#", "[", 
+        RowBox[{"[", "2", "]"}], "]"}]}], "]"}], "&"}], "/@", "out"}], "]"}], 
+  ";"}]], "Input",
+ CellChangeTimes->{{3.942044129885352*^9, 3.942044143821373*^9}, {
+   3.942044179937356*^9, 3.942044192653803*^9}, {3.942044229133398*^9, 
+   3.9420442627474747`*^9}, 3.942044473904879*^9, {3.942044810203811*^9, 
+   3.9420448357296467`*^9}, {3.94204683983257*^9, 3.9420469272823377`*^9}, {
+   3.942047013303795*^9, 3.942047038449681*^9}, {3.942050058523074*^9, 
+   3.942050065702778*^9}},
+ CellLabel->"In[84]:=",ExpressionUUID->"35f76b00-7955-4654-a1b7-e1c27bd13cf0"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"RenameFile", "::", "eexist"}], "MessageName"], " ", ":", 
+  "  ", "\<\"\\!\\(\\*RowBox[{\\\"\\\\\\\"P:\\\\\\\\\\\\\\\\SandBox\\\\\\\\\\\
+\\\\\\Unpack\\\\\\\\\\\\\\\\GameUnpack-Reverse1999\\\\\\\\\\\\\\\\WorkingDir\\\
+\\\\\\\\\\\\\\Reverse1999-OST\\\\\\\\\\\\\\\\Decoded\\\\\\\\\\\\\\\\desktop.\
+ini\\\\\\\"\\\"}]\\) already exists.\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.9420500731917515`*^9},
+ CellLabel->
+  "(kernel 3)",ExpressionUUID->"0a2a3c3a-486d-4ddb-adfe-c5410199595b"]
+}, Open  ]],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"files", "=", 
+   RowBox[{"FileNames", "[", 
+    RowBox[{"All", ",", 
+     RowBox[{"Directory", "[", "]"}], ",", "Infinity"}], "]"}]}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{"DeleteFile", "[", 
+  RowBox[{"Select", "[", 
+   RowBox[{"files", ",", 
+    RowBox[{
+     RowBox[{
+      RowBox[{"FileExtension", "[", "#", "]"}], "==", "\"\<wav\>\""}], 
+     "&"}]}], "]"}], "]"}]}], "Input",
+ CellLabel->"In[85]:=",ExpressionUUID->"dd501981-e334-434c-bc1a-04f3eced9f4c"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"emptyDir", "=", 
+   RowBox[{"Select", "[", 
+    RowBox[{"files", ",", 
+     RowBox[{
+      RowBox[{"(", 
+       RowBox[{
+        RowBox[{"DirectoryQ", "[", "#", "]"}], "&&", 
+        RowBox[{
+         RowBox[{"FileNames", "[", 
+          RowBox[{"All", ",", "#"}], "]"}], "==", 
+         RowBox[{"{", "}"}]}]}], ")"}], "&"}]}], "]"}]}], ";"}]], "Input",
+ CellChangeTimes->{{3.9420443394272423`*^9, 3.9420443631189356`*^9}, {
+   3.9420443986113553`*^9, 3.9420444497484927`*^9}, 3.9420446697635317`*^9},
+ CellLabel->"In[87]:=",ExpressionUUID->"d05eacc4-e32e-40c1-8cb0-2d8ece198137"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"DeleteDirectory", "/@", "emptyDir"}], ";"}]], "Input",
+ CellChangeTimes->{{3.942044083219696*^9, 3.942044096314305*^9}, {
+  3.942044453190833*^9, 3.942044477692527*^9}},
+ CellLabel->"In[88]:=",ExpressionUUID->"835dc6a4-63a9-498d-9795-ad91a4952b25"],
+
+Cell[BoxData[
+ TemplateBox[{
+  "DeleteDirectory", "privv", 
+   "\"\:6587\:4ef6\:6216\:8005\:76ee\:5f55 \
+\\!\\(\\*RowBox[{\\\"\\\\\\\"P:\\\\\\\\\\\\\\\\SandBox\\\\\\\\\\\\\\\\Unpack\\\
+\\\\\\\\\\\\\\GameUnpack-Reverse1999\\\\\\\\\\\\\\\\WorkingDir\\\\\\\\\\\\\\\\\
+Reverse1999-OST\\\\\\\\\\\\\\\\Decoded\\\\\\\\\\\\\\\\en\\\\\\\\\\\\\\\\\
+hero3013_mainstory.bnk\\\\\\\"\\\"}]\\) \:4e2d\:8fdd\:53cd\:7279\:6743.\"", 2,
+    88, 6, 22946043419721233147, "Local"},
+  "MessageTemplate"]], "Message", "MSG",
+ CellChangeTimes->{3.942050107190549*^9},
+ CellLabel->
+  "\:6b63\:5728\:8ba1\:7b97In[88]:=",ExpressionUUID->"f1b7685a-661b-42a4-ba18-\
+005a0e07e542"]
+}, Open  ]],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"crupted", "=", 
+   RowBox[{"Select", "[", 
+    RowBox[{
+     RowBox[{"FileNames", "[", 
+      RowBox[{"All", ",", 
+       RowBox[{"Directory", "[", "]"}], ",", "Infinity"}], "]"}], ",", 
+     RowBox[{
+      RowBox[{"(", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"FileType", "[", "#", "]"}], "==", "File"}], "&&", 
+        RowBox[{"StringContainsQ", "[", 
+         RowBox[{
+          RowBox[{"FileNameTake", "[", "#", "]"}], ",", "\"\<~Tempo_\>\""}], 
+         "]"}]}], ")"}], "&"}]}], "]"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"RenameFile", "[", 
+     RowBox[{"#", ",", 
+      RowBox[{
+       RowBox[{
+        RowBox[{"StringSplit", "[", 
+         RowBox[{"#", ",", "\"\<~Tempo_\>\""}], "]"}], "[", 
+        RowBox[{"[", "1", "]"}], "]"}], "<>", "\"\<.ogg\>\""}]}], "]"}], 
+    "&"}], "/@", "crupted"}], ";"}]}], "Input",
+ CellChangeTimes->{{3.942050264175931*^9, 3.942050338293129*^9}, {
+  3.942050479989817*^9, 3.9420505113346024`*^9}, {3.9420505435558195`*^9, 
+  3.942050548399161*^9}, {3.942050606343479*^9, 3.9420506253759027`*^9}},
+ CellLabel->"In[93]:=",ExpressionUUID->"5eab5710-d915-435c-b762-bc17d03995f9"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"files", "=", 
+   RowBox[{"FileNames", "[", 
+    RowBox[{"All", ",", 
+     RowBox[{"Directory", "[", "]"}], ",", "Infinity"}], "]"}]}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"list", "=", 
+   RowBox[{"{", "}"}]}], ";", 
+  RowBox[{"importIndex", "=", "1"}], ";"}]}], "Input",
+ CellChangeTimes->{{3.942047067432855*^9, 3.9420470705142293`*^9}, 
+   3.9420472018226757`*^9, 3.9420473455418434`*^9, {3.9420474142888093`*^9, 
+   3.9420474894752417`*^9}, {3.9420475406821923`*^9, 
+   3.9420475493172216`*^9}, {3.9420476240069404`*^9, 3.942047699277072*^9}, {
+   3.9420477369836164`*^9, 3.9420478043355865`*^9}, 3.9420478783655987`*^9},
+ CellLabel->"In[70]:=",ExpressionUUID->"d2725cad-2217-4ba0-b908-c3d067a591e0"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Manipulate", "[", 
+  RowBox[{
+   RowBox[{"Grid", "[", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"{", "i", "}"}], ",", 
+      RowBox[{"{", "list", "}"}]}], "}"}], "]"}], ",", "\[IndentingNewLine]", 
+   RowBox[{"Button", "[", 
+    RowBox[{"\"\<Next\>\"", ",", 
+     RowBox[{
+      RowBox[{"importIndex", "+=", "1"}], ";", 
+      RowBox[{"i", "=", 
+       RowBox[{"Import", "[", 
+        RowBox[{"files", "[", 
+         RowBox[{"[", "importIndex", "]"}], "]"}], "]"}]}]}]}], "]"}], ",", 
+   "\[IndentingNewLine]", 
+   RowBox[{"Button", "[", 
+    RowBox[{"\"\<Previous\>\"", ",", 
+     RowBox[{
+      RowBox[{"importIndex", "-=", "1"}], ";", 
+      RowBox[{"i", "=", 
+       RowBox[{"Import", "[", 
+        RowBox[{"files", "[", 
+         RowBox[{"[", "importIndex", "]"}], "]"}], "]"}]}]}]}], "]"}], ",", 
+   "\[IndentingNewLine]", 
+   RowBox[{"Button", "[", 
+    RowBox[{"\"\<Approve\>\"", ",", 
+     RowBox[{"list", "=", 
+      RowBox[{"Flatten", "[", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"files", "[", 
+          RowBox[{"[", "importIndex", "]"}], "]"}], ",", "list"}], "}"}], 
+       "]"}]}]}], "]"}]}], "]"}]], "Input",
+ CellChangeTimes->{{3.9420478114805746`*^9, 3.9420478489641657`*^9}, {
+   3.9420479243069406`*^9, 3.942048052688159*^9}, {3.9420481825902653`*^9, 
+   3.9420481964836674`*^9}, {3.942048237864829*^9, 3.9420482929908085`*^9}, 
+   3.942048366787427*^9},ExpressionUUID->"b145ef0f-946c-41f9-a7d9-\
+c67327d9fe6a"],
+
+Cell[BoxData[
+ TagBox[
+  StyleBox[
+   DynamicModuleBox[{Typeset`show$$ = True, Typeset`bookmarkList$$ = {}, 
+    Typeset`bookmarkMode$$ = "Menu", Typeset`animator$$, Typeset`animvar$$ = 
+    1, Typeset`name$$ = "\"\:65e0\:6807\:9898\"", Typeset`specs$$ = {{
+      Hold[
+       Button[
+       "Next", AddTo[$CellContext`importIndex, 1]; $CellContext`i = Import[
+           Part[$CellContext`files, $CellContext`importIndex]]]], 
+      Manipulate`Dump`ThisIsNotAControl}, {
+      Hold[
+       Button["Approve", $CellContext`list = Flatten[{
+           
+           Part[$CellContext`files, $CellContext`importIndex], \
+$CellContext`list}]]], Manipulate`Dump`ThisIsNotAControl}}, Typeset`size$$ = {
+    28.589844703674316`, {11.420068682893177`, 17.15200248688925}}, 
+    Typeset`update$$ = 0, Typeset`initDone$$, Typeset`skipInitDone$$ = True}, 
+    DynamicBox[Manipulate`ManipulateBoxes[
+     1, StandardForm, "Variables" :> {}, "ControllerVariables" :> {}, 
+      "OtherVariables" :> {
+       Typeset`show$$, Typeset`bookmarkList$$, Typeset`bookmarkMode$$, 
+        Typeset`animator$$, Typeset`animvar$$, Typeset`name$$, 
+        Typeset`specs$$, Typeset`size$$, Typeset`update$$, Typeset`initDone$$,
+         Typeset`skipInitDone$$}, "Body" :> 
+      Grid[{{$CellContext`i}, {$CellContext`list}}], "Specifications" :> {
+        Button[
+        "Next", AddTo[$CellContext`importIndex, 1]; $CellContext`i = Import[
+            Part[$CellContext`files, $CellContext`importIndex]]], 
+        Button["Approve", $CellContext`list = Flatten[{
+            
+            Part[$CellContext`files, $CellContext`importIndex], \
+$CellContext`list}]]}, "Options" :> {}, "DefaultOptions" :> {}],
+     ImageSizeCache->{74., {67.13403309800196, 72.86596690199804}},
+     SingleEvaluation->True],
+    Deinitialization:>None,
+    DynamicModuleValues:>{},
+    SynchronousInitialization->True,
+    UndoTrackedVariables:>{Typeset`show$$, Typeset`bookmarkMode$$},
+    UnsavedVariables:>{Typeset`initDone$$},
+    UntrackedVariables:>{Typeset`size$$}], "Manipulate",
+   Deployed->True,
+   StripOnInput->False],
+  Manipulate`InterpretManipulate[1]]], "Output",
+ CellChangeTimes->{{3.9420478316864986`*^9, 3.9420478496885676`*^9}, 
+   3.942047885065086*^9, {3.9420480241919003`*^9, 3.9420480531989555`*^9}, {
+   3.9420481874263344`*^9, 3.942048196979227*^9}},
+ CellLabel->"Out[78]=",ExpressionUUID->"38cc4c99-552a-4405-b6df-d1548ab9a36d"]
+}, Open  ]]
+},
+WindowSize->{1200, 718.5},
+WindowMargins->{{-4.875, Automatic}, {Automatic, -4.875}},
+FrontEndVersion->"13.3 for Microsoft Windows (64-bit) (2023\:5e746\:67083\
+\:65e5)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"d1f65729-5563-43fd-a0b9-a0aa3d4f2462"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 480, 11, 78, "Input",ExpressionUUID->"f2e34c32-96d9-4e46-a7cc-c849687c3591"],
+Cell[1041, 33, 1298, 35, 114, "Input",ExpressionUUID->"4ea4cd7d-bff4-4ec9-bbec-9efa167b6e8d"],
+Cell[CellGroupData[{
+Cell[2364, 72, 791, 18, 43, "Input",ExpressionUUID->"35f76b00-7955-4654-a1b7-e1c27bd13cf0"],
+Cell[3158, 92, 547, 11, 22, "Print",ExpressionUUID->"0a2a3c3a-486d-4ddb-adfe-c5410199595b"]
+}, Open  ]],
+Cell[3720, 106, 502, 14, 78, "Input",ExpressionUUID->"dd501981-e334-434c-bc1a-04f3eced9f4c"],
+Cell[4225, 122, 615, 15, 43, "Input",ExpressionUUID->"d05eacc4-e32e-40c1-8cb0-2d8ece198137"],
+Cell[CellGroupData[{
+Cell[4865, 141, 283, 5, 43, "Input",ExpressionUUID->"835dc6a4-63a9-498d-9795-ad91a4952b25"],
+Cell[5151, 148, 651, 13, 28, "Message",ExpressionUUID->"f1b7685a-661b-42a4-ba18-005a0e07e542"]
+}, Open  ]],
+Cell[5817, 164, 1204, 31, 78, "Input",ExpressionUUID->"5eab5710-d915-435c-b762-bc17d03995f9"],
+Cell[7024, 197, 757, 16, 64, "Input",ExpressionUUID->"d2725cad-2217-4ba0-b908-c3d067a591e0"],
+Cell[CellGroupData[{
+Cell[7806, 217, 1476, 39, 149, "Input",ExpressionUUID->"b145ef0f-946c-41f9-a7d9-c67327d9fe6a"],
+Cell[9285, 258, 2410, 47, 159, "Output",ExpressionUUID->"38cc4c99-552a-4405-b6df-d1548ab9a36d"]
+}, Open  ]]
+}
+]
+*)
+
