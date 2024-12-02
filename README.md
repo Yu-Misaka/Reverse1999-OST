@@ -53,5 +53,5 @@ The model in `v2t` follows a different modality as it's a spine project. One can
 
 ## TO-DO
 
-- [x] Text extraction: Training the audio requires corresponding dialog script, which I don't konw where to find.
-- [x] Live2D motion: I didn't manage to make the model move as in the game - expressions and breath seem working though.
+- [ ] Text extraction: Training the audio requires corresponding dialog script, which I don't konw where to find.
+- [ ] Live2D motion: I didn't manage to make the model move as in the game - expressions and breath seem working though.
