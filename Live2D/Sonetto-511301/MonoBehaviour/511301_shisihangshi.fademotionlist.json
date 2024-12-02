@@ -1,0 +1,71 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -336124661684179107
+  },
+  "m_Name": "511301_shisihangshi.fademotionlist",
+  "MotionInstanceIds": [
+    -504426,
+    -504438,
+    -514696,
+    -514708,
+    -514716,
+    -514724,
+    -514732,
+    -514740,
+    -514748,
+    -514760,
+    -514768
+  ],
+  "CubismFadeMotionObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7399942238649153434
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5949590168677197247
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2048228794007073144
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5589477878799305885
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4663435309819906924
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3889592819454403975
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4319997073259568794
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 881672731034150808
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7302819434500568614
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8923271765848262396
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1270495369750123385
+    }
+  ]
+}

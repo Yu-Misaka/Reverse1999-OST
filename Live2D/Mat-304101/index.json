@@ -1,0 +1,99 @@
+{
+  "Version": 3,
+  "Type": 0,
+  "FileReferences": {
+    "Moc": "MonoBehaviour/304101_madierda.moc3",
+    "Textures": [
+      "Texture2D/304101_madierda_00.png",
+      "Texture2D/304101_madierda_01.png"
+    ],
+    "PhysicsV2": {},
+    "Expressions": [
+      {
+        "Name": "e_chijing",
+        "File": "MonoBehaviour/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_deyi",
+        "File": "MonoBehaviour/e_deyi.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "MonoBehaviour/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "MonoBehaviour/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_niupi",
+        "File": "MonoBehaviour/e_niupi.exp3.json"
+      },
+      {
+        "Name": "e_pofang",
+        "File": "MonoBehaviour/e_pofang.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "MonoBehaviour/e_shengqi.exp3.json"
+      }
+    ]
+  },
+  "Controllers": {
+    "ParamHit": {},
+    "ParamLoop": {},
+    "KeyTrigger": {},
+    "ParamTrigger": {},
+    "AreaTrigger": {},
+    "HandTrigger": {},
+    "EyeBlink": {
+      "MinInterval": 500,
+      "MaxInterval": 6000,
+      "Enabled": true
+    },
+    "LipSync": {
+      "Gain": 5.0,
+      "Items": [
+        {
+          "Id": "ParamMouthOpenY",
+          "Min": 0.0,
+          "Max": 1.0,
+          "Input": 0
+        }
+      ],
+      "Enabled": true
+    },
+    "MouseTracking": {
+      "SmoothTime": 0.15,
+      "Enabled": true
+    },
+    "AutoBreath": {
+      "Enabled": true
+    },
+    "ExtraMotion": {
+      "Enabled": true
+    },
+    "Accelerometer": {
+      "Enabled": true
+    },
+    "Microphone": {},
+    "Transform": {},
+    "FaceTracking": {
+      "Enabled": true
+    },
+    "HandTracking": {
+      "Enabled": true
+    },
+    "ParamValue": {},
+    "PartOpacity": {},
+    "ArtmeshOpacity": {},
+    "ArtmeshColor": {},
+    "ArtmeshCulling": {
+      "DefaultMode": 0
+    },
+    "IntimacySystem": {}
+  },
+  "Options": {
+    "TexType": 0
+  }
+}

@@ -1,0 +1,110 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      3464,        102]
+NotebookOptionsPosition[      2810,         84]
+NotebookOutlinePosition[      3234,        101]
+CellTagsIndexPosition[      3191,         98]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   RowBox[{"DirectoryName", "[", 
+    RowBox[{"NotebookDirectory", "[", "]"}], "]"}], "//", "SetDirectory"}], 
+  ";"}]], "Input",
+ GeneratedCell->False,
+ CellAutoOverwrite->False,
+ CellChangeTimes->{
+  3.8846668061918993`*^9, {3.9421307919864287`*^9, 3.942130801222593*^9}, {
+   3.9421364852351723`*^9, 
+   3.9421365064029274`*^9}},ExpressionUUID->"98e8ed72-0332-4c21-808c-\
+b00a0cd05789"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"files", "=", 
+   RowBox[{"Partition", "[", 
+    RowBox[{
+     RowBox[{"FileNames", "[", "]"}], ",", "5000"}], "]"}]}], ";"}]], "Input",
+ GeneratedCell->False,
+ CellAutoOverwrite->False,
+ CellChangeTimes->{
+  3.8846668061918993`*^9, {3.942130803791131*^9, 3.9421308284817953`*^9}},
+ CellLabel->"In[13]:=",ExpressionUUID->"5ff04ec9-775b-463a-9933-87bbd99365c5"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"fun", "=", 
+   RowBox[{"Function", "[", 
+    RowBox[{
+     RowBox[{"{", "i", "}"}], ",", "\[IndentingNewLine]", 
+     RowBox[{
+      RowBox[{"CreateDirectory", "[", 
+       RowBox[{"ToString", "@", "i"}], "]"}], ";", "\[IndentingNewLine]", 
+      RowBox[{
+       RowBox[{
+        RowBox[{"RenameFile", "[", 
+         RowBox[{"#", ",", 
+          RowBox[{
+           RowBox[{"ToString", "[", "i", "]"}], "<>", "\"\<\\\\\>\"", "<>", 
+           RowBox[{"FileNameTake", "[", "#", "]"}]}]}], "]"}], "&"}], "/@", 
+       RowBox[{"(", 
+        RowBox[{"files", "[", 
+         RowBox[{"[", "i", "]"}], "]"}], ")"}]}]}]}], "]"}]}], ";"}]], "Input",
+ GeneratedCell->False,
+ CellAutoOverwrite->False,
+ CellChangeTimes->{
+  3.8846668061918993`*^9, {3.9421310776317425`*^9, 3.942131160202694*^9}, {
+   3.9421312008791237`*^9, 3.9421312098670483`*^9}, 3.9421313296628246`*^9},
+ CellLabel->"In[14]:=",ExpressionUUID->"31950902-19c6-4b99-ae8e-1396e91e7a95"],
+
+Cell[BoxData[
+ RowBox[{"fun", "/@", 
+  RowBox[{"Range", "[", 
+   RowBox[{"Length", "@", "files"}], "]"}]}]], "Input",
+ GeneratedCell->False,
+ CellAutoOverwrite->False,
+ CellChangeTimes->{
+  3.8846668061918993`*^9, {3.9421311619134817`*^9, 3.942131168606803*^9}, {
+   3.94213123839668*^9, 3.9421312393847494`*^9}, {3.9421312695582595`*^9, 
+   3.942131279906442*^9}},
+ CellLabel->"In[15]:=",ExpressionUUID->"190fc390-de42-40a8-8734-281963df8469"]
+},
+WindowSize->{573.75, 630},
+WindowMargins->{{Automatic, 289.875}, {-22.875, Automatic}},
+FrontEndVersion->"13.3 for Microsoft Windows (64-bit) (2023\:5e746\:67083\
+\:65e5)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"ad45e4d8-ef41-4bc2-8e8e-ca864caaf21a"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 424, 12, 43, "Input",ExpressionUUID->"98e8ed72-0332-4c21-808c-b00a0cd05789"],
+Cell[985, 34, 394, 10, 43, "Input",ExpressionUUID->"5ff04ec9-775b-463a-9933-87bbd99365c5"],
+Cell[1382, 46, 977, 24, 135, "Input",ExpressionUUID->"31950902-19c6-4b99-ae8e-1396e91e7a95"],
+Cell[2362, 72, 444, 10, 43, "Input",ExpressionUUID->"190fc390-de42-40a8-8734-281963df8469"]
+}
+]
+*)
+

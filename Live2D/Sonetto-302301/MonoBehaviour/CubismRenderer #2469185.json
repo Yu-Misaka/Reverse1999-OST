@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3516962375605426275
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8122713887450802488
+  },
+  "m_Name": "",
+  "_localSortingOrder": 0,
+  "materialIndex": 0,
+  "textureIndex": 0,
+  "cubismMaterialIndex": 0,
+  "_color": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "_mainTexture": {
+    "m_FileID": 0,
+    "m_PathID": 2459222482331075151
+  },
+  "_bloomTexture": {
+    "m_FileID": 0,
+    "m_PathID": -142193720247119410
+  },
+  "effectBoue": 0,
+  "_sortingMode": 0,
+  "_sortingOrder": 0,
+  "_renderOrder": 43,
+  "_depthOffset": 0.001,
+  "_opacity": 1.0
+}

@@ -1,0 +1,72 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1745339943355440716
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2904075999694162863
+  },
+  "m_Name": "",
+  "Opacity": 1.0,
+  "_lastOpacity": 0.0,
+  "_sortingLayerId": 0,
+  "_sortingMode": 0,
+  "_sortingOrder": 0,
+  "CameraToFace": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_drawOrderHandler": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_opacityHandler": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_depthOffset": 0.001,
+  "_cubismMaterialsArr": [
+    {
+      "matIndex": 0,
+      "texIndex": 0,
+      "srcColor": 0,
+      "dstColor": 0,
+      "renderQueue": 0
+    },
+    {
+      "matIndex": 0,
+      "texIndex": 1,
+      "srcColor": 0,
+      "dstColor": 0,
+      "renderQueue": 0
+    }
+  ],
+  "materialsArr": [
+    {
+      "m_FileID": 1,
+      "m_PathID": 8808995859596260413
+    }
+  ],
+  "texturesArr": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1459866261843664056
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5919798480934681058
+    }
+  ],
+  "bloomMapArr": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4564143247011242575
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1907057824397100513
+    }
+  ]
+}

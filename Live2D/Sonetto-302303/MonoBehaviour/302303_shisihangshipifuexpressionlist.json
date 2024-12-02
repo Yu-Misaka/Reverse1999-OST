@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1876712833501918601
+  },
+  "m_Name": "302303_shisihangshipifuexpressionlist",
+  "CubismExpressionObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4904901042175376435
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 770728227491561318
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1693159781568642593
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6148384429705111623
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7960289754206983208
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9075670385039971181
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8367457928720593333
+    }
+  ]
+}

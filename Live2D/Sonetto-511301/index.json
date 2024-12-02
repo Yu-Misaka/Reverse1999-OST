@@ -1,0 +1,75 @@
+{
+  "Version": 3,
+  "Type": 0,
+  "FileReferences": {
+    "Moc": "MonoBehaviour/511301_shisihangshi.moc3",
+    "Textures": [
+      "Texture2D/511301_shisihangshi_00.png"
+    ],
+    "PhysicsV2": {},
+    "Expressions": [
+      {
+        "Name": "e_chijing",
+        "File": "MonoBehaviour/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "MonoBehaviour/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_kaixin",
+        "File": "MonoBehaviour/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "MonoBehaviour/e_nanguo.exp3.json"
+      }
+    ]
+  },
+  "Controllers": {
+    "ParamHit": {},
+    "ParamLoop": {},
+    "KeyTrigger": {},
+    "ParamTrigger": {},
+    "AreaTrigger": {},
+    "HandTrigger": {},
+    "EyeBlink": {
+      "MinInterval": 500,
+      "MaxInterval": 6000,
+      "Enabled": true
+    },
+    "LipSync": {
+      "Gain": 5.0
+    },
+    "MouseTracking": {
+      "SmoothTime": 0.15,
+      "Enabled": true
+    },
+    "AutoBreath": {
+      "Enabled": true
+    },
+    "ExtraMotion": {
+      "Enabled": true
+    },
+    "Accelerometer": {
+      "Enabled": true
+    },
+    "Microphone": {},
+    "Transform": {},
+    "FaceTracking": {
+      "Enabled": true
+    },
+    "HandTracking": {},
+    "ParamValue": {},
+    "PartOpacity": {},
+    "ArtmeshOpacity": {},
+    "ArtmeshColor": {},
+    "ArtmeshCulling": {
+      "DefaultMode": 0
+    },
+    "IntimacySystem": {}
+  },
+  "Options": {
+    "TexType": 0
+  }
+}

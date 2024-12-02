@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2807975693701348967
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6596835093899284457
+  },
+  "m_Name": "",
+  "CubismFadeMotionList": {
+    "m_FileID": 0,
+    "m_PathID": -614308638059255927
+  },
+  "alwaysFade": 0
+}
