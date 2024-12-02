@@ -19,13 +19,13 @@ I don't know how to control the export bitrate of "foobar2000" + "vgmstream" yet
 
 ### Live2D
 
-Decrypting Live2D involving handling huge amount of bundle files so I omit them in this repository. 
+Decrypting Live2D involves handling huge amount of bundle files so I omit them in this repository. 
 
 In short, setup a new directory, create a subfolder named `bundles`, and copy all files from `C:\Program Files (x86)\reverse1999_global\Reverse1999en\reverse1999_Data\StreamingAssets\PersistentRoot\bundles` and `C:\Program Files (x86)\reverse1999_global\Reverse1999en\reverse1999_Data\StreamingAssets\Windows\bundles` to `bundles`.
 
 Then copy `test.py` in `Decryption` to `bundles` - **`test.py` is written by [@66hh](https://github.com/66hh) in [1999decrypt](https://github.com/66hh/1999decrypt), go check the great work!**
 
-Run `test.py`, it should yield a new folder `bundles-decrypt` along with ~25000 decrypted files. Opening those files via "AssetStudio.net6.v0.16.47" requires around 48G of ram according to my observation. You can use `partition.nb` in `Decryption` to split them into 5 subfolders and unpack them one by one.
+Run `test.py`, it should yield a new folder `bundles-decrypt` along with ~25000 decrypted files. Opening those files via "AssetStudio.net6.v0.16.47" requires around 48G of ram according to my observation. You can use `partition.nb` in `Decryption` to split them into 5 subfolders and unpack them folder by folder.
 
 [this issue](https://github.com/66hh/1999decrypt/issues/6) provides clear guidance towards finally extract live2d models.
 
