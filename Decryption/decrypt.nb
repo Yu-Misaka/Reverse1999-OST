@@ -1,0 +1,137 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      4564,        129]
+NotebookOptionsPosition[      3916,        111]
+NotebookOutlinePosition[      4332,        128]
+CellTagsIndexPosition[      4289,        125]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"Clear", "[", "\"\<Global`*\>\"", "]"}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"NotebookDirectory", "[", "]"}], "//", "SetDirectory"}], 
+  ";"}]}], "Input",
+ GeneratedCell->False,
+ CellAutoOverwrite->False,
+ CellChangeTimes->{
+  3.8846668061918993`*^9, {3.9422185254837027`*^9, 3.942218576204384*^9}, {
+   3.942218618313936*^9, 3.942218777260378*^9}, {3.942218847327011*^9, 
+   3.9422189113588533`*^9}, {3.9422191807874203`*^9, 3.9422191817365932`*^9}},
+ CellLabel->"In[55]:=",ExpressionUUID->"06cb9bf2-0322-4b51-a457-885f4d4cefaa"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"decrypt", "[", "byteArray_", "]"}], ":=", 
+  RowBox[{"Module", "[", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{"normal", ",", "key", ",", "out"}], "}"}], ",", 
+    "\[IndentingNewLine]", 
+    RowBox[{
+     RowBox[{"normal", "=", 
+      RowBox[{"byteArray", "//", "Normal"}]}], ";", "\[IndentingNewLine]", 
+     RowBox[{"key", "=", 
+      RowBox[{
+       RowBox[{"normal", "[", 
+        RowBox[{"[", "1", "]"}], "]"}], "~", "BitXor", "~", 
+       RowBox[{"FromDigits", "[", 
+        RowBox[{"\"\<0x55\>\"", ",", "16"}], "]"}]}]}], ";", 
+     "\[IndentingNewLine]", 
+     RowBox[{"out", "=", 
+      RowBox[{"Piecewise", "[", 
+       RowBox[{
+        RowBox[{"{", 
+         RowBox[{"{", 
+          RowBox[{
+           RowBox[{"normal", "/.", 
+            RowBox[{"{", 
+             RowBox[{"x_", ":>", 
+              RowBox[{
+               RowBox[{"(", 
+                RowBox[{"x", "~", "BitXor", "~", "key"}], ")"}], "-", 
+               SuperscriptBox["2", "13"], "-", "256"}]}], "}"}]}], ",", 
+           RowBox[{"(", 
+            RowBox[{
+             RowBox[{
+              RowBox[{"normal", "[", 
+               RowBox[{"[", "2", "]"}], "]"}], "~", "BitXor", "~", "key"}], "==", 
+             RowBox[{"FromDigits", "[", 
+              RowBox[{"\"\<0x6e\>\"", ",", "16"}], "]"}]}], ")"}]}], "}"}], 
+         "}"}], ",", 
+        RowBox[{"{", "0", "}"}]}], "]"}]}], ";", "\[IndentingNewLine]", 
+     RowBox[{"ByteArray", "[", "out", "]"}]}]}], "]"}]}]], "Input",
+ CellLabel->"In[57]:=",ExpressionUUID->"9912742d-2523-4ebb-8396-3a027a2b8f92"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"process", "=", 
+   RowBox[{"file", "|->", 
+    RowBox[{"Export", "[", 
+     RowBox[{
+      RowBox[{"FileNameTake", "[", "file", "]"}], ",", 
+      RowBox[{"decrypt", "[", 
+       RowBox[{"ReadByteArray", "@", "file"}], "]"}], ",", "\"\<Byte\>\""}], 
+     "]"}]}]}], ";"}]], "Input",
+ GeneratedCell->False,
+ CellAutoOverwrite->False,
+ CellChangeTimes->{
+  3.8846668061918993`*^9, {3.942218833337771*^9, 3.942218844307467*^9}, {
+   3.9422189224464693`*^9, 3.9422189335613275`*^9}, {3.9422189732222705`*^9, 
+   3.9422190249889917`*^9}},
+ CellLabel->"In[58]:=",ExpressionUUID->"e35c55a2-c1ee-46ca-99df-c9a14b3f5c70"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"Parallelize", "[", 
+   RowBox[{"process", "/@", 
+    RowBox[{"FileNames", "[", 
+     RowBox[{"All", ",", "\"\<bundles\>\""}], "]"}]}], "]"}], ";"}]], "Input",
+ GeneratedCell->False,
+ CellAutoOverwrite->False,
+ CellChangeTimes->{
+  3.8846668061918993`*^9, {3.942218824785823*^9, 3.9422188264257126`*^9}, {
+   3.9422190288657928`*^9, 3.9422190886109543`*^9}, {3.9422192256381173`*^9, 
+   3.942219267036254*^9}},
+ CellLabel->"In[60]:=",ExpressionUUID->"07251a3b-47b3-4a66-8226-9f89d86659cf"]
+},
+WindowSize->{1190.25, 708.75},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
+FrontEndVersion->"13.3 for Microsoft Windows (64-bit) (2023\:5e746\:67083\
+\:65e5)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"47387f03-e1a9-4a52-9ddd-0a8d0d2d84cd"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 595, 14, 78, "Input",ExpressionUUID->"06cb9bf2-0322-4b51-a457-885f4d4cefaa"],
+Cell[1156, 36, 1580, 41, 192, "Input",ExpressionUUID->"9912742d-2523-4ebb-8396-3a027a2b8f92"],
+Cell[2739, 79, 647, 16, 43, "Input",ExpressionUUID->"e35c55a2-c1ee-46ca-99df-c9a14b3f5c70"],
+Cell[3389, 97, 523, 12, 43, "Input",ExpressionUUID->"07251a3b-47b3-4a66-8226-9f89d86659cf"]
+}
+]
+*)
+
