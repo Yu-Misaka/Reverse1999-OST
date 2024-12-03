@@ -6,6 +6,16 @@
 > [!CAUTION]
 > Only for personal use. Bluepoch Co.,Ltd. All Rights Reserved. 
 
+## Status
+
+| Resources | Character | Version | Remark |
+| :--------- | :------- | :---------- | :-------- |
+| Audio | Vertin | 1.9 | |
+| Audio | Sonetto | 1.9 | |
+| Live2D | Vertin | 1.9 | |
+| Live2D | Sonetto | 1.9 | 4 sets of clothes<br>Can't switch expression, no motion|
+| Live2D | Matilda | 1.9 | 3 sets of clothes<br>no motion|
+
 ## TO-DO
 
 - [ ] Text extraction: Training the audio requires corresponding dialog script, which I don't konw where to find.
