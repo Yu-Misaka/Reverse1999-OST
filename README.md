@@ -60,7 +60,7 @@ Decrypting Live2D involves handling huge amount of bundle files so I omit them i
 
 In short, setup a new directory, create a subfolder named `bundles`, and copy all files from `PersistentRoot\bundles` and `Windows\bundles` to `bundles`.
 
-Then copy `test.py` in `Decryption` to `bundles`. **`test.py` is written by [@66hh](https://github.com/66hh) in [1999decrypt](https://github.com/66hh/1999decrypt), go check the great work!**
+Then copy `test.py` in `Decryption` to the new directory - **this is written by [@66hh](https://github.com/66hh) in [1999decrypt](https://github.com/66hh/1999decrypt), go check that out!**
 
 Run `test.py`, it should yield a new folder `bundles-decrypt` along with ~25000 decrypted files. Opening those files via "AssetStudio.net6.v0.16.47" requires around 48G of ram according to my observation. `partition.nb` in `Decryption` splits them into 5 subfolders so you unpack them folder by folder - I don't think this is a proper method...
 
@@ -68,7 +68,7 @@ Run `test.py`, it should yield a new folder `bundles-decrypt` along with ~25000 
 
 Take Sonetto for example, search "shisi" (Chinese for Sonetto) using the filter in AssetStudio, select all with container looks like "Assets\ZResourcesLib\live2d\roles\", export them normally and in raw.
 
-Among the resulted subfolders, we'll use `302301_shisihangshi.dat` (around 1 MB) in `MonoBehaviour` and the two largest image in `Texture2D`. First open `302301_shisihangshi.dat` with hex editor, delete everything before `MOC3`, then rename it into `302301_shisihangshi.moc3`.
+Among the resulted subfolders, we'll use `302301_shisihangshi.dat` (around 1 MB) in `MonoBehaviour` and the two largest image in `Texture2D`. First open `302301_shisihangshi.dat` with hex editor, delete everything before "MOC3", then rename it into `302301_shisihangshi.moc3`.
 
 Next, create a file `index.json` that looks like
 ```
