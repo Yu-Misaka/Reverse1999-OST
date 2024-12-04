@@ -14,13 +14,14 @@
 | :--------- | :------- | :---------- | :-------- |
 | Audio | * | 1.9 | |
 | Image | * | 1.9 | |
+| Text | * | 1.9 | |
 | Live2D | Vertin | 1.9 | |
 | Live2D | Sonetto | 1.9 | no motion |
 | Live2D | Matilda | 1.9 | no motion |
 
 ## TO-DO
 
-- [ ] Text extraction: Training the audio requires corresponding dialog script, which I don't konw where to find.
+- [ ] Text extraction: Training the audio requires corresponding dialog script. I placed in `Text` some json files extracted from "Assets\ZResourcesLib\configs\story\", for sure they contain audio scripts, but I don't know how to link the scripts with the audio.
 - [ ] Live2D motion: I didn't manage to make the model move as in the game - expressions and breath seem working though.
 - [ ] Main hall Live2D: Haven't found the file.
 
