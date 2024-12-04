@@ -1,0 +1,25 @@
+{
+  "type": 9,
+  "controllers": {
+    "intimacy_system": {},
+    "slot_opacity": {},
+    "slot_color": {}
+  },
+  "options": {
+    "tex_type": 0,
+    "edge_padding": false,
+    "shader_type": 1
+  },
+  "skeleton": "511201_heipao.skel",
+  "atlases": [
+    {
+      "atlas": "511201_heipao.atlas",
+      "tex_names": [
+        "511201_heipao"
+      ],
+      "textures": [
+        "511201_heipao.png"
+      ]
+    }
+  ]
+}

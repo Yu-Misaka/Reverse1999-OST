@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "300101_zhujue_cg_atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 5036043003412636933
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 980829634732658705
+    }
+  ]
+}

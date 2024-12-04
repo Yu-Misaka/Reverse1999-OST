@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8409639290096416415
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6938409698251234290
+  },
+  "m_Name": "",
+  "m_Material": {
+    "m_FileID": 1,
+    "m_PathID": -6017173438950764991
+  },
+  "m_Color": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "m_RaycastTarget": 1,
+  "m_Maskable": 1,
+  "m_OnCullStateChanged": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "skeletonDataAsset": {
+    "m_FileID": 0,
+    "m_PathID": -3049627804699554220
+  },
+  "initialSkinName": "default",
+  "initialFlipX": 0,
+  "initialFlipY": 0,
+  "startingAnimation": "",
+  "startingLoop": 1,
+  "timeScale": 1.0,
+  "freeze": 0,
+  "unscaledTime": 0,
+  "allowMultipleCanvasRenderers": 0,
+  "canvasRenderers": [],
+  "separatorSlotNames": [],
+  "enableSeparatorSlots": 0,
+  "separatorParts": [],
+  "updateSeparatorPartLocation": 1,
+  "meshGenerator": {
+    "settings": {
+      "useClipping": 1,
+      "zSpacing": 0.0,
+      "pmaVertexColors": 0,
+      "tintBlack": 0,
+      "calculateTangents": 0,
+      "addNormals": 0,
+      "immutableTriangles": 0
+    }
+  }
+}

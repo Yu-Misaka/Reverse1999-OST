@@ -1,0 +1,25 @@
+{
+  "type": 9,
+  "controllers": {
+    "intimacy_system": {},
+    "slot_opacity": {},
+    "slot_color": {}
+  },
+  "options": {
+    "tex_type": 0,
+    "edge_padding": false,
+    "shader_type": 1
+  },
+  "skeleton": "300101_zhujue_cg.skel",
+  "atlases": [
+    {
+      "atlas": "300101_zhujue_cg.atlas",
+      "tex_names": [
+        "300101_zhujue_cg"
+      ],
+      "textures": [
+        "300101_zhujue_cg.png"
+      ]
+    }
+  ]
+}

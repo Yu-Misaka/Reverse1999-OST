@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8822609833123545425
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5249155263462082444
+  },
+  "m_Name": "",
+  "useLocalBloom": 1,
+  "isLowest": 0,
+  "isGrabFrameEffect": 0,
+  "isGrabFrameEffectPre": 0,
+  "isGrabFrameEffectPreStatic": 0,
+  "isEffectRTMask": 0,
+  "isEffectRTMaskUI": 0,
+  "roleEffectCtrls": [],
+  "isLargeRole": 0
+}
