@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     12358,        301]
-NotebookOptionsPosition[     11387,        278]
-NotebookOutlinePosition[     11803,        295]
-CellTagsIndexPosition[     11760,        292]
+NotebookDataLength[     13685,        336]
+NotebookOptionsPosition[     12525,        311]
+NotebookOutlinePosition[     12941,        328]
+CellTagsIndexPosition[     12898,        325]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -32,7 +32,7 @@ Cell[BoxData[{
  CellChangeTimes->{{3.942043535577486*^9, 3.9420435482495146`*^9}, 
    3.942043871660672*^9, {3.94204569126481*^9, 3.9420457132306986`*^9}, 
    3.9420519996008644`*^9},
- CellLabel->"In[4]:=",ExpressionUUID->"f2e34c32-96d9-4e46-a7cc-c849687c3591"],
+ CellLabel->"In[6]:=",ExpressionUUID->"f2e34c32-96d9-4e46-a7cc-c849687c3591"],
 
 Cell[BoxData[
  RowBox[{"(*", "\[IndentingNewLine]", 
@@ -220,6 +220,23 @@ $CellContext`list}];
 
 Cell[BoxData[
  RowBox[{
+  RowBox[{
+   RowBox[{"Import", "[", 
+    RowBox[{
+     RowBox[{"FileNames", "[", 
+      RowBox[{"All", ",", 
+       RowBox[{"Directory", "[", "]"}], ",", "Infinity"}], "]"}], "[", 
+     RowBox[{"[", "1", "]"}], "]"}], "]"}], ";"}], 
+  RowBox[{"(*", 
+   RowBox[{
+   "you", " ", "need", " ", "to", " ", "import", " ", "first", " ", "to", " ",
+     "activate", " ", "ffmpeg", " ", "support"}], "*)"}]}]], "Input",
+ CellChangeTimes->{{3.945124916262896*^9, 
+  3.9451249942025347`*^9}},ExpressionUUID->"51276187-f114-404c-b001-\
+709b95cad981"],
+
+Cell[BoxData[
+ RowBox[{
   RowBox[{"selectedFiles", "=", 
    RowBox[{
     RowBox[{"Select", "[", 
@@ -263,6 +280,22 @@ Cell[BoxData[
 
 Cell[BoxData[
  RowBox[{
+  RowBox[{"selectedFiles", "=", 
+   RowBox[{"Select", "[", 
+    RowBox[{
+     RowBox[{"FileNames", "[", 
+      RowBox[{"All", ",", 
+       RowBox[{"Directory", "[", "]"}], ",", "Infinity"}], "]"}], ",", 
+     RowBox[{
+      RowBox[{"StringContainsQ", "[", 
+       RowBox[{"#", ",", "\"\<3023\>\""}], "]"}], "&"}]}], "]"}]}], 
+  ";"}]], "Input",
+ CellChangeTimes->{{3.9451249050701127`*^9, 3.9451249074258413`*^9}, {
+  3.945124957690175*^9, 3.9451249583370447`*^9}},
+ CellLabel->"In[11]:=",ExpressionUUID->"3792a2ff-7ed2-491a-83f5-a807e973e20a"],
+
+Cell[BoxData[
+ RowBox[{
   RowBox[{
    RowBox[{
     RowBox[{"FileConvert", "[", 
@@ -274,7 +307,7 @@ Cell[BoxData[
      "]"}], "&"}], "/@", "selectedFiles"}], ";"}]], "Input",
  CellChangeTimes->{{3.9450715803269625`*^9, 3.945071656977592*^9}, {
   3.9450718708729057`*^9, 3.94507190785209*^9}},
- CellLabel->"In[9]:=",ExpressionUUID->"9b9347b6-e734-4b45-a71a-0ab7be1275b3"]
+ CellLabel->"In[12]:=",ExpressionUUID->"9b9347b6-e734-4b45-a71a-0ab7be1275b3"]
 },
 WindowSize->{1190.25, 708.75},
 WindowMargins->{{0, Automatic}, {Automatic, 0}},
@@ -300,9 +333,11 @@ Cell[CellGroupData[{
 Cell[2261, 64, 3142, 74, 143, "Input",ExpressionUUID->"b145ef0f-946c-41f9-a7d9-c67327d9fe6a"],
 Cell[5406, 140, 3862, 77, 1432, "Output",ExpressionUUID->"a0dad96e-d7fe-4b01-9dde-ca217a54f8f0"]
 }, Closed]],
-Cell[9283, 220, 951, 24, 74, "Input",ExpressionUUID->"61a59c8b-f34e-42e1-a1b8-20b0ac3074a6"],
-Cell[10237, 246, 592, 15, 28, "Input",ExpressionUUID->"192fe8bf-510c-4638-87c0-1fa1ecc9b4fc"],
-Cell[10832, 263, 551, 13, 43, "Input",ExpressionUUID->"9b9347b6-e734-4b45-a71a-0ab7be1275b3"]
+Cell[9283, 220, 563, 15, 39, "Input",ExpressionUUID->"51276187-f114-404c-b001-709b95cad981"],
+Cell[9849, 237, 951, 24, 78, "Input",ExpressionUUID->"61a59c8b-f34e-42e1-a1b8-20b0ac3074a6"],
+Cell[10803, 263, 592, 15, 28, "Input",ExpressionUUID->"192fe8bf-510c-4638-87c0-1fa1ecc9b4fc"],
+Cell[11398, 280, 568, 14, 43, "Input",ExpressionUUID->"3792a2ff-7ed2-491a-83f5-a807e973e20a"],
+Cell[11969, 296, 552, 13, 43, "Input",ExpressionUUID->"9b9347b6-e734-4b45-a71a-0ab7be1275b3"]
 }
 ]
 *)
