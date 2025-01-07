@@ -1,0 +1,1018 @@
+activityvoc_hero3023_1_6_shuori_2.wav|Timekeeper, you don't look very well. Are you all right?
+activityvoc_hero3023_1_6_shuori_3.wav|Oh, it's a letter from the Foundation. A colleague from the Russian branch was transferred to the headquarters today. She has shown a strong willingness to perform long-term field missions.
+activityvoc_hero3023_1_6_shuori_5.wav|Please hold on. Let me check her file here.
+activityvoc_hero3023_1_6_shuori_6.wav|Hmm? It's me, Sonetto.
+activityvoc_hero3023_1_6_shuori_7.wav|Thus, the headquarters intends to transfer her to the timekeeper squad. Would you have a meeting with her? It is said that she is experienced in geographical exploration and survival in the wilderness. She could be a great helper.
+activityvoc_hero3023_1_6_shuori_8.wav|Excuse me? Is Timekeeper in the room?
+activityvoc_hero3023_1_6_shuori_9.wav|May I come in? There is something I need to confirm with you.
+activityvoc_hero3023lvhu1_2_part01_1.wav|It may be a little abrupt to ask, but I was wondering if you would like to take a heritage train ride with me.
+activityvoc_hero3023lvhu1_2_part01_11.wav|That is to say, one gigantic critter inhabits here, if not more?
+activityvoc_hero3023lvhu1_2_part01_12.wav|Excellent! It's trapped!
+activityvoc_hero3023lvhu1_2_part01_13.wav|Not only the size, its strength and speed are also much enhanced from what we learned in the Arcane Creatures class. It took Miss Toothberry's velvet pocket. We have to bring it down before it's too late.
+activityvoc_hero3023lvhu1_2_part01_14.wav|It's moving too fast! I've never seen a critter this big!
+activityvoc_hero3023lvhu1_2_part01_15.wav|A mystery solved. No wonder I found the handwriting on the envelope familiar.
+activityvoc_hero3023lvhu1_2_part01_16.wav|Timekeeper, now that we have given the report,
+activityvoc_hero3023lvhu1_2_part01_18.wav|Kids were ignorant for lack of knowledge, yet adults were ignorant for their cognitive inertia. In a story where truth and falsity are mingled together, it is hard to tell which is which.
+activityvoc_hero3023lvhu1_2_part01_19.wav|My apologies. I didn't mean to intrude.
+activityvoc_hero3023lvhu1_2_part01_2.wav|This... this must be the camp...
+activityvoc_hero3023lvhu1_2_part01_20.wav|I'm so sorry, Miss Tooth Fairy. I shouldn't have asked.
+activityvoc_hero3023lvhu1_2_part01_21.wav|You... you're still alive?
+activityvoc_hero3023lvhu1_2_part01_22.wav|Okay, Mr. H-Huripedia, I've never heard of this nickname of yours.
+activityvoc_hero3023lvhu1_2_part01_23.wav|Worry not, miss. Please get behind. You're safe with us.
+activityvoc_hero3023lvhu1_2_part01_24.wav|And Madam Z said we won't have any other assignments for a while.
+activityvoc_hero3023lvhu1_2_part01_25.wav|What job? Do you mean...
+activityvoc_hero3023lvhu1_2_part01_27.wav|My god, what has happened here?
+activityvoc_hero3023lvhu1_2_part01_29.wav|I understand. They deserve a decent funeral. After I take care of this demonic creature...
+activityvoc_hero3023lvhu1_2_part01_3.wav|Iron buckets, felling axes, picnic mats. Considering we are in a campsite, it is only normal to expect these tools to be here. Hmm. What is this?
+activityvoc_hero3023lvhu1_2_part01_30.wav|Something is buried in the ground. Right here.
+activityvoc_hero3023lvhu1_2_part01_33.wav|dilated pupils, disordered speech, and a body temperature of three degrees higher than the normal level. Presumably, he has taken some stimulants or substandard potions.
+activityvoc_hero3023lvhu1_2_part01_34.wav|Thank you for the kind reminder.
+activityvoc_hero3023lvhu1_2_part01_5.wav|As a result, they neglected what they can't comprehend and only learned the story from a one-sided perspective. Soon enough, rumors started to spread.
+activityvoc_hero3023lvhu1_2_part01_7.wav|Are those little winged elves still nagging you? I remember you were troubled by them as early as I was in school.
+activityvoc_hero3023lvhu1_2_part01_8.wav|These things have been left here catching dust, and I see no footprints or any signs of activity. Seems like it has been deserted for a long time.
+activityvoc_hero3023lvhu1_2_part01_9.wav|Mr. Campbell? Who is this person and what happened to him?
+activityvoc_hero3023lvhu1_2_part02_1.wav|What on earth is happening?
+activityvoc_hero3023lvhu1_2_part02_10.wav|Blonnie! Watch out for the critters!
+activityvoc_hero3023lvhu1_2_part02_11.wav|This is Miss Toothberry singing.
+activityvoc_hero3023lvhu1_2_part02_12.wav|Activate the trap. Prepare to engage.
+activityvoc_hero3023lvhu1_2_part02_13.wav|I have just given you first aid for the wounds. For now, we will have to wait for Miss Tooth Fairy to administrate a thorough treatment when she comes back.
+activityvoc_hero3023lvhu1_2_part02_14.wav|Blonnie... Timekeeper...
+activityvoc_hero3023lvhu1_2_part02_15.wav|But you were vomiting blood, and that gentleman over there doesn't even have a head attached to his body.
+activityvoc_hero3023lvhu1_2_part02_17.wav|Timekeeper? Please, come and take a look at this.
+activityvoc_hero3023lvhu1_2_part02_18.wav|Blani, it is okay to rest on the chair over there if you're feeling fatigued. Leave this to me.
+activityvoc_hero3023lvhu1_2_part02_19.wav|I see. Have you also done a lot of research about this genre?
+activityvoc_hero3023lvhu1_2_part02_2.wav|Not good. The water is too cold. I got a cramp.
+activityvoc_hero3023lvhu1_2_part02_20.wav|"'I'm terribly sorry for what you're going through, but this is not the typical kind of treatment that we used to receive from her.'
+activityvoc_hero3023lvhu1_2_part02_21.wav|This is nothing compared to the training I received in the Foundation.
+activityvoc_hero3023lvhu1_2_part02_22.wav|A boat? Is this Blowney's?
+activityvoc_hero3023lvhu1_2_part02_23.wav|Bloody! The ghost bride took her down. We need to help her!
+activityvoc_hero3023lvhu1_2_part02_24.wav|Good. That'd make another trap. The cabin is more safely secured now.
+activityvoc_hero3023lvhu1_2_part02_25.wav|Now, take these boards to the east side of the house. We need to have that direction covered as well.
+activityvoc_hero3023lvhu1_2_part02_26.wav|Crashed on the edge of the woods? What do you mean?
+activityvoc_hero3023lvhu1_2_part02_27.wav|Blonnie, please stay still. We're coming for you.
+activityvoc_hero3023lvhu1_2_part02_28.wav|Don't worry. She's very professional and skillful. You won't feel any pain in the process.
+activityvoc_hero3023lvhu1_2_part02_29.wav|She would ask us to take the tooth fairies, that is, those golden elves in the glass jar.
+activityvoc_hero3023lvhu1_2_part02_3.wav|The rain has healed its wounds. It's getting stronger and harder to deal with.
+activityvoc_hero3023lvhu1_2_part02_30.wav|St. Pavlov Foundation is an official institution that takes in and organizes arcanists and
+activityvoc_hero3023lvhu1_2_part02_31.wav|If what Mr. Horipedia has said is true, it's dangerous for us to split up. The three of us should stay together.
+activityvoc_hero3023lvhu1_2_part02_32.wav|Lonnie, you're awake.
+activityvoc_hero3023lvhu1_2_part02_33.wav|Miss Tooth Fairy, you're back. Where is Michael?
+activityvoc_hero3023lvhu1_2_part02_34.wav|Huh? Timekeeper? She's back?
+activityvoc_hero3023lvhu1_2_part02_35.wav|This is good. Blonnie seems to be more relaxed now. She smiles a lot more as well.
+activityvoc_hero3023lvhu1_2_part02_4.wav|Miss Tooth Fairy, please wait.
+activityvoc_hero3023lvhu1_2_part02_6.wav|Uh, yes. And it actually tastes pretty nice. Like mint and flavored dried plum. It's… it just looks a bit unconventional.
+activityvoc_hero3023lvhu1_2_part02_8.wav|They are effective in treating toothache and other oral diseases, but also can be used to reduce inflammation, stimulates wound healing, and relieve headaches.
+activityvoc_hero3023lvhu1_2_part02_9.wav|Keep... keep things from the instructors? Did you do this a lot?
+activityvoc_hero3023lvhu1_2_part03_1.wav|Miss Tooth Fairy, behind you!
+activityvoc_hero3023lvhu1_2_part03_10.wav|We are very close to shore. Mr. Horopedia, we can slow down. Watch out for the critters!
+activityvoc_hero3023lvhu1_2_part03_11.wav|However we decide to do this, it's always better to take action before our enemy does.
+activityvoc_hero3023lvhu1_2_part03_12.wav|I did some research on Green Lake campsite after piecing together the map.
+activityvoc_hero3023lvhu1_2_part03_13.wav|The lock has been broken. Those are bite marks from small critters. They might have nested inside.
+activityvoc_hero3023lvhu1_2_part03_14.wav|I see. So it's not true. Just a made-up story. Miss Tooth Fairy! Did you come back from the trip?
+activityvoc_hero3023lvhu1_2_part03_15.wav|Mr. Horrorpedia is not a bad person. He's just a bit... unconventional.
+activityvoc_hero3023lvhu1_2_part03_16.wav|Time... Timekeeper!
+activityvoc_hero3023lvhu1_2_part03_17.wav|It was the map of one of the training bases of Zeno. They used to train their youth force there in the early 60s and deserted that base in the early 70s.
+activityvoc_hero3023lvhu1_2_part03_18.wav|To your right, by the corner of the stairway, there are three... No, at least three of them.
+activityvoc_hero3023lvhu1_2_part03_19.wav|Not good. The critters are coming around again.
+activityvoc_hero3023lvhu1_2_part03_2.wav|Human subject research? Political parties? Pardon me, I don't follow you.
+activityvoc_hero3023lvhu1_2_part03_20.wav|But as you just said, in their own training base, it's almost impossible for the youth force to be...
+activityvoc_hero3023lvhu1_2_part03_21.wav|Maybe it has underground cables, or it's powered by some generation sets left by Zeno. Wait. Stop here.
+activityvoc_hero3023lvhu1_2_part03_22.wav|A risky strategy, but could be equally beneficial.
+activityvoc_hero3023lvhu1_2_part03_23.wav|He was the one who received the Outstanding Contribution Award in the latest annual appraisal. Allow me to introduce...
+activityvoc_hero3023lvhu1_2_part03_24.wav|This is not good. It's too dark out here. Hardly visible.
+activityvoc_hero3023lvhu1_2_part03_26.wav|Michael must have driven out of here, but how did Blonnie disappear in the blink of an eye?
+activityvoc_hero3023lvhu1_2_part03_28.wav|I know, I- I was just a bit caught off guard. It has never come to my mind that such a bizarre event would take place within an official institution.
+activityvoc_hero3023lvhu1_2_part03_29.wav|We will never do harm to any human. It's strictly stipulated.
+activityvoc_hero3023lvhu1_2_part03_3.wav|My friends and I work for them. We will try our best to keep everyone here safe.
+activityvoc_hero3023lvhu1_2_part03_30.wav|Timekeeper, the critters in the water are attacking the lighthouse. We are about to fall. Please be-
+activityvoc_hero3023lvhu1_2_part03_32.wav|We have found every piece of information we can. We can start cross-examining them any minute.
+activityvoc_hero3023lvhu1_2_part03_33.wav|Timekeeper? Miss Toothberry? Are you alright?
+activityvoc_hero3023lvhu1_2_part03_34.wav|But wasn't it a story? A story made up by Mr. Horopedia?
+activityvoc_hero3023lvhu1_2_part03_36.wav|Attracted? Pardon me, Jo- Mr. Horropedia, we did not plan to go there, and we certainly do not feel any strong attraction to that place.
+activityvoc_hero3023lvhu1_2_part03_38.wav|Is everyone okay? Did somebody get hurt? Timekeeper, you...
+activityvoc_hero3023lvhu1_2_part03_4.wav|It had been under use even before it was abandoned. It was more of a Boy Scout camping site than a military training base.
+activityvoc_hero3023lvhu1_2_part03_5.wav|Her wounds are healing, and I sense her Arcanum is getting stronger. We need to leave now, Timekeeper.
+activityvoc_hero3023lvhu1_2_part03_6.wav|Don't worry, Timekeeper. Although his manner is debatable, he's not a bad person.
+activityvoc_hero3023lvhu1_2_part03_7.wav|Great! Timekeeper and Anne! You're here!
+activityvoc_hero3023lvhu1_2_part03_9.wav|Timekeeper... Faked her illness? Ah, and that also explains her toffees.
+guide3023_1.wav|Turn your eyes on me and listen to my incantation. Witness my ultimate.
+guide3023_10.wav|Well, time to change my strategy.
+guide3023_11.wav|That's quite a lot of critters. Timekeeper, we must do something to turn things around now.
+guide3023_12.wav|Use an incantation that is strong against the enemies of Fletas to defeat them more quickly. You can take it from here, Timekeeper.
+guide3023_13.wav|Timekeeper, we need to go one step further. Observe, meditate, and create stronger incantations.
+guide3023_14.wav|We can now summon the ritual timekeeper.
+guide3023_16.wav|Our AP is invaluable. Moving incantations will cost AP as well.
+guide3023_17.wav|Tap again to select an incantation.
+guide3023_18.wav|You must play the cards right based on the situation. You've been pretty good at that.
+guide3023_19.wav|The enemies are attacking. We are counting on you, Timekeeper.
+guide3023_2.wav|I can see further and hear better. I can now summon a stronger ritual capable of unveiling the useless facades.
+guide3023_20.wav|Well done. I knew it. You're gifted as a commander.
+guide3023_21.wav|Tap to select an incantation and summon its ritual.
+guide3023_22.wav|We did it! We broke out of the enemy's encirclement!
+guide3023_23.wav|It shows the incantations that have been generated here.
+guide3023_24.wav|Timekeeper, the drunks are getting close. We await your instruction.
+guide3023_25.wav|Timekeeper, allow me to go through the basic principles and deployment method of Arcanum Battle again.
+guide3023_26.wav|We're now fully prepared to face the enemy.
+guide3023_27.wav|Timekeeper, this is our chance.
+guide3023_28.wav|Tap on a proper incantation to link the neighboring ones and improve its power.
+guide3023_29.wav|Observations of the minerals, plants, stars, and beasts, as well as our experiences with the spirit and intelligence, let us better understand our own existence.
+guide3023_3.wav|Select a proper target for me, timekeeper.
+guide3023_31.wav|Remember what the instructor said in class? Aflatus is a way to hunt in the world.
+guide3023_32.wav|Thank you for your decisiveness, Timekeeper.
+guide3023_4.wav|Do not worry, Timekeeper. I now have enough moxie.
+guide3023_5.wav|Do not worry, timekeeper. I will keep things in check.
+guide3023_6.wav|It shows our action points here. Choosing an incantation consumes one AP. When you are done choosing, the ritual shall begin.
+guide3023_8.wav|Tap and hold an incantation to check details of this arcane skill.
+guide3023_9.wav|Look, it shows the star levels of the incantations here.
+hero3023_activitystory_lvhu_13.wav|This is fantastic.
+hero3023_activitystory_lvhu_15.wav|This is a very, very inspiring creation.
+hero3023_activitystory_lvhu_16.wav|I'm... not sure.
+hero3023_activitystory_lvhu_3.wav|Little... Puppy.
+hero3023_level_gudu1_9_1.wav|Timekeeper, the enemy's ritual has altered the environment. Please be careful.
+hero3023_level_gudu1_9_2.wav|Timekeeper, the first preparation stage is complete.
+hero3023_level_gudu1_9_4.wav|Timekeeper, please allow me to assist you.
+hero3023_level_gudu1_9_5.wav|I will not allow the tragedy in Chicago to happen again. Timekeeper, it's time I showed you what my training's been for.
+hero3023_level_gudu1_9_6.wav|The creature is defeated and Arcana has emerged once again. Timekeeper, stage 2 is complete.
+hero3023_level_gudu1_9_7.wav|Timekeeper, there's a gigantic creature emerging from the portal. We must complete stage two as soon as possible.
+hero3023_level_gudu1_9_8.wav|Timekeeper! Arcana has disappeared, and monsters are pouring out of the portal she created!
+hero3023_level_gudu1_9_9.wav|Timekeeper, I've defeated the enemy. Beginning preparations now.
+hero3023_mainstory_6.wav|Timekeeper? Timekeeper!
+hero3023_skill_11.wav|Sempre caro mi fu querstermo co le.
+hero3023_skill_13.wav|I agree, Miss Tooth Fairy.
+hero3023_skill_15.wav|you
+hero3023_skill_16.wav|This place has brought me so many things. Freedom, fresh knowledge, brave friends. How can I ever repay you? I want to be of help to you at any time.
+hero3023_skill_19.wav|I know the moon, and this is an alien city.
+hero3023_skill_20.wav|.
+hero3023_skill_23.wav|So long lives this, and this gives power to thee.
+hero3023_skill_3.wav|La ringrazio. I will make good use of this power.
+hero3023_skill_30.wav|Please take this note, Timekeeper. I'm looking forward to your deduction.
+hero3023_skill_32.wav|The words written on this love letter are smudged by rain. I wish I could read them.
+hero3023_skill_33.wav|Just as what's been practiced countless times.
+hero3023_skill_35.wav|I will pray for you. Sorry.
+hero3023_skill_36.wav|Regia sereno intenso ad infinito.
+hero3023_skill_37.wav|you
+hero3023_skill_39.wav|.
+hero3023_skill_4.wav|Each moment, now night.
+hero3023_skill_5.wav|Depict the world I have never seen before.
+hero3023_skill_9.wav|May the peace be with us.
+illusion_hero3023_1_9_gudu_1.wav|Wait! Perhaps a more impromptu debate? I have some fresh ideas about our past discussions. Could I trouble you to help me refine them?
+illusion_hero3023_1_9_gudu_2.wav|Perhaps we might go somewhere quiet. I wanted to speak with you about linear regression.
+illusion_hero3023_1_9_gudu_3.wav|Timekeeper, are you leaving the banquet?
+illusion_hero3023_1_9_gudu_4.wav|The storm is gone. We have time to enjoy life again. You don't have to keep checking your watch or your task list anymore.
+mianvoc_hero3023_1.wav|Timekeeper? Timekeeper? Are you asleep? Okay. Please have a good rest. Where is the blanket? Hmm. Cover yourself and you won't catch a cold.
+mianvoc_hero3023_10.wav|The verses to release arcane skills are not easy to find. They must be full of passion and well-timed and can only be found with luck. However, if I know a poet, maybe things will be much easier.
+mianvoc_hero3023_11.wav|Horizon, the boundary of heaven and earth that may or may not intersect with the earth's surface. Useful to measure the radio waves and useful to make people feel better.
+mianvoc_hero3023_12.wav|The lake is overflowing. It's cold, just like a flowing line. Wait, where am I?
+mianvoc_hero3023_13.wav|Good morning. Here's the newspaper today. Huh? Why are my fingers black? Stained with ink? How come? I've just touched it.
+mianvoc_hero3023_14.wav|It is said that the world I write down is just my imagination. But how can I get closer to the reality? What is the boundary between them?
+mianvoc_hero3023_15.wav|Emotionally stable and responsible. Well planned and capable. Gentle, decisive and beautiful. Huh? What's going on? Timekeeper? Why is your face covered in your hands?
+mianvoc_hero3023_16.wav|Here's the newspaper from yesterday. The bridge. Can we go there? It looks really beautiful.
+mianvoc_hero3023_17.wav|Sometimes I think about the time when we studied together. The instructor made us desk mates, and your pockets were always alive with frogs, stones, and toffees.
+mianvoc_hero3023_18.wav|Greetings. Today your shirt matches the color of your eyes very well.
+mianvoc_hero3023_2.wav|I hope that in the future I can also contribute to the well-being of mankind. However, it would be better to have more missions.
+mianvoc_hero3023_3.wav|Did you do something amazing just now? Well, you don't need to explain to me. I can imagine it.
+mianvoc_hero3023_4.wav|Good morning! Today I read a news story on the Italian cheek-kissing greeting. Uh, I mean, it would be great if we can practice it.
+mianvoc_hero3023_5.wav|The joke on November the 7th? I seem to have read it somewhere. Ah, it was on the issue of February the 29th. Report! I found a typographical error.
+mianvoc_hero3023_6.wav|Order is more important than opinion. I was taught in this way.
+mianvoc_hero3023_7.wav|Is it really okay doing nothing like this? I mean, when I was at the Foundation, there had never been such a tranquil night. Thank you for teaching me all these things.
+mianvoc_hero3023_8.wav|The Foundation has provided me with much help, including food, uniforms, education, and goals.
+mianvoc_hero3023_9.wav|These newspapers, please please do not throw them away until I finish reading.
+plotvoc_hero3023chapter0_1.wav|Predicting the enemy's movement mid-teleportation, you're even more perceptive than I thought.
+plotvoc_hero3023chapter0_10.wav|The effects of the misty bubble ball only last so long. She can't have gotten far.
+plotvoc_hero3023chapter0_11.wav|Express gratitude, salute, and see them off. Never disturb the lives of the registrants.
+plotvoc_hero3023chapter0_13.wav|But thank goodness you're awake now. There's no time to spare.
+plotvoc_hero3023chapter0_14.wav|That was close. We finally got rid of them.
+plotvoc_hero3023chapter0_15.wav|A portable floppy disk containing the arcane skill teleport. I used one just now to bring you here.
+plotvoc_hero3023chapter0_17.wav|I didn't. It's all thanks to the timekeeper.
+plotvoc_hero3023chapter0_18.wav|I've never known a person more perceptive in the arts of Arcanum than you. And...
+plotvoc_hero3023chapter0_19.wav|We are investigators from the St. Pavlov Foundation. As far as we are aware, you have not registered for the Arcanum license.
+plotvoc_hero3023chapter0_2.wav|Thank you very much for your support, Timekeeper.
+plotvoc_hero3023chapter0_20.wav|Unauthorized use of Arcanum is a violation of the public security law. You are required to cooperate with our investigation and registration process.
+plotvoc_hero3023chapter0_22.wav|It was rushed, the ritual wasn't ready, and you fell into a coma.
+plotvoc_hero3023chapter0_23.wav|Envision the destination, speak its name, and the teleport ritual will begin.
+plotvoc_hero3023chapter0_24.wav|Please hand me the floppy disk, Regulus. I'll start the ritual.
+plotvoc_hero3023chapter0_26.wav|Ahem. They're still under experimentation, so they're not entirely stable. Madam Z only gave me three.
+plotvoc_hero3023chapter0_27.wav|I... I'm not qualified. Thus far, you are the only one who can move freely during the storm.
+plotvoc_hero3023chapter0_28.wav|Manus Vindicte has been silent for some time. Why are there so many of them now?
+plotvoc_hero3023chapter0_29.wav|Somewhere safe. We won't hurt you.
+plotvoc_hero3023chapter0_3.wav|Are you coming with me? I thought you would leave after we defeated those Manus Vindicte. Ah, thank you.
+plotvoc_hero3023chapter0_30.wav|Regulus, will you cooperate or not? I need your answer.
+plotvoc_hero3023chapter0_31.wav|The Hero Pickles. This is...
+plotvoc_hero3023chapter0_32.wav|Just come back with us to the research center and...
+plotvoc_hero3023chapter0_33.wav|I'm Himmel Vaxelman the Boonen Builder.
+plotvoc_hero3023chapter0_35.wav|T-timekeeper.
+plotvoc_hero3023chapter0_37.wav|Timekeeper, I formally request your aid. We must rescue the investigators, complete the registration of Regulus, and return to the research center before the arrival of the storm.
+plotvoc_hero3023chapter0_38.wav|I'm just curious. I'll throw it away when I've finished. Please don't think too much of it.
+plotvoc_hero3023chapter0_39.wav|I just need you by my side to guide me.
+plotvoc_hero3023chapter0_4.wav|Landed. Good. They landed safely.
+plotvoc_hero3023chapter0_40.wav|According to the field mission evacuation instructions, we can request your aid within 24 hours of the storm.
+plotvoc_hero3023chapter0_41.wav|This is the last one. Let's take Regulus back.
+plotvoc_hero3023chapter0_43.wav|The mission... we've... failed?
+plotvoc_hero3023chapter0_44.wav|Unfortunately, she's now being pursued by Manus Vindictae.
+plotvoc_hero3023chapter0_47.wav|That's right. I heard you're a fan of technology.
+plotvoc_hero3023chapter0_49.wav|Hmm? Regulus? Where is she?
+plotvoc_hero3023chapter0_5.wav|At least... Let me search these stores again.
+plotvoc_hero3023chapter0_51.wav|I shouldn't have sent the backup request so hastily. The ritual wasn't ready.
+plotvoc_hero3023chapter0_53.wav|I'm not finished yet. Stand up and continue the fight.
+plotvoc_hero3023chapter0_55.wav|I... I'll take a copy, please.
+plotvoc_hero3023chapter0_56.wav|Two days ago, we met heavy resistance on our mission to register Regulus. She's even captured two of our investigators.
+plotvoc_hero3023chapter0_58.wav|But if everything goes well, they'll save us a lot of time.
+plotvoc_hero3023chapter0_59.wav|Please use this. It'll send us directly to our destination.
+plotvoc_hero3023chapter0_6.wav|Of course. Timekeeper, I must offer you my deepest apologies.
+plotvoc_hero3023chapter0_60.wav|Let's get a move on. Time is of the essence.
+plotvoc_hero3023chapter0_61.wav|Oh, now I understand. She's using an optical arcane skill to make herself invisible.
+plotvoc_hero3023chapter0_62.wav|Timekeeper, any progress on your end?
+plotvoc_hero3023chapter0_63.wav|I was careless, but we should be fine.
+plotvoc_hero3023chapter0_65.wav|Battersea Park. Chelsea is across the river.
+plotvoc_hero3023chapter0_66.wav|Ascolta. Capire. Pregare. Perdonare.
+plotvoc_hero3023chapter0_67.wav|I sent the backup request without authorization, and you were teleported here.
+plotvoc_hero3023chapter0_68.wav|You're shaking your head. That means...
+plotvoc_hero3023chapter0_7.wav|I know. You don't have to fight, Miss Burton.
+plotvoc_hero3023chapter0_71.wav|Please allow me to report and request backup.
+plotvoc_hero3023chapter0_73.wav|You return to the Foundation and make the report. As Chief Investigator, I will stay until the last moment.
+plotvoc_hero3023chapter0_74.wav|Kaspita, those rioters are still after them. At this rate...
+plotvoc_hero3023chapter0_8.wav|We've got some distance from them for now.
+plotvoc_hero3023chapter0_9.wav|I should go. I have to go back.
+plotvoc_hero3023chapter1_1.wav|Although this is different from all the missions before.
+plotvoc_hero3023chapter1_10.wav|However, you need to go to the Foundation and the Scientific Computing Center first to complete the registration process.
+plotvoc_hero3023chapter1_11.wav|For anything that may cost others' lives, I want to be as cautious as possible. What if...
+plotvoc_hero3023chapter1_13.wav|Vertan, don't just stand there. Talk to them. Explain that.
+plotvoc_hero3023chapter1_14.wav|It is... Regulus's voice? Why is her voice coming from above?
+plotvoc_hero3023chapter1_15.wav|Skin damage, less than or equal to 5 millimeters. No visceral damage or sci-cube fluctuation found for the moment. Conclusion, the injuries meet the requirements of Emergency Defense Code of St. Pavlov Foundation.
+plotvoc_hero3023chapter1_16.wav|I did not expect that you would just summon me. In the future, if possible, I hope you could show me the incantation. I would also like to learn it.
+plotvoc_hero3023chapter1_18.wav|Timekeeper? Yes. Uh, um, I'm just thinking about how to find you.
+plotvoc_hero3023chapter1_19.wav|This is also the reason why we need to stop the next tragedy. For the peace of all mankind.
+plotvoc_hero3023chapter1_2.wav|So this is the distance from the entrance to the wall, and here should also be marked...
+plotvoc_hero3023chapter1_21.wav|The authorities would probably want us to recruit new arcanists for the Foundation as much as possible.
+plotvoc_hero3023chapter1_23.wav|Really? I seem to feel nothing. It's actually kind of warm compared to our routine training at low temperatures.
+plotvoc_hero3023chapter1_24.wav|No, never mind. I'm not worried about my own life. I'm just...
+plotvoc_hero3023chapter1_25.wav|May I ask where is this place?
+plotvoc_hero3023chapter1_27.wav|The mission is in the underground parking at number 2122 Lincoln Park Street, two blocks away from us. We still have plenty of time.
+plotvoc_hero3023chapter1_29.wav|Did you use the advanced arcane skill, Alferoi Around, number 00026260310008, to send me over?
+plotvoc_hero3023chapter1_30.wav|How come? I did not. And I will definitely wash my hands after eating.
+plotvoc_hero3023chapter1_31.wav|No, it should not be this.
+plotvoc_hero3023chapter1_32.wav|Maybe. That's just...
+plotvoc_hero3023chapter1_33.wav|I did not expect that there is such a big place in your suitcase. I never knew it before.
+plotvoc_hero3023chapter1_35.wav|I heard that you caught... No, you gained the trust of Regulus.
+plotvoc_hero3023chapter1_36.wav|Don't let them wander around. It's too dangerous here. The gang fight will definitely hurt them.
+plotvoc_hero3023chapter1_37.wav|As timekeeper, you've always carried such a secret for us. Thank you.
+plotvoc_hero3023chapter1_38.wav|When I returned to the research center, the committee informed me that Regulus would join the foundation as our colleague.
+plotvoc_hero3023chapter1_39.wav|The outside world is very different from what I thought.
+plotvoc_hero3023chapter1_4.wav|Yes, I reconstruct it to actual scale. In this way, I can calculate the position that can provide cover without hindering us from joining the battle in time.
+plotvoc_hero3023chapter1_41.wav|Um, I am also a bit like quite dizzy.
+plotvoc_hero3023chapter1_42.wav|Could I talk to you for a second, Timekeeper?
+plotvoc_hero3023chapter1_43.wav|We need to rescue the victims before human gangsters arrive at the underground parking.
+plotvoc_hero3023chapter1_44.wav|It doesn't conflict with the Foundation's purpose, right? Preventing confrontations between two races is also a way to defend the peace of mankind.
+plotvoc_hero3023chapter1_45.wav|S-sorry, I got carried away.
+plotvoc_hero3023chapter1_46.wav|What? No, no, no. The Foundation is definitely not a place for serious old men.
+plotvoc_hero3023chapter1_47.wav|You're right. I'm very happy to be invited over.
+plotvoc_hero3023chapter1_48.wav|Regulus, she... Hmm. She seems to be asleep. Well...
+plotvoc_hero3023chapter1_50.wav|Can... could we go there by bus?
+plotvoc_hero3023chapter1_51.wav|Madam Z is right. She said Regulus was with you.
+plotvoc_hero3023chapter1_54.wav|As an Arcanist Talent Rated S, we will provide you with the best equipment for scientific research.
+plotvoc_hero3023chapter1_55.wav|Timekeeper, you made it!
+plotvoc_hero3023chapter1_57.wav|The... that's where Vertan and I grew up. And there are many other interesting people like us. Ahem! Young people!
+plotvoc_hero3023chapter1_59.wav|According to the intelligence, now it's still one hour before the incident. Hmm.
+plotvoc_hero3023chapter1_6.wav|Regulus, we are very glad to have you.
+plotvoc_hero3023chapter1_60.wav|Gunshots? Wha-? But the Arcanists haven't got here!
+plotvoc_hero3023chapter1_61.wav|The committee recommended me to help you as the chief assistant.
+plotvoc_hero3023chapter1_62.wav|The scope of your responsibilities has also increased. You will be in charge of all the investigations on the storm and Manus Vindictae. The authorities will provide us with assistance in all aspects.
+plotvoc_hero3023chapter1_64.wav|According to the latest historical intelligence, there will be a massacre against Arcanus in Chicago on February 14.
+plotvoc_hero3023chapter1_7.wav|I am here to convey the committee's commendation and your next mission.
+plotvoc_hero3023chapter1_8.wav|I will definitely make an application to the administration.
+plotvoc_hero3023chapter1_9.wav|Sigh
+plotvoc_hero3023chapter1_att_1.wav|The liquid flowing out of the wall, it's a mixture of human blood and vomitus.
+plotvoc_hero3023chapter1_att_10.wav|Kill... He killed himself?
+plotvoc_hero3023chapter1_att_12.wav|The overall area of this secret chamber is not too big, but many obstacles here can move. It's easy to get lost.
+plotvoc_hero3023chapter1_att_13.wav|Timekeeper! The wall is falling down!
+plotvoc_hero3023chapter1_att_16.wav|According to my calculation, that's the closest position to the edge of the woods.
+plotvoc_hero3023chapter1_att_17.wav|Uh, what are you... Wait a minute...
+plotvoc_hero3023chapter1_att_18.wav|I got you. Please stand behind us. I will escort you to somewhere safe...
+plotvoc_hero3023chapter1_att_19.wav|Miss Sotheby, you seem to know the Walden better. Please lead the way.
+plotvoc_hero3023chapter1_att_2.wav|Hmm, looks like it has been through a huge fire.
+plotvoc_hero3023chapter1_att_20.wav|Caspita. The crash just now awakened the critters in the underground.
+plotvoc_hero3023chapter1_att_21.wav|Well, if it were not the path we must take, I really don't want to enter these woods.
+plotvoc_hero3023chapter1_att_23.wav|In one minute, I'll cover you to move in the opposite direction. Remember, there's a slope two miles away that can slow down the critters.
+plotvoc_hero3023chapter1_att_24.wav|We gathered much intelligence this time. When we get out of here, I will write a report...
+plotvoc_hero3023chapter1_att_25.wav|There are indeed many voices. Huh? Timekeeper? I seem to hear her voice.
+plotvoc_hero3023chapter1_att_26.wav|Timekeeper, did you see my mark on the map?
+plotvoc_hero3023chapter1_att_28.wav|Uh! C- C-
+plotvoc_hero3023chapter1_att_29.wav|We should get out of here as soon as possible. Timekeeper, she definitely needs my help.
+plotvoc_hero3023chapter1_att_3.wav|Timekeeper, what's going on? You are bleeding!
+plotvoc_hero3023chapter1_att_30.wav|The car is stuck in the wall. We have to find another way out.
+plotvoc_hero3023chapter1_att_31.wav|At the end of this corner, turn right.
+plotvoc_hero3023chapter1_att_34.wav|I heard someone asking for help around here! There was also remnants of potion there.
+plotvoc_hero3023chapter1_att_35.wav|There is no way ahead. It seems to be another dead end.
+plotvoc_hero3023chapter1_att_37.wav|Freddy... Leave him to me. I will carry him.
+plotvoc_hero3023chapter1_att_38.wav|All the plants are dead. There's no evidence of life at all. Even the bark on the branches are charred.
+plotvoc_hero3023chapter1_att_39.wav|Are you really joining this insurgent organization? He's using your fears!
+plotvoc_hero3023chapter1_att_40.wav|Please trust me, just like how we used to be.
+plotvoc_hero3023chapter1_att_41.wav|Please do not lie. You actually detained a human in your secret room.
+plotvoc_hero3023chapter1_att_42.wav|The witch. Don't call me.
+plotvoc_hero3023chapter1_att_43.wav|Timekeeper, Sotheby and I have explored here for a while.
+plotvoc_hero3023chapter1_att_46.wav|Just a little more time, she will spit it out.
+plotvoc_hero3023chapter1_att_48.wav|Don't worry. The action strategy would be more flexible if there's only me.
+plotvoc_hero3023chapter1_att_49.wav|That's it? She's gone? What are these?
+plotvoc_hero3023chapter1_att_5.wav|Uh, Mr. Apple, why are you in front of me? Then...
+plotvoc_hero3023chapter1_att_50.wav|Don't worry. I will deal with them right now.
+plotvoc_hero3023chapter1_att_52.wav|It shouldn't be a mistake. There is a human imprisoned by Arcanum in this speakeasy. I have to report it to the Timekeeper as soon as possible.
+plotvoc_hero3023chapter1_att_53.wav|Oh, it hurts.
+plotvoc_hero3023chapter1_att_54.wav|Good idea! Let's start from the middle.
+plotvoc_hero3023chapter1_att_55.wav|Don't be afraid. We will definitely...
+plotvoc_hero3023chapter1_att_57.wav|No, they cannot hear us. Let me blast the wall.
+plotvoc_hero3023chapter1_att_58.wav|She even left us the stolen goods?
+plotvoc_hero3023chapter1_att_6.wav|Yes, but it looks like...
+plotvoc_hero3023chapter1_att_60.wav|Your sister... I...
+plotvoc_hero3023chapter1_att_61.wav|She took the truth serum? I have memorized the formula. The feel and smell of the liquid could confirm it.
+plotvoc_hero3023chapter1_att_62.wav|Thank you.
+plotvoc_hero3023chapter1_att_63.wav|I will always find you. Please retreat quickly.
+plotvoc_hero3023chapter1_att_64.wav|Too bad, he doesn't look right. Hold the handrail!
+plotvoc_hero3023chapter1_att_65.wav|Let her lie on her back, right arm high. I will conduct first aid and get her to vomit up the potion.
+plotvoc_hero3023chapter1_att_66.wav|This is... Truth Serum.
+plotvoc_hero3023chapter1_att_67.wav|Ah, I can't hear you clearly. It's too noisy walking on these dried leaves. All I heard is the whizzing sound behind me.
+plotvoc_hero3023chapter1_att_68.wav|Timekeeper, do you have any questions about the plan?
+plotvoc_hero3023chapter1_att_69.wav|It is you! You are abusing this girl! Evil murderer! I must stop you!
+plotvoc_hero3023chapter1_att_70.wav|I just heard... Is it my mistake?
+plotvoc_hero3023chapter1_att_72.wav|Let me think. It should be around the wall in front of the critter lair.
+plotvoc_hero3023chapter1_att_75.wav|I had drawn a map before, and the exit is very close in this direction. As long as it's near the outer wall of the speakeasy, we will be able to break through.
+plotvoc_hero3023chapter1_att_76.wav|Miss Sotheby? Miss Sotheby? Are you alright?
+plotvoc_hero3023chapter1_att_77.wav|Miss Hetherby, did you feed him a whole bottle of that? It's too dangerous!
+plotvoc_hero3023chapter1_att_78.wav|Suppressed by such an overwhelming number, we can't get out.
+plotvoc_hero3023chapter1_att_79.wav|None of the seven are alive. How much do you hate humans that you could kill them like that?
+plotvoc_hero3023chapter1_att_82.wav|No way! Too fast! The speed? It's illegal in the city! WAAAHHHHH!
+plotvoc_hero3023chapter1_att_83.wav|As long as the enemies are not ghosts... No. Even if they are ghosts, I will survive.
+plotvoc_hero3023chapter1_att_84.wav|Timekeeper? Timekeeper!
+plotvoc_hero3023chapter1_att_85.wav|Timekeeper, there is another person.
+plotvoc_hero3023chapter2_10.wav|I have recorded the broadcast and... the timekeeper situation, and will report it to the headquarters now.
+plotvoc_hero3023chapter2_11.wav|How did the manis do that? These are obviously exogenous diseases.
+plotvoc_hero3023chapter2_12.wav|She will do her best not to put herself in danger.
+plotvoc_hero3023chapter2_13.wav|The enemy is after us. We are still in danger. It will only cost us more if we act on impulse.
+plotvoc_hero3023chapter2_14.wav|There should be no other enemies. Are you all right? Is anybody hurt?
+plotvoc_hero3023chapter2_15.wav|"'Miss Sotheby, could we stay at your house for the moment?'
+plotvoc_hero3023chapter2_16.wav|We must not let the Manus know where we are going.
+plotvoc_hero3023chapter2_18.wav|It seems there's no one else but us here.
+plotvoc_hero3023chapter2_2.wav|Sasana, well, this is the first time I've seen so many arcane creatures and plants for real.
+plotvoc_hero3023chapter2_20.wav|So, is that...
+plotvoc_hero3023chapter2_21.wav|Everybody get in the car! I'm afraid the noise will get us new company.
+plotvoc_hero3023chapter2_23.wav|What do you say is in the bowl in front of you, Mr. Carson? What is it?
+plotvoc_hero3023chapter2_25.wav|And the Manus will also want to know why the Timekeeper is immune to the storm.
+plotvoc_hero3023chapter2_26.wav|Is that... a unicorn on the wall?
+plotvoc_hero3023chapter2_27.wav|There is a large-scale disease outbreak in the city center. The news is on the radio.
+plotvoc_hero3023chapter2_28.wav|Thank you, Alchemist Sotheby. Mr. Apple has applied the medicine just now, and Miss Marion found the medicine outside the garden's storeroom.
+plotvoc_hero3023chapter2_3.wav|I made a small cut of his leaf to release venom. Hopefully the toxin will take effects slower.
+plotvoc_hero3023chapter2_30.wav|We need to make a rescue plan as soon as we are safe and get her out.
+plotvoc_hero3023chapter2_34.wav|When Timekeeper is absent, Chief Assistant Soneta will be the first in command.
+plotvoc_hero3023chapter2_35.wav|Let's fight. Put an end to all that's happening in this ridiculous forest.
+plotvoc_hero3023chapter2_4.wav|Huh, it turned around. I thought it was a statue, but it is still alive.
+plotvoc_hero3023chapter2_5.wav|Whether it is the solution to the storm, or the plan to rescue the Timekeeper, we all need instructions at a higher level.
+plotvoc_hero3023chapter2_6.wav|I'm so sorry. I did not hear it clearly either.
+plotvoc_hero3023chapter2_8.wav|I'm fine. The casualties are staggering.
+plotvoc_hero3023chapter2_9.wav|Going back now is like lambs to the slaughter. It will only ruin the last chance to rescue the timekeeper.
+plotvoc_hero3023chapter2_att_1.wav|I've already heard the Timekeeper's voice. She's close to us. She needs help!
+plotvoc_hero3023chapter2_att_11.wav|Come here. Hold your breath. The white fox should be a protective incantation to hide the relief shelter.
+plotvoc_hero3023chapter2_att_12.wav|Timekeeper, the supplies have been counted and are being transported to the headquarters. The refugees are also being settled.
+plotvoc_hero3023chapter2_att_14.wav|Be careful, everyone. We have entered the area of the relief shelter.
+plotvoc_hero3023chapter2_att_15.wav|What comes next is the final battle.
+plotvoc_hero3023chapter2_att_16.wav|Why... why can't the fog be cleared? How can we get in?
+plotvoc_hero3023chapter2_att_17.wav|I have read her investigation report. She's the stepdaughter of a Washington State forestry tycoon.
+plotvoc_hero3023chapter2_att_19.wav|Good. This should be the third transport truck we seized.
+plotvoc_hero3023chapter2_att_20.wav|I'm sorry. You protected me when the wall fell.
+plotvoc_hero3023chapter2_att_21.wav|Then what about the timekeeper? She...
+plotvoc_hero3023chapter2_att_22.wav|Please hold on, Timekeeper. Reinforcements are coming right away.
+plotvoc_hero3023chapter2_att_24.wav|Everyone, please lend me your strength.
+plotvoc_hero3023chapter2_att_25.wav|I just received the news that here is not the main target for the manis.
+plotvoc_hero3023chapter2_att_26.wav|As long as we're more powerful, even just for a second, as long as there's a breach.
+plotvoc_hero3023chapter2_att_27.wav|Not yet. If the instructions are delayed, I'm afraid I will implement the backup plan.
+plotvoc_hero3023chapter2_att_28.wav|In order to avoid attention, the man has reduced the number of guards for the supply transport. They must have never expected our attack.
+plotvoc_hero3023chapter2_att_29.wav|This morning, Arcana led other members and robbed a large amount of supplies from Washington.
+plotvoc_hero3023chapter2_att_3.wav|But if that's the Manus' power, I will then need much more training.
+plotvoc_hero3023chapter2_att_30.wav|We are late, but not too late.
+plotvoc_hero3023chapter2_att_31.wav|You and the others, follow me to the relief shelter.
+plotvoc_hero3023chapter2_att_32.wav|Of course we are the transport staff, though the direction we're going is different from yours.
+plotvoc_hero3023chapter2_att_33.wav|Where is the timekeeper? What happened to you? Is...
+plotvoc_hero3023chapter2_att_34.wav|But I could not save you, and even let you confront the manus alone. I'm sorry.
+plotvoc_hero3023chapter2_att_36.wav|The battle is intense. The number of the injured on both sides is still increasing.
+plotvoc_hero3023chapter2_att_37.wav|Good. Repeat. Transfer supplies. Rescue refugees.
+plotvoc_hero3023chapter2_att_38.wav|Sorry. For the humans who have temporarily lost their minds, this is the only way to go.
+plotvoc_hero3023chapter2_att_41.wav|I can't wait any longer. I don't want it to be like the last time.
+plotvoc_hero3023chapter2_att_43.wav|So the reinforcements sent by the Foundation are you guys? Excellent!
+plotvoc_hero3023chapter2_att_45.wav|What did you just say, Mr. X? Is there another way?
+plotvoc_hero3023chapter2_att_46.wav|There must be a way to focus all of our arcanums simultaneously.
+plotvoc_hero3023chapter2_att_47.wav|Captain, lead the team to escort the three vehicles back to the manor.
+plotvoc_hero3023chapter2_att_48.wav|This time, please let me protect you.
+plotvoc_hero3023chapter2_att_49.wav|We have assembled so many combatants!
+plotvoc_hero3023chapter2_att_50.wav|What is your wish? May I realize it for you?
+plotvoc_hero3023chapter2_att_51.wav|You... You're right.
+plotvoc_hero3023chapter2_att_52.wav|Timekeeper, I... I'm so glad that you are safe and sound.
+plotvoc_hero3023chapter2_att_53.wav|Yes, Sonetta received. We are on our way to the relief shelter, close to the woods.
+plotvoc_hero3023chapter2_att_54.wav|The refugees nearby are not well, and the guards are doubled.
+plotvoc_hero3023chapter2_att_55.wav|Schneider, what are you doing?
+plotvoc_hero3023chapter2_att_57.wav|From now on, everyone please proceed with caution. Ensure that you are not disturbed by the fog.
+plotvoc_hero3023chapter2_att_58.wav|Unforgivable! How can there be someone who spoke such rude words and insulted the deceased and the timekeeper like this?
+plotvoc_hero3023chapter2_att_59.wav|Those who are not injured, please take charge of the inventory, and gather all the refugees.
+plotvoc_hero3023chapter2_att_6.wav|A Goldberg machine. That explains it. Now I understand.
+plotvoc_hero3023chapter2_att_60.wav|I received the message from the patrol team. Followers are around the manor.
+plotvoc_hero3023chapter2_att_61.wav|Mr. X and... Regulus!
+plotvoc_hero3023chapter2_att_63.wav|So, please start the experiment soon. We do not have much time.
+plotvoc_hero3023chapter2_att_64.wav|You're not hurt! That's great!
+plotvoc_hero3023chapter2_att_65.wav|What is... the next mission for us? The storm... it should be coming soon.
+plotvoc_hero3023chapter2_att_66.wav|Understood. I will do my best.
+plotvoc_hero3023chapter2_att_67.wav|What counterintuitive experiment will you do?
+plotvoc_hero3023chapter2_att_68.wav|To rescue the Timekeeper is the primary goal.
+plotvoc_hero3023chapter2_att_8.wav|Hmm. Are you going to avoid the surveillance of the fog and go directly in to break the incantation?
+plotvoc_hero3023chapter2_att_9.wav|She's the heir to an auction house in London, England, and helped us a lot this time.
+plotvoc_hero3023chapter3_10.wav|These are... meaningless.
+plotvoc_hero3023chapter3_11.wav|Miss! Me! Me!
+plotvoc_hero3023chapter3_12.wav|The sanitary trolley is parked at the next turn. I've left the biggest garbage bag on it.
+plotvoc_hero3023chapter3_13.wav|A human who casts arcane skills.
+plotvoc_hero3023chapter3_15.wav|I thought Timekeeper is receiving treatment for her low spirit, but you said you held her down.
+plotvoc_hero3023chapter3_16.wav|Hello, this is Anato, the Chief Assistant of the Foundation's Timekeeper. My employee number is SF38000000801102Y. Could you please register a visit to Ward 1525 for me?
+plotvoc_hero3023chapter3_18.wav|M-Matilda? It's you?
+plotvoc_hero3023chapter3_2.wav|The registration is also more rigorous than it was before. I wonder if this is because of the storms.
+plotvoc_hero3023chapter3_20.wav|Maybe I'm seeing things.
+plotvoc_hero3023chapter3_21.wav|The student handbook is protecting us.
+plotvoc_hero3023chapter3_22.wav|Hmm? So, here is a junction to the right.
+plotvoc_hero3023chapter3_24.wav|Sigh.
+plotvoc_hero3023chapter3_29.wav|I don't see any cabinets. That's fine.
+plotvoc_hero3023chapter3_31.wav|And I will not bring danger to the timekeeper.
+plotvoc_hero3023chapter3_32.wav|I haven't worked out the reason behind this, but she was indeed...
+plotvoc_hero3023chapter3_33.wav|So none of these have been applied for the Timekeeper's well-being?
+plotvoc_hero3023chapter3_34.wav|I can't tell what's wrong. Perhaps I ate something bad for breakfast.
+plotvoc_hero3023chapter3_35.wav|How much longer is this therapy going to take, in your view?
+plotvoc_hero3023chapter3_37.wav|In fact, we all knew this would have happened, but it took place too soon caught us all off guard.
+plotvoc_hero3023chapter3_4.wav|I-I- Miss, I know this one!
+plotvoc_hero3023chapter3_40.wav|She was Greco's biological daughter. Schneider was a pseudonym.
+plotvoc_hero3023chapter3_41.wav|I see. Thank you. Is there anything else I should know?
+plotvoc_hero3023chapter3_42.wav|Whoever you are, may the peace be with us.
+plotvoc_hero3023chapter3_43.wav|I don't understand why you always skip classes.
+plotvoc_hero3023chapter3_44.wav|It is protecting us from harm and regrets.
+plotvoc_hero3023chapter3_47.wav|Aren't you aware that you've been given a timeout, Miss Burton?
+plotvoc_hero3023chapter3_48.wav|At that time, people in Europe widely considered Arcanum to be the paganism that collaborates with the demons, hence the trials against Arcanists.
+plotvoc_hero3023chapter3_49.wav|Both sides struggled in repeated battles. In the end, mankind, jointly led by both their religious and secular leaders, prevailed.
+plotvoc_hero3023chapter3_5.wav|I didn't know she was the one following me. I shouldn't have acted in haste.
+plotvoc_hero3023chapter3_50.wav|Press every button here to buy some time.
+plotvoc_hero3023chapter3_52.wav|I don't know much about psychology.
+plotvoc_hero3023chapter3_53.wav|Who was that? Could be a disoriented patient, or a man, a spy, or...
+plotvoc_hero3023chapter3_54.wav|Who are you? Speak up! Why are you following me?
+plotvoc_hero3023chapter3_58.wav|I've looked up the directory of Arcanus in the U.S. in 1929. None of their family is on it.
+plotvoc_hero3023chapter3_6.wav|Stop! You're not getting away!
+plotvoc_hero3023chapter3_60.wav|In response, Arcanus struck back fiercely. However, due to their spontaneous character and the unpredictability of their whereabouts, their communication was unsuccessful during the fight.
+plotvoc_hero3023chapter3_62.wav|Sorry, I overreacted. I don't feel quite myself today.
+plotvoc_hero3023chapter3_63.wav|As the Roman Empire declined, some Arcanists were tempted by the irrational side of their nature and applied magia naturalis in warfare and disputes over interests, which irritated the Church and other powers of religion.
+plotvoc_hero3023chapter3_64.wav|Miss, the features of Gnosis are, 1. It cannot be verified by an independent third party, and 2. It is impossible to be comprehended through reasoning.
+plotvoc_hero3023chapter3_68.wav|I will just take another route.
+plotvoc_hero3023chapter3_69.wav|I'm sorry. I... I thought it was someone suspicious, so...
+plotvoc_hero3023chapter3_72.wav|As the instructors have told us, to live is to lose things around us until the day we lose life itself to death. That's why we should only focus on the supreme missions.
+plotvoc_hero3023chapter3_73.wav|Matilda, are you alright?
+plotvoc_hero3023chapter3_76.wav|You know that we are not supposed to pay too much attention to affairs outside the school. Please, don't bring me these pebbles and frogs anymore.
+plotvoc_hero3023chapter3_8.wav|"'Turn right again? Hmm? But there's only one way, and it goes left.'
+plotvoc_hero3023chapter3_att_11.wav|Otherwise, I'm obliged to report this to the instructor as the monitor student on duty.
+plotvoc_hero3023chapter3_att_13.wav|I heard you were in a coma for two days.
+plotvoc_hero3023chapter3_att_14.wav|You're welcome. Are you feeling better now?
+plotvoc_hero3023chapter3_att_15.wav|Even if it will cost you everything you've had here...
+plotvoc_hero3023chapter3_att_16.wav|Okay, she's now temporarily paralyzed.
+plotvoc_hero3023chapter3_att_17.wav|The song was beautiful.
+plotvoc_hero3023chapter3_att_18.wav|I may have misunderstood you. I'm sorry.
+plotvoc_hero3023chapter3_att_19.wav|How are you feeling now? I heard you were in a coma for two days.
+plotvoc_hero3023chapter3_att_20.wav|Seems like you won't be needing my notebook anymore.
+plotvoc_hero3023chapter3_att_21.wav|You weren't in the dormitory last night.
+plotvoc_hero3023chapter3_att_22.wav|You will not be regretful, right?
+plotvoc_hero3023chapter3_att_23.wav|I know you are planning something behind the instructor's backs. Please do not act against any regulations stipulated in the student handbook.
+plotvoc_hero3023chapter3_att_24.wav|Yes, I heard it's dreadful in there. I went to visit with some food, but was turned away by the instructor.
+plotvoc_hero3023chapter3_att_25.wav|It was a pleasure to be your death's mate, Burton.
+plotvoc_hero3023chapter3_att_27.wav|You're going to do something very dangerous, aren't you?
+plotvoc_hero3023chapter3_att_29.wav|What... what are you singing?
+plotvoc_hero3023chapter3_att_30.wav|I… I think you may find this helpful.
+plotvoc_hero3023chapter3_att_4.wav|you
+plotvoc_hero3023chapter3_att_5.wav|They're welcome to borrow my notes.
+plotvoc_hero3023chapter3_att_6.wav|Please be mindful of your language, Lilia.
+plotvoc_hero3023chapter3_att_7.wav|Your duty is to eliminate the alityaus in the campus, not attacking the students.
+plotvoc_hero3023chapter3_att_8.wav|Thank you. Please, take good care of the timekeeper. I'll be on my way.
+plotvoc_hero3023chapter3_att_9.wav|Yes, as I am today.
+plotvoc_hero3023chapter4_part01_1.wav|People on it will fall with it.
+plotvoc_hero3023chapter4_part01_12.wav|The other deck makes me feel comfortable, as if I have spent a long time there.
+plotvoc_hero3023chapter4_part01_13.wav|There are two broken decks. They were originally one piece.
+plotvoc_hero3023chapter4_part01_16.wav|I need to ask you a favor.
+plotvoc_hero3023chapter4_part01_17.wav|Could you please read the future for me?
+plotvoc_hero3023chapter4_part01_19.wav|I can trace back every step I take.
+plotvoc_hero3023chapter4_part01_2.wav|All the students of the School of Primary Defense of Mankind are devoted to the peace of mankind. We have pledged lifelong allegiance to the foundation that leads the cause.
+plotvoc_hero3023chapter4_part01_20.wav|Madam Vice President, according to our investigation of the event in 1929 and Timekeeper's report, it is highly possible that Arcana of Manus Vendicte has the arcane power to influence the sanity and consciousness of others from a certain distance.
+plotvoc_hero3023chapter4_part01_23.wav|I am here to confess and to seek the prophecy.
+plotvoc_hero3023chapter4_part01_24.wav|Ahem.
+plotvoc_hero3023chapter4_part01_26.wav|I said something wrong.
+plotvoc_hero3023chapter4_part01_27.wav|.
+plotvoc_hero3023chapter4_part01_28.wav|I think all of her responses were out of her survival instinct.
+plotvoc_hero3023chapter4_part01_29.wav|I am ready. Please tell me the right choice.
+plotvoc_hero3023chapter4_part01_30.wav|This is also one of the survival strategies that have been taught in Chapter 1, Book 3 of Introduction to Strategy, edited by the School of Primary Defense of Mankind.
+plotvoc_hero3023chapter4_part01_35.wav|I can feel the coldness of the deep water and the pains when they struggle.
+plotvoc_hero3023chapter4_part01_37.wav|There is something bright on that deck, just like Timekeeper and Truvis. It is warm there.
+plotvoc_hero3023chapter4_part01_39.wav|I let them go. That was the worst decision I have ever made.
+plotvoc_hero3023chapter4_part01_4.wav|She is able to exert an irresistible psychic influence on others through short conversations. Timekeeper... Timekeeper was under huge threats at that time.
+plotvoc_hero3023chapter4_part01_40.wav|Good day, Madam Vice President. Greetings to all committee members. May the peace be with us.
+plotvoc_hero3023chapter4_part01_41.wav|Matilda, are you there?
+plotvoc_hero3023chapter4_part01_42.wav|I was unable to help Timekeeper and Drew this. Instead, I created a deeper misunderstanding.
+plotvoc_hero3023chapter4_part01_43.wav|I'm sorry, but I think I heard your voice.
+plotvoc_hero3023chapter4_part01_44.wav|I... I do not know.
+plotvoc_hero3023chapter4_part01_47.wav|What choice should I make to resolve their conflict? Stalemate like that really scares me.
+plotvoc_hero3023chapter4_part01_6.wav|Every time I get closer to one deck, the other one sinks.
+plotvoc_hero3023chapter4_part02_1.wav|Sorry, I cannot do math now.
+plotvoc_hero3023chapter4_part02_10.wav|I heard that. The number of people opposing the draft significantly increased after the debate.
+plotvoc_hero3023chapter4_part02_11.wav|The system arranged guards to accompany me to ensure my safety.
+plotvoc_hero3023chapter4_part02_13.wav|Hmm... What is an arcade?
+plotvoc_hero3023chapter4_part02_14.wav|My mind goes blank.
+plotvoc_hero3023chapter4_part02_15.wav|Listen to the voice in my mind.
+plotvoc_hero3023chapter4_part02_16.wav|Is it because of the provisions of talent protection?
+plotvoc_hero3023chapter4_part02_17.wav|Yes. I am taking combat drills with the artificial somnambulism training system.
+plotvoc_hero3023chapter4_part02_18.wav|Really? In that case, the vote result has to come out before that.
+plotvoc_hero3023chapter4_part02_2.wav|The light is flashing. What did you press?
+plotvoc_hero3023chapter4_part02_20.wav|However, I am more familiar with the way you talk now. It reminds me of our time at school.
+plotvoc_hero3023chapter4_part02_21.wav|I... I can provide the report, but I have no experience in court hearings.
+plotvoc_hero3023chapter4_part02_22.wav|Please let me know if there are any missions to alleviate the situation. I will do my best to meet your expectations.
+plotvoc_hero3023chapter4_part02_23.wav|The moment they entered the building, they started sawing the trees, saying that they need to carve out the path.
+plotvoc_hero3023chapter4_part02_24.wav|I have been instructed to manage affairs on behalf of Timekeeper during her treatment.
+plotvoc_hero3023chapter4_part02_25.wav|I hope Miss Druvis can hold out.
+plotvoc_hero3023chapter4_part02_26.wav|If I say something wrong, will it affect the special prosecutor's decision?
+plotvoc_hero3023chapter4_part02_28.wav|Dear Madam Z, With this letter, I send you my best regards.
+plotvoc_hero3023chapter4_part02_30.wav|Ah, ah, ah.
+plotvoc_hero3023chapter4_part02_31.wav|I will do my best, Madam Z.
+plotvoc_hero3023chapter4_part02_33.wav|Thank you, Matilda. Your divination is very helpful. My mind is very clear now.
+plotvoc_hero3023chapter4_part02_34.wav|Thank you for making time for me, Matilda.
+plotvoc_hero3023chapter4_part02_35.wav|You were very serious during the divination. Even your tone was different from usual.
+plotvoc_hero3023chapter4_part02_37.wav|Uh, okay. Shall I turn this red knob?
+plotvoc_hero3023chapter4_part02_39.wav|Since then, I have not been there.
+plotvoc_hero3023chapter4_part02_40.wav|If you need my help next time, please let me know.
+plotvoc_hero3023chapter4_part02_41.wav|I submitted a request to enter that building.
+plotvoc_hero3023chapter4_part02_6.wav|Sigh. Sigh. Sigh. Sigh.
+plotvoc_hero3023chapter4_part02_7.wav|No, I'm not. I am not goofing around.
+plotvoc_hero3023chapter4_part02_9.wav|I am exhausted.
+plotvoc_hero3023chapter4_part03_1.wav|I am happy to be able to make a difference during the time and defend the established facts.
+plotvoc_hero3023chapter4_part03_10.wav|In this particular case, you should have reported to the headquarters or to the investigators out there, instead of doing nothing but leaving an insult.
+plotvoc_hero3023chapter4_part03_11.wav|They were required to sell alcohol and speakeasies at night to make a profit for the office.
+plotvoc_hero3023chapter4_part03_12.wav|The malpractice at daytime was therefore tacitly approved. This can be found in photo appendix number 3-12-8.
+plotvoc_hero3023chapter4_part03_13.wav|Well, according to measures of the Foundation for Administrative Penalties, based on the severity of the circumstances, fines will be imposed and the offender's salary shall be deducted accordingly in minor cases, while detention or expulsion shall be imposed in major cases.
+plotvoc_hero3023chapter4_part03_14.wav|Ah, okay. Copy that. Thank you for the message.
+plotvoc_hero3023chapter4_part03_17.wav|You refuse to offer a human... No, an entire family, the shelter of the Foundation.
+plotvoc_hero3023chapter4_part03_18.wav|I do not understand why there was such wording on it.
+plotvoc_hero3023chapter4_part03_19.wav|I seem to be... too emotional just now.
+plotvoc_hero3023chapter4_part03_2.wav|Does not the Declaration of Peace say, Everyone strong or weak, rich or poor, of any race, deserves a helping hand so that the existing peace and order shall be maintained?
+plotvoc_hero3023chapter4_part03_21.wav|If the number of people involved in a brawl is equal to or less than 8, and there are no major casualties, the penalty will be minor.
+plotvoc_hero3023chapter4_part03_22.wav|Hereon, I shall prove the value of my testimony.
+plotvoc_hero3023chapter4_part03_23.wav|I am not slandering the office.
+plotvoc_hero3023chapter4_part03_25.wav|They were humans. If only they had made it to the headquarters sooner. Maybe... They...
+plotvoc_hero3023chapter4_part03_26.wav|Take it easy, take it easy.
+plotvoc_hero3023chapter4_part03_27.wav|Whether the history is long or short, it does not affect the validity of the facts.
+plotvoc_hero3023chapter4_part03_28.wav|This is the field report and diary I wrote about the storm in 1929.
+plotvoc_hero3023chapter4_part03_29.wav|Was it because she did not pay enough shelter fee to qualify for sheltering?
+plotvoc_hero3023chapter4_part03_3.wav|I personally believe that there is still much room for improvement for the Foundation's office in Chicago in the United States.
+plotvoc_hero3023chapter4_part03_30.wav|Why? Debate duel. Can I do it again?
+plotvoc_hero3023chapter4_part03_31.wav|We did not know each other. I heard of him at work, but we rarely worked together.
+plotvoc_hero3023chapter4_part03_32.wav|Take a deep breath, and then focus.
+plotvoc_hero3023chapter4_part03_33.wav|In addition, there was a racial brawl in the square, but the office did not send anyone to pacify the crowd or maintain the order.
+plotvoc_hero3023chapter4_part03_34.wav|But instead of offering any solution or help, you just gave her a rejection letter.
+plotvoc_hero3023chapter4_part03_35.wav|Half of the staff in the office were absent from work. I learned that this was permitted by the director.
+plotvoc_hero3023chapter4_part03_36.wav|Article 78 of the International Law of Procedure states, Any individual who has knowledge of the case and has an independent will is obliged to testify as witness.
+plotvoc_hero3023chapter4_part03_37.wav|She once chose to join the Foundation under the pressure of both the Storm and Manus Vindictae.
+plotvoc_hero3023chapter4_part03_38.wav|It had a small line written on it. Poppers, fuck off.
+plotvoc_hero3023chapter4_part03_39.wav|The penalty also depends on what is damaged. For example, production tools, household goods, buildings, equipment, and facilities, etc. These are the properties that involve less cost and limited influence if damaged.
+plotvoc_hero3023chapter4_part03_4.wav|Greetings. May the peace be with us.
+plotvoc_hero3023chapter4_part03_40.wav|This is good. This is great.
+plotvoc_hero3023chapter4_part03_41.wav|I was one of the parties involved in the 1929 storm incident. I submitted a detailed report of that. He searched the database and found the report, so he made a request for access to my supervisor, Madam Z.
+plotvoc_hero3023chapter4_part03_42.wav|Or was it because the wand she used was transformed by Arcanum, which made you think she was an Arcanist?
+plotvoc_hero3023chapter4_part03_43.wav|Schneider, a friend we met in Chicago.
+plotvoc_hero3023chapter4_part03_44.wav|February 14th, 1929, after the storm.
+plotvoc_hero3023chapter4_part03_45.wav|A procession appeared in the square in front of the office. They were mostly humans, with a few arcanists.
+plotvoc_hero3023chapter4_part03_48.wav|That morning, an hour and a half before my encounter with Timekeeper,
+plotvoc_hero3023chapter4_part03_49.wav|May I ask what happened? Why are you asking this all of a sudden?
+plotvoc_hero3023chapter4_part03_5.wav|This is a record of all my travels from the time I received the promotion order in the research center to go to the office in Chicago in the United States, to the time I went back to the headquarters of the foundation when the storm came.
+plotvoc_hero3023chapter4_part03_50.wav|Hello. May the peace be with us.
+plotvoc_hero3023chapter4_part03_51.wav|They were protesting against the high registration fee charged by the office for registering their identity information.
+plotvoc_hero3023chapter4_part03_52.wav|I, my immediate supervisor is having a long-term treatment, and there are more time slots available on my schedule.
+plotvoc_hero3023chapter4_part03_6.wav|I wrote them in my diary. Does that count as evidence?
+plotvoc_hero3023chapter4_part03_7.wav|Then, Madam Z asked if I would be willing to provide the report and attend court as witness.
+plotvoc_hero3023chapter4_part03_8.wav|I would like to prove that the Foundation's office in Chicago and the United States violated the declaration, fight for the peace and order of mankind, and the rights of some humans and arcanists.
+plotvoc_hero3023chapter5_part01_1.wav|It's as if something is jamming the signal.
+plotvoc_hero3023chapter5_part01_10.wav|60% of the left cabin has been flooded, as well as 75% of the right cabin.
+plotvoc_hero3023chapter5_part01_12.wav|Watch out! The big waves!
+plotvoc_hero3023chapter5_part01_13.wav|We don't know where this flow is leading us. We know nothing about it.
+plotvoc_hero3023chapter5_part01_16.wav|Oh, and these are the files you asked me to search for.
+plotvoc_hero3023chapter5_part01_17.wav|I just heard some spirit-lifting news at the hall. Phenomenal achievement, Timekeeper.
+plotvoc_hero3023chapter5_part01_18.wav|The captain of the Razor Special Operations Squad told me this might be a settlement of a group of Arcanists who have been long cut off from the world.
+plotvoc_hero3023chapter5_part01_19.wav|Timekeeper, we have an emergency.
+plotvoc_hero3023chapter5_part01_2.wav|It's similar to the training we once received. I can go inside on behalf of Timekeeper.
+plotvoc_hero3023chapter5_part01_21.wav|Miss Sophia, could you please repeat all the taboos on the island?
+plotvoc_hero3023chapter5_part01_22.wav|We've been trapped in a tremendous ritual.
+plotvoc_hero3023chapter5_part01_23.wav|Wait, we have something to...
+plotvoc_hero3023chapter5_part01_24.wav|Disobedient. Unreasonable. Never played by the rules.
+plotvoc_hero3023chapter5_part01_25.wav|And one more thing, Captain, and I'm asking this with no ill intention. Uh, may I know your lineage?
+plotvoc_hero3023chapter5_part01_26.wav|Did you just violate the rule of not to pick up what has fallen?
+plotvoc_hero3023chapter5_part01_27.wav|Wait, Lillia! Are you sure about taking off in such stormy weather?
+plotvoc_hero3023chapter5_part01_28.wav|Thank goodness you are all safe and sound.
+plotvoc_hero3023chapter5_part01_3.wav|That sounds like the turbine just cracked.
+plotvoc_hero3023chapter5_part01_30.wav|I've tried other contingency teleport incantations, but none of them worked in this area. Neither did the communicator.
+plotvoc_hero3023chapter5_part01_32.wav|Those dolphins sent us to the other side of the currents.
+plotvoc_hero3023chapter5_part01_33.wav|Eating... beans?
+plotvoc_hero3023chapter5_part01_35.wav|Also, Ms. Sotheby accepted your request.
+plotvoc_hero3023chapter5_part01_36.wav|It was too dark in there. I didn't take them all down.
+plotvoc_hero3023chapter5_part01_37.wav|To stay quiet and keep the secrets.
+plotvoc_hero3023chapter5_part01_38.wav|It's a tremendous breakthrough in our fight with Manus Vindictae. Everyone at the headquarters is cheering.
+plotvoc_hero3023chapter5_part01_39.wav|Luckily, the SPDM library has every single issue of Global Arcane Geography since the 1960s,
+plotvoc_hero3023chapter5_part01_4.wav|Timekeeper, did you see that?
+plotvoc_hero3023chapter5_part01_41.wav|They are the Apiron believers. They lent us a helping hand after the ship went down.
+plotvoc_hero3023chapter5_part01_42.wav|Yes, only the members of the Razor Squad are still missing. They also belong to the St. Pavlov Foundation like we do.
+plotvoc_hero3023chapter5_part01_43.wav|The size of the sea monster! It's shrinking!
+plotvoc_hero3023chapter5_part01_44.wav|The ship cannot survive such a ferocious storm. Timekeeper, we should get ready for evacuation.
+plotvoc_hero3023chapter5_part01_45.wav|Regulus, did you just pick up the grape that 37 threw at you earlier from the ground?
+plotvoc_hero3023chapter5_part01_48.wav|The teleport soft disk can't be activated.
+plotvoc_hero3023chapter5_part01_50.wav|Although, I don't know what this component really is. Is it a kind of ritual? Or a unique substance?
+plotvoc_hero3023chapter5_part01_51.wav|That's to say, any arcane amuse on this island is only a part of this giant flow.
+plotvoc_hero3023chapter5_part01_52.wav|I've never seen such a tremendous ritual.
+plotvoc_hero3023chapter5_part01_55.wav|Lillia is on her way. Now we only need to find the captain and his team members.
+plotvoc_hero3023chapter5_part01_56.wav|Thank you. I wish your next mission would be trouble-free, too.
+plotvoc_hero3023chapter5_part01_6.wav|The members of the Razor Squad are all humans.
+plotvoc_hero3023chapter5_part01_8.wav|Unlike other unregistered Arcanists, these people chose not to live alongside the humans. They still lead an ancient Arcanist way of life and follow the old customs. We must be meticulous when getting in touch with them.
+plotvoc_hero3023chapter5_part01_9.wav|I've requested information from Ms. Mosnell about Apiron, but it will take some time for the files to come in.
+plotvoc_hero3023chapter5_part02_1.wav|No, I don't have a number.
+plotvoc_hero3023chapter5_part02_10.wav|This is my duty. I won't let it get in the way of the team's investigation.
+plotvoc_hero3023chapter5_part02_11.wav|I ask my tongue to be taken, for it has spoken mindless words, and I shall stay silent for the truth.
+plotvoc_hero3023chapter5_part02_12.wav|I see. I will contact Miss Juvus and Miss Moiseau first and keep an eye on Arcana.
+plotvoc_hero3023chapter5_part02_14.wav|Sorry, I have never thought about this. For me, Arcanum is my inborn mission.
+plotvoc_hero3023chapter5_part02_15.wav|I am Sunetto from San Pavlo Foundation.
+plotvoc_hero3023chapter5_part02_16.wav|Does this mean we could collect more asymmetrical nuclide R samples?
+plotvoc_hero3023chapter5_part02_17.wav|No, no, I wouldn't have achieved this without your guidance.
+plotvoc_hero3023chapter5_part02_18.wav|But there's still something confusing me, such as Pythagoras and his golden thigh, his memory of the previous lifetimes as the son of Hermes, and the transmigration for every 216 years. Could you please tell me more about these?
+plotvoc_hero3023chapter5_part02_2.wav|This is... news of the outside world?
+plotvoc_hero3023chapter5_part02_21.wav|I've thoroughly studied the scripture and this time I'm sure I can do better.
+plotvoc_hero3023chapter5_part02_22.wav|Back in the Foundation, I once won a public debate of a similar nature.
+plotvoc_hero3023chapter5_part02_23.wav|I failed again.
+plotvoc_hero3023chapter5_part02_24.wav|These are Timekeeper's contributions. I barely did anything.
+plotvoc_hero3023chapter5_part02_25.wav|I'm completely lost in this irrational debate. I...
+plotvoc_hero3023chapter5_part02_26.wav|It's... it's okay, Timekeeper. I will defend Regulus.
+plotvoc_hero3023chapter5_part02_27.wav|Sigh. Sigh.
+plotvoc_hero3023chapter5_part02_29.wav|Don't worry, Timekeeper. Lilia and I will keep an eye on Manus Vindicte.
+plotvoc_hero3023chapter5_part02_3.wav|Hmm? No, I didn't do anything. Timekeeper knows the storm better.
+plotvoc_hero3023chapter5_part02_31.wav|So Manus Vindicte is also restrained by the Stone Bangle like we are.
+plotvoc_hero3023chapter5_part02_32.wav|Timekeeper, this island, the Manus's mask, and your suitcase are all immune to the storm.
+plotvoc_hero3023chapter5_part02_33.wav|I wish all the honorable audiences here would lend me their ears to hear my defense as a humanitarian gesture.
+plotvoc_hero3023chapter5_part02_34.wav|The numbers... charm?
+plotvoc_hero3023chapter5_part02_35.wav|I swear to let matter stay in the world of matter and a form in the world of forms.
+plotvoc_hero3023chapter5_part02_36.wav|Don't worry, Timekeeper. I'll defend myself.
+plotvoc_hero3023chapter5_part02_37.wav|Renia sereno intenso ed infinito!
+plotvoc_hero3023chapter5_part02_38.wav|Arcana's still in the hall. She hasn't taken any action so far. Got it.
+plotvoc_hero3023chapter5_part02_39.wav|Miss Sophia, you said this is the graveyard?
+plotvoc_hero3023chapter5_part02_4.wav|Regulus, studying the scripture is not that scary. They will teach you and guide you until you take full command.
+plotvoc_hero3023chapter5_part02_40.wav|However unworthy you think you are, there must be something we can do.
+plotvoc_hero3023chapter5_part02_41.wav|You did it in an efficient and precise manner, which is already an advanced ritual.
+plotvoc_hero3023chapter5_part02_42.wav|I think I kind of know how you feel, Miss Sophia.
+plotvoc_hero3023chapter5_part02_48.wav|Timekeeper, you are here.
+plotvoc_hero3023chapter5_part02_49.wav|If you ask me, you are an unbelievably excellent arcanist.
+plotvoc_hero3023chapter5_part02_5.wav|Just like... taking lessons at school.
+plotvoc_hero3023chapter5_part02_50.wav|Timekeeper, I'm so sorry. I tried my best, but still I couldn't understand the debate.
+plotvoc_hero3023chapter5_part02_51.wav|Maybe we can't reach the core of the truth, but we can clean up the path to it for the future explorers.
+plotvoc_hero3023chapter5_part02_54.wav|You can flatten the ground, clean up the beach, and rectify errors.
+plotvoc_hero3023chapter5_part02_55.wav|Sorry, Timekeeper. I just...
+plotvoc_hero3023chapter5_part02_6.wav|Please keep an eye on the mana's followers. Be mindful of the restrictions set by the bangle.
+plotvoc_hero3023chapter5_part02_8.wav|Those mathematic statements are really inspiring. I've learned a lot.
+plotvoc_hero3023chapter5_part02_9.wav|Timekeeper, I'm sorry. At the assembly, I failed to understand the arcanist's logic. It was totally different to the debates I have participated in.
+plotvoc_hero3023chapter7_10.wav|But a Puron is a boundless, limitless existence. If we wish to seek knowledge beyond our own limitations, we must turn to it for help.
+plotvoc_hero3023chapter7_12.wav|They are moving as planned. The deployment will be complete within two hours.
+plotvoc_hero3023chapter7_13.wav|I know perfectly well what I'm doing. Your provocations will not work on me.
+plotvoc_hero3023chapter7_14.wav|Like the storm of 1929, it was accelerated by social upheavals resulting from the constant tensions Manus Vindicte created between nations.
+plotvoc_hero3023chapter7_15.wav|Mind your distance. Arcana has power over people's minds at a close range.
+plotvoc_hero3023chapter7_16.wav|"'My apologies, Regulus. I was too focused on linear regression formulas.'
+plotvoc_hero3023chapter7_17.wav|I will not make the same mistake again, Miss Arcana.
+plotvoc_hero3023chapter7_18.wav|The pact on this bangle is of a similar nature.
+plotvoc_hero3023chapter7_19.wav|Once received, please do not read it out by any means. The side effects are extremely deadly.
+plotvoc_hero3023chapter7_2.wav|Rania sereno, intenso ed infinito!
+plotvoc_hero3023chapter7_20.wav|Uh, 37, we...
+plotvoc_hero3023chapter7_21.wav|Laplace is gathering every piece of information they can find on the storm. The discovery of the asymmetrical nuclide R was already a remarkable breakthrough.
+plotvoc_hero3023chapter7_22.wav|Laplace is looking for a safe method to deliver the incantation. Given the incidence before, some time is required for the application procedure.
+plotvoc_hero3023chapter7_23.wav|Go, Timekeeper. While you're out, Lilia and I will ready us for evacuation.
+plotvoc_hero3023chapter7_24.wav|But I don't understand.
+plotvoc_hero3023chapter7_25.wav|Don't worry, Regulus. We have foreseen this.
+plotvoc_hero3023chapter7_26.wav|No, this is...
+plotvoc_hero3023chapter7_27.wav|When we first arrived, I was bewildered by the rules on this island. But as I learned more about their scriptures, things began to make sense.
+plotvoc_hero3023chapter7_28.wav|The headquarters has issued a notice. The critical point of the storm is in Vienna.
+plotvoc_hero3023chapter7_29.wav|Could you be more specific on that, Mr. Apple?
+plotvoc_hero3023chapter7_3.wav|Miss Marta told me about this. There are limits to the knowledge one can acquire even when using numbers, which are considered closest to the essence.
+plotvoc_hero3023chapter7_30.wav|For the peace of this world.
+plotvoc_hero3023chapter7_31.wav|And we have only seven hours until the storm.
+plotvoc_hero3023chapter7_32.wav|How do these numbers relate to the circle?
+plotvoc_hero3023chapter7_33.wav|What's the price? Lives or...
+plotvoc_hero3023chapter7_34.wav|It would help the immunity research a lot if the timekeeper could find something useful in that cave.
+plotvoc_hero3023chapter7_35.wav|That is the unspoken rule of the peace agreement.
+plotvoc_hero3023chapter7_37.wav|An act without the intent to attack will not be seen as an attack.
+plotvoc_hero3023chapter7_38.wav|Miss Lillia, are you certain about this?
+plotvoc_hero3023chapter7_39.wav|The margin of error should be below 0.00025%. I'm confident that it will work.
+plotvoc_hero3023chapter7_4.wav|The Foundation will rebuild Apple II and pay for its maintenance. Huh?
+plotvoc_hero3023chapter7_40.wav|They mock language for its ambiguity, scorn its flaws, and ruthlessly expose its inconsistencies like they did during that debate.
+plotvoc_hero3023chapter7_43.wav|The large-scale ritual on this island... is... undoing itself?
+plotvoc_hero3023chapter7_44.wav|Positive 1, negative 1, positive 2, negative 3, 3, negative 3, positive 2, negative 1, positive 1.
+plotvoc_hero3023chapter7_45.wav|The Timekeeper asked me to request a new ship for you, and we have the approval.
+plotvoc_hero3023chapter7_46.wav|This type of storm syndrome involves a bodily transformation into oil paintings, primarily affecting the face but sometimes spreading to the torso. It is often accompanied by delirium and an intense obsession with war.
+plotvoc_hero3023chapter7_47.wav|Regulus! Regulus!
+plotvoc_hero3023chapter7_48.wav|Language is an unreliable means of communication. Information can become muddled and vague wording can lead to mistakes and contradictions. That's why the island values math as a more precise and truthful language.
+plotvoc_hero3023chapter7_5.wav|The headquarters are at least 768 nautical miles away, and you have no protection during the long flight. It's dangerous.
+plotvoc_hero3023chapter7_50.wav|Such is the nature of Arcanum.
+plotvoc_hero3023chapter7_51.wav|Timekeeper, Location Alpha is ready for the ritual.
+plotvoc_hero3023chapter7_53.wav|Sorry, Regulus. Your… accommodation was a long way from ours, so we haven't given you the latest updates.
+plotvoc_hero3023chapter7_54.wav|I heard Sophia is making her announcement today. I'm curious which number she will be.
+plotvoc_hero3023chapter7_6.wav|Don't worry, Regulus. We have gone over this many times.
+plotvoc_hero3023chapter7_9.wav|Hmm, then I'd say she is a multiple of 139.
+plotvoc_hero3023newworld_chapter7_1.wav|It's okay, Timekeeper. Don't let me keep you. I'm not going anywhere.
+plotvoc_hero3023newworld_chapter7_10.wav|She knew Mana Svendikte never cared for the lives of others. She witnessed the suicide attacks carried out by Mana's followers on the island. She experienced it all firsthand.
+plotvoc_hero3023newworld_chapter7_11.wav|I feel frustrated, like I've lost another debate. I knew the right answers, but could not articulate it. I had to watch them die without being able to convince them otherwise.
+plotvoc_hero3023newworld_chapter7_12.wav|The islanders were thrust into war, their beliefs shattered, and their vulnerability then exploited by the manas who welcomed them with open arms.
+plotvoc_hero3023newworld_chapter7_13.wav|"'I'm not very good at small talk. Can you start the conversation?'
+plotvoc_hero3023newworld_chapter7_14.wav|No matter how impossible it may seem right now, I will find a way.
+plotvoc_hero3023newworld_chapter7_15.wav|What I really want to do is...
+plotvoc_hero3023newworld_chapter7_16.wav|Good morning, Timekeeper. We have finally completed all of our assigned tasks.
+plotvoc_hero3023newworld_chapter7_17.wav|I wish I didn't lose this debate, Timekeeper.
+plotvoc_hero3023newworld_chapter7_18.wav|Sorry, this is about to sound like a work report.
+plotvoc_hero3023newworld_chapter7_19.wav|Thank you, Timekeeper. I wanted to talk to you about the mission we just had. Especially about Sophia.
+plotvoc_hero3023newworld_chapter7_2.wav|Sorry, those were big words I know.
+plotvoc_hero3023newworld_chapter7_20.wav|Let us do this together, Timekeeper.
+plotvoc_hero3023newworld_chapter7_21.wav|I could not understand her motives. She was one of the most devout believers I knew. So why did she turn her back on Aperon?
+plotvoc_hero3023newworld_chapter7_22.wav|Yes, as enemies.
+plotvoc_hero3023newworld_chapter7_23.wav|I don't know what to do with my free time. Would you mind if I spent some time with you?
+plotvoc_hero3023newworld_chapter7_3.wav|I will do everything in my power to prevent tragedies like Sophia's and Schneider's from happening again.
+plotvoc_hero3023newworld_chapter7_4.wav|I know that their intention was to provoke war, and the invading soldiers must have had their assistance.
+plotvoc_hero3023newworld_chapter7_5.wav|We can talk later when you have time.
+plotvoc_hero3023newworld_chapter7_6.wav|For it is my duty and my own will.
+plotvoc_hero3023newworld_chapter7_7.wav|I'm here, Timekeeper. Are you free now?
+plotvoc_hero3023newworld_chapter7_8.wav|To keep being your assistant, Timekeeper.
+plotvoc_hero3023newworld_chapter7_9.wav|The Foundation gave me a break, but...
+activityvoc_hero3023_1_6_shuori_1.wav|And her name is...
+activityvoc_hero3023_1_6_shuori_4.wav|嫌なせい。
+activityvoc_hero3023lvhu1_2_part01_10.wav|Huh?
+activityvoc_hero3023lvhu1_2_part01_17.wav|What?
+activityvoc_hero3023lvhu1_2_part01_26.wav|かし
+activityvoc_hero3023lvhu1_2_part01_28.wav|Yes, Miss Tooth Fairy.
+activityvoc_hero3023lvhu1_2_part01_31.wav|Timekeeper.
+activityvoc_hero3023lvhu1_2_part01_32.wav|Ha ha ha ha!
+activityvoc_hero3023lvhu1_2_part01_4.wav|Ha!
+activityvoc_hero3023lvhu1_2_part01_6.wav|Ah!
+activityvoc_hero3023lvhu1_2_part02_16.wav|She would...
+activityvoc_hero3023lvhu1_2_part02_5.wav|Let me give you a hand, Anne.
+activityvoc_hero3023lvhu1_2_part02_7.wav|Timekeeper!
+activityvoc_hero3023lvhu1_2_part03_25.wav|May the peace be with us.
+activityvoc_hero3023lvhu1_2_part03_27.wav|Huh!
+activityvoc_hero3023lvhu1_2_part03_31.wav|May the peace be with us.
+activityvoc_hero3023lvhu1_2_part03_35.wav|Blonnie! Wait!
+activityvoc_hero3023lvhu1_2_part03_37.wav|P-Please, wait a minute!
+activityvoc_hero3023lvhu1_2_part03_8.wav|Ah!
+guide3023_15.wav|We are prepared for the change.
+guide3023_30.wav|I'll leave the rest to you, timekeeper.
+guide3023_7.wav|Please guide me.
+hero3023_activitystory_lvhu_1.wav|No worries.
+hero3023_activitystory_lvhu_10.wav|Hmm.
+hero3023_activitystory_lvhu_11.wav|No.
+hero3023_activitystory_lvhu_12.wav|That's awesome.
+hero3023_activitystory_lvhu_14.wav|うーん…
+hero3023_activitystory_lvhu_17.wav|Hmm...
+hero3023_activitystory_lvhu_2.wav|What?
+hero3023_activitystory_lvhu_4.wav|あっ…
+hero3023_activitystory_lvhu_5.wav|All right.
+hero3023_activitystory_lvhu_6.wav|Miss Jessica?
+hero3023_activitystory_lvhu_7.wav|I agree.
+hero3023_activitystory_lvhu_8.wav|Oh?
+hero3023_activitystory_lvhu_9.wav|あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ
+hero3023_level_gudu1_9_3.wav|Just like the battle simulations.
+hero3023_mainstory_1.wav|I
+hero3023_mainstory_10.wav|Hmm.
+hero3023_mainstory_11.wav|I'm clear.
+hero3023_mainstory_12.wav|Hmph!
+hero3023_mainstory_13.wav|あっ
+hero3023_mainstory_14.wav|How come?
+hero3023_mainstory_15.wav|はっ?
+hero3023_mainstory_2.wav|Hmm...
+hero3023_mainstory_3.wav|Das Peter!
+hero3023_mainstory_4.wav|Please.
+hero3023_mainstory_5.wav|Huh?
+hero3023_mainstory_7.wav|My apologies.
+hero3023_mainstory_8.wav|Huh.
+hero3023_mainstory_9.wav|Roger that.
+hero3023_skill_1.wav|.
+hero3023_skill_10.wav|.
+hero3023_skill_12.wav|Huh!
+hero3023_skill_14.wav|Oh,
+hero3023_skill_17.wav|Ugh!
+hero3023_skill_18.wav|Ugh!
+hero3023_skill_2.wav|It's all right.
+hero3023_skill_21.wav|Ah!
+hero3023_skill_22.wav|I believe in you.
+hero3023_skill_24.wav|It's alright.
+hero3023_skill_25.wav|you
+hero3023_skill_26.wav|you
+hero3023_skill_27.wav|Ugh!
+hero3023_skill_28.wav|Huh!
+hero3023_skill_29.wav|you
+hero3023_skill_31.wav|you
+hero3023_skill_34.wav|BANG!
+hero3023_skill_38.wav|You found the right verse for me.
+hero3023_skill_6.wav|.
+hero3023_skill_7.wav|My sword sharp.
+hero3023_skill_8.wav|Oh!
+plotvoc_hero3023chapter0_12.wav|No, I'm just…
+plotvoc_hero3023chapter0_16.wav|Hmm...
+plotvoc_hero3023chapter0_21.wav|Timekeeper, look at that table!
+plotvoc_hero3023chapter0_25.wav|Huh?
+plotvoc_hero3023chapter0_34.wav|Regulus's ship's been sunk.
+plotvoc_hero3023chapter0_36.wav|We need to move quickly.
+plotvoc_hero3023chapter0_42.wav|Right, Timekeeper?
+plotvoc_hero3023chapter0_45.wav|Hm? That voice?
+plotvoc_hero3023chapter0_46.wav|Let's split up.
+plotvoc_hero3023chapter0_48.wav|Sure. Go ahead.
+plotvoc_hero3023chapter0_50.wav|Are you feeling better?
+plotvoc_hero3023chapter0_52.wav|¡Ede subito será!
+plotvoc_hero3023chapter0_54.wav|Timekeeper!
+plotvoc_hero3023chapter0_57.wav|My apologies, Timekeeper.
+plotvoc_hero3023chapter0_64.wav|When will the storm begin?
+plotvoc_hero3023chapter0_69.wav|Ambush!
+plotvoc_hero3023chapter0_70.wav|May the peace be with us.
+plotvoc_hero3023chapter0_72.wav|はっ
+plotvoc_hero3023chapter1_12.wav|Let's get ready to move.
+plotvoc_hero3023chapter1_17.wav|Hmm.
+plotvoc_hero3023chapter1_20.wav|Hmm...
+plotvoc_hero3023chapter1_22.wav|Please take a look.
+plotvoc_hero3023chapter1_26.wav|Excuse me.
+plotvoc_hero3023chapter1_28.wav|Sigh.
+plotvoc_hero3023chapter1_3.wav|Stop it!
+plotvoc_hero3023chapter1_34.wav|Timekeeper!
+plotvoc_hero3023chapter1_40.wav|Regulus?
+plotvoc_hero3023chapter1_49.wav|I should have more training.
+plotvoc_hero3023chapter1_5.wav|I got promoted.
+plotvoc_hero3023chapter1_52.wav|Why are you killing them?
+plotvoc_hero3023chapter1_53.wav|Huh.
+plotvoc_hero3023chapter1_56.wav|Whoa!
+plotvoc_hero3023chapter1_58.wav|あい
+plotvoc_hero3023chapter1_63.wav|Ha ha ha ha!
+plotvoc_hero3023chapter1_att_11.wav|Sigh.
+plotvoc_hero3023chapter1_att_14.wav|May the peace be with us.
+plotvoc_hero3023chapter1_att_15.wav|Timekeeper.
+plotvoc_hero3023chapter1_att_22.wav|Don't worry. Leave it to me.
+plotvoc_hero3023chapter1_att_27.wav|You!
+plotvoc_hero3023chapter1_att_32.wav|Oh, and...
+plotvoc_hero3023chapter1_att_33.wav|Sigh.
+plotvoc_hero3023chapter1_att_36.wav|Roger that. And we...
+plotvoc_hero3023chapter1_att_4.wav|Um...
+plotvoc_hero3023chapter1_att_44.wav|Timekeeper!
+plotvoc_hero3023chapter1_att_45.wav|Ha!
+plotvoc_hero3023chapter1_att_47.wav|Ha!
+plotvoc_hero3023chapter1_att_51.wav|Ugh!
+plotvoc_hero3023chapter1_att_56.wav|Huh?
+plotvoc_hero3023chapter1_att_59.wav|You chased us here!
+plotvoc_hero3023chapter1_att_7.wav|Like an underground labyrinth.
+plotvoc_hero3023chapter1_att_71.wav|Who's there?
+plotvoc_hero3023chapter1_att_73.wav|Huh?
+plotvoc_hero3023chapter1_att_74.wav|We have to beat them before we leave.
+plotvoc_hero3023chapter1_att_8.wav|No, it's not.
+plotvoc_hero3023chapter1_att_80.wav|No, never.
+plotvoc_hero3023chapter1_att_81.wav|Hmm?
+plotvoc_hero3023chapter1_att_86.wav|I want to help her get out.
+plotvoc_hero3023chapter1_att_9.wav|I will be there right away.
+plotvoc_hero3023chapter2_1.wav|We should go.
+plotvoc_hero3023chapter2_17.wav|That's great. Thank you.
+plotvoc_hero3023chapter2_19.wav|Ha ha ha.
+plotvoc_hero3023chapter2_22.wav|Ha ha ha.
+plotvoc_hero3023chapter2_24.wav|Please trust the Timekeeper.
+plotvoc_hero3023chapter2_29.wav|The madness has taken action.
+plotvoc_hero3023chapter2_31.wav|Are you okay, Mr. Apple?
+plotvoc_hero3023chapter2_32.wav|Huh?
+plotvoc_hero3023chapter2_33.wav|Come here, Miss Sotheby.
+plotvoc_hero3023chapter2_36.wav|Everybody, get ready to fight!
+plotvoc_hero3023chapter2_37.wav|Ha ha ha ha.
+plotvoc_hero3023chapter2_38.wav|Timekeeper.
+plotvoc_hero3023chapter2_39.wav|Huh?
+plotvoc_hero3023chapter2_7.wav|Sigh.
+plotvoc_hero3023chapter2_att_10.wav|Let's move!
+plotvoc_hero3023chapter2_att_13.wav|Huh?
+plotvoc_hero3023chapter2_att_18.wav|Oh!
+plotvoc_hero3023chapter2_att_2.wav|Timekeeper!
+plotvoc_hero3023chapter2_att_23.wav|Nonsense!
+plotvoc_hero3023chapter2_att_35.wav|Huh?
+plotvoc_hero3023chapter2_att_39.wav|May the peace be with us!
+plotvoc_hero3023chapter2_att_4.wav|They ran away!
+plotvoc_hero3023chapter2_att_40.wav|You are...
+plotvoc_hero3023chapter2_att_42.wav|Stono Swift.
+plotvoc_hero3023chapter2_att_44.wav|I have no wish.
+plotvoc_hero3023chapter2_att_5.wav|Ha!
+plotvoc_hero3023chapter2_att_56.wav|Mine?
+plotvoc_hero3023chapter2_att_62.wav|The enemies are cleared.
+plotvoc_hero3023chapter2_att_69.wav|Don't suddenly get so close to her!
+plotvoc_hero3023chapter2_att_7.wav|It is now 35 minutes to 10.
+plotvoc_hero3023chapter3_1.wav|The storm took our friend from us.
+plotvoc_hero3023chapter3_14.wav|はっ
+plotvoc_hero3023chapter3_17.wav|Sigh...
+plotvoc_hero3023chapter3_19.wav|Can be both.
+plotvoc_hero3023chapter3_23.wav|That's right.
+plotvoc_hero3023chapter3_25.wav|Goodbye, miss.
+plotvoc_hero3023chapter3_26.wav|Sigh.
+plotvoc_hero3023chapter3_27.wav|Hmm?
+plotvoc_hero3023chapter3_28.wav|Ha!
+plotvoc_hero3023chapter3_3.wav|She didn't.
+plotvoc_hero3023chapter3_30.wav|These are very dangerous things.
+plotvoc_hero3023chapter3_36.wav|I... I don't know...
+plotvoc_hero3023chapter3_38.wav|Did I miss any crossings?
+plotvoc_hero3023chapter3_39.wav|I will catch this person.
+plotvoc_hero3023chapter3_45.wav|Matilda, please take...
+plotvoc_hero3023chapter3_46.wav|That's right.
+plotvoc_hero3023chapter3_51.wav|Uh...
+plotvoc_hero3023chapter3_55.wav|Please, please stop.
+plotvoc_hero3023chapter3_56.wav|Cabbage.
+plotvoc_hero3023chapter3_57.wav|The nurses seem busy here.
+plotvoc_hero3023chapter3_59.wav|Please wait!
+plotvoc_hero3023chapter3_61.wav|What's that?
+plotvoc_hero3023chapter3_65.wav|I am not.
+plotvoc_hero3023chapter3_66.wav|We are born to die martyrs.
+plotvoc_hero3023chapter3_67.wav|Hmm.
+plotvoc_hero3023chapter3_7.wav|Oh, okay.
+plotvoc_hero3023chapter3_70.wav|They're here.
+plotvoc_hero3023chapter3_71.wav|A sphere.
+plotvoc_hero3023chapter3_74.wav|Good. Just what I need.
+plotvoc_hero3023chapter3_75.wav|I can't get away from them.
+plotvoc_hero3023chapter3_9.wav|Okay.
+plotvoc_hero3023chapter3_att_1.wav|.
+plotvoc_hero3023chapter3_att_10.wav|Ha ha ha ha ha!
+plotvoc_hero3023chapter3_att_12.wav|They will be out next week.
+plotvoc_hero3023chapter3_att_2.wav|Stoto Swift!
+plotvoc_hero3023chapter3_att_26.wav|I...
+plotvoc_hero3023chapter3_att_28.wav|I...
+plotvoc_hero3023chapter3_att_3.wav|Huh?
+plotvoc_hero3023chapter4_part01_10.wav|The vision?
+plotvoc_hero3023chapter4_part01_11.wav|I...
+plotvoc_hero3023chapter4_part01_14.wav|Huh!
+plotvoc_hero3023chapter4_part01_15.wav|I...
+plotvoc_hero3023chapter4_part01_18.wav|うっ、あいっ。
+plotvoc_hero3023chapter4_part01_21.wav|Hmm...
+plotvoc_hero3023chapter4_part01_22.wav|I...
+plotvoc_hero3023chapter4_part01_25.wav|.
+plotvoc_hero3023chapter4_part01_3.wav|Copy that.
+plotvoc_hero3023chapter4_part01_31.wav|Ugh.
+plotvoc_hero3023chapter4_part01_32.wav|I...
+plotvoc_hero3023chapter4_part01_33.wav|Four years ago.
+plotvoc_hero3023chapter4_part01_34.wav|I tried.
+plotvoc_hero3023chapter4_part01_36.wav|I feel fear.
+plotvoc_hero3023chapter4_part01_38.wav|See myself falling.
+plotvoc_hero3023chapter4_part01_45.wav|Okay.
+plotvoc_hero3023chapter4_part01_46.wav|Copy that.
+plotvoc_hero3023chapter4_part01_48.wav|I was not properly prepared.
+plotvoc_hero3023chapter4_part01_5.wav|Clear.
+plotvoc_hero3023chapter4_part01_7.wav|Of-of course.
+plotvoc_hero3023chapter4_part01_8.wav|I'm sorry.
+plotvoc_hero3023chapter4_part01_9.wav|Because, um...
+plotvoc_hero3023chapter4_part02_12.wav|Wait!
+plotvoc_hero3023chapter4_part02_19.wav|I'm waiting for orders.
+plotvoc_hero3023chapter4_part02_27.wav|Sincerely, Zanetto.
+plotvoc_hero3023chapter4_part02_29.wav|Hmm...
+plotvoc_hero3023chapter4_part02_3.wav|Good night.
+plotvoc_hero3023chapter4_part02_32.wav|Sense of justice.
+plotvoc_hero3023chapter4_part02_36.wav|I see.
+plotvoc_hero3023chapter4_part02_38.wav|What is it?
+plotvoc_hero3023chapter4_part02_4.wav|As witness?
+plotvoc_hero3023chapter4_part02_5.wav|I should not have hesitated.
+plotvoc_hero3023chapter4_part02_8.wav|ふふふ
+plotvoc_hero3023chapter4_part03_15.wav|I have no objection, madam.
+plotvoc_hero3023chapter4_part03_16.wav|I found this letter in her suit pocket.
+plotvoc_hero3023chapter4_part03_20.wav|Huh.
+plotvoc_hero3023chapter4_part03_24.wav|Are you leaving?
+plotvoc_hero3023chapter4_part03_46.wav|I
+plotvoc_hero3023chapter4_part03_47.wav|More importantly...
+plotvoc_hero3023chapter4_part03_53.wav|Schneider...
+plotvoc_hero3023chapter4_part03_9.wav|は?
+plotvoc_hero3023chapter5_part01_11.wav|Regulus!
+plotvoc_hero3023chapter5_part01_14.wav|Timekeeper?
+plotvoc_hero3023chapter5_part01_15.wav|Huh?
+plotvoc_hero3023chapter5_part01_20.wav|Yes, all is well.
+plotvoc_hero3023chapter5_part01_29.wav|Please, Timekeeper.
+plotvoc_hero3023chapter5_part01_31.wav|Hmm.
+plotvoc_hero3023chapter5_part01_34.wav|imaginary numbers?
+plotvoc_hero3023chapter5_part01_40.wav|It's too perilous, Timekeeper.
+plotvoc_hero3023chapter5_part01_46.wav|Everyone, please wait a minute.
+plotvoc_hero3023chapter5_part01_47.wav|¡Ede Subito Cera!
+plotvoc_hero3023chapter5_part01_49.wav|Roger that.
+plotvoc_hero3023chapter5_part01_5.wav|TimeGamer!
+plotvoc_hero3023chapter5_part01_53.wav|Timekeeper!
+plotvoc_hero3023chapter5_part01_54.wav|I believe in Timekeeper.
+plotvoc_hero3023chapter5_part01_7.wav|But...
+plotvoc_hero3023chapter5_part02_13.wav|Well, I'm with Sophia.
+plotvoc_hero3023chapter5_part02_19.wav|What?
+plotvoc_hero3023chapter5_part02_20.wav|Sigh.
+plotvoc_hero3023chapter5_part02_28.wav|Just checking up on Lilia.
+plotvoc_hero3023chapter5_part02_30.wav|Huh?
+plotvoc_hero3023chapter5_part02_43.wav|But now I have...
+plotvoc_hero3023chapter5_part02_44.wav|Timekeeper?
+plotvoc_hero3023chapter5_part02_45.wav|Huh?
+plotvoc_hero3023chapter5_part02_46.wav|I...
+plotvoc_hero3023chapter5_part02_47.wav|No.
+plotvoc_hero3023chapter5_part02_52.wav|What's this?
+plotvoc_hero3023chapter5_part02_53.wav|What, me?
+plotvoc_hero3023chapter5_part02_7.wav|This is our fate.
+plotvoc_hero3023chapter7_1.wav|Miss Sophia!
+plotvoc_hero3023chapter7_11.wav|Something else?
+plotvoc_hero3023chapter7_36.wav|Price?
+plotvoc_hero3023chapter7_41.wav|うん
+plotvoc_hero3023chapter7_42.wav|To put it simply,
+plotvoc_hero3023chapter7_49.wav|Yes.
+plotvoc_hero3023chapter7_52.wav|I will stop you.
+plotvoc_hero3023chapter7_7.wav|What about Arcana?
+plotvoc_hero3023chapter7_8.wav|Um...

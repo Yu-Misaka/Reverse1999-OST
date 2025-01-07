@@ -1,0 +1,1018 @@
+.\training_set\activityvoc_hero3023_1_6_shuori_2.wav|Sonetto|en|Timekeeper, you don't look very well. Are you all right?
+.\training_set\activityvoc_hero3023_1_6_shuori_3.wav|Sonetto|en|Oh, it's a letter from the Foundation. A colleague from the Russian branch was transferred to the headquarters today. She has shown a strong willingness to perform long-term field missions.
+.\training_set\activityvoc_hero3023_1_6_shuori_5.wav|Sonetto|en|Please hold on. Let me check her file here.
+.\training_set\activityvoc_hero3023_1_6_shuori_6.wav|Sonetto|en|Hmm? It's me, Sonetto.
+.\training_set\activityvoc_hero3023_1_6_shuori_7.wav|Sonetto|en|Thus, the headquarters intends to transfer her to the timekeeper squad. Would you have a meeting with her? It is said that she is experienced in geographical exploration and survival in the wilderness. She could be a great helper.
+.\training_set\activityvoc_hero3023_1_6_shuori_8.wav|Sonetto|en|Excuse me? Is Timekeeper in the room?
+.\training_set\activityvoc_hero3023_1_6_shuori_9.wav|Sonetto|en|May I come in? There is something I need to confirm with you.
+.\training_set\activityvoc_hero3023lvhu1_2_part01_1.wav|Sonetto|en|It may be a little abrupt to ask, but I was wondering if you would like to take a heritage train ride with me.
+.\training_set\activityvoc_hero3023lvhu1_2_part01_11.wav|Sonetto|en|That is to say, one gigantic critter inhabits here, if not more?
+.\training_set\activityvoc_hero3023lvhu1_2_part01_12.wav|Sonetto|en|Excellent! It's trapped!
+.\training_set\activityvoc_hero3023lvhu1_2_part01_13.wav|Sonetto|en|Not only the size, its strength and speed are also much enhanced from what we learned in the Arcane Creatures class. It took Miss Toothberry's velvet pocket. We have to bring it down before it's too late.
+.\training_set\activityvoc_hero3023lvhu1_2_part01_14.wav|Sonetto|en|It's moving too fast! I've never seen a critter this big!
+.\training_set\activityvoc_hero3023lvhu1_2_part01_15.wav|Sonetto|en|A mystery solved. No wonder I found the handwriting on the envelope familiar.
+.\training_set\activityvoc_hero3023lvhu1_2_part01_16.wav|Sonetto|en|Timekeeper, now that we have given the report,
+.\training_set\activityvoc_hero3023lvhu1_2_part01_18.wav|Sonetto|en|Kids were ignorant for lack of knowledge, yet adults were ignorant for their cognitive inertia. In a story where truth and falsity are mingled together, it is hard to tell which is which.
+.\training_set\activityvoc_hero3023lvhu1_2_part01_19.wav|Sonetto|en|My apologies. I didn't mean to intrude.
+.\training_set\activityvoc_hero3023lvhu1_2_part01_2.wav|Sonetto|en|This... this must be the camp...
+.\training_set\activityvoc_hero3023lvhu1_2_part01_20.wav|Sonetto|en|I'm so sorry, Miss Tooth Fairy. I shouldn't have asked.
+.\training_set\activityvoc_hero3023lvhu1_2_part01_21.wav|Sonetto|en|You... you're still alive?
+.\training_set\activityvoc_hero3023lvhu1_2_part01_22.wav|Sonetto|en|Okay, Mr. H-Huripedia, I've never heard of this nickname of yours.
+.\training_set\activityvoc_hero3023lvhu1_2_part01_23.wav|Sonetto|en|Worry not, miss. Please get behind. You're safe with us.
+.\training_set\activityvoc_hero3023lvhu1_2_part01_24.wav|Sonetto|en|And Madam Z said we won't have any other assignments for a while.
+.\training_set\activityvoc_hero3023lvhu1_2_part01_25.wav|Sonetto|en|What job? Do you mean...
+.\training_set\activityvoc_hero3023lvhu1_2_part01_27.wav|Sonetto|en|My god, what has happened here?
+.\training_set\activityvoc_hero3023lvhu1_2_part01_29.wav|Sonetto|en|I understand. They deserve a decent funeral. After I take care of this demonic creature...
+.\training_set\activityvoc_hero3023lvhu1_2_part01_3.wav|Sonetto|en|Iron buckets, felling axes, picnic mats. Considering we are in a campsite, it is only normal to expect these tools to be here. Hmm. What is this?
+.\training_set\activityvoc_hero3023lvhu1_2_part01_30.wav|Sonetto|en|Something is buried in the ground. Right here.
+.\training_set\activityvoc_hero3023lvhu1_2_part01_33.wav|Sonetto|en|dilated pupils, disordered speech, and a body temperature of three degrees higher than the normal level. Presumably, he has taken some stimulants or substandard potions.
+.\training_set\activityvoc_hero3023lvhu1_2_part01_34.wav|Sonetto|en|Thank you for the kind reminder.
+.\training_set\activityvoc_hero3023lvhu1_2_part01_5.wav|Sonetto|en|As a result, they neglected what they can't comprehend and only learned the story from a one-sided perspective. Soon enough, rumors started to spread.
+.\training_set\activityvoc_hero3023lvhu1_2_part01_7.wav|Sonetto|en|Are those little winged elves still nagging you? I remember you were troubled by them as early as I was in school.
+.\training_set\activityvoc_hero3023lvhu1_2_part01_8.wav|Sonetto|en|These things have been left here catching dust, and I see no footprints or any signs of activity. Seems like it has been deserted for a long time.
+.\training_set\activityvoc_hero3023lvhu1_2_part01_9.wav|Sonetto|en|Mr. Campbell? Who is this person and what happened to him?
+.\training_set\activityvoc_hero3023lvhu1_2_part02_1.wav|Sonetto|en|What on earth is happening?
+.\training_set\activityvoc_hero3023lvhu1_2_part02_10.wav|Sonetto|en|Blonnie! Watch out for the critters!
+.\training_set\activityvoc_hero3023lvhu1_2_part02_11.wav|Sonetto|en|This is Miss Toothberry singing.
+.\training_set\activityvoc_hero3023lvhu1_2_part02_12.wav|Sonetto|en|Activate the trap. Prepare to engage.
+.\training_set\activityvoc_hero3023lvhu1_2_part02_13.wav|Sonetto|en|I have just given you first aid for the wounds. For now, we will have to wait for Miss Tooth Fairy to administrate a thorough treatment when she comes back.
+.\training_set\activityvoc_hero3023lvhu1_2_part02_14.wav|Sonetto|en|Blonnie... Timekeeper...
+.\training_set\activityvoc_hero3023lvhu1_2_part02_15.wav|Sonetto|en|But you were vomiting blood, and that gentleman over there doesn't even have a head attached to his body.
+.\training_set\activityvoc_hero3023lvhu1_2_part02_17.wav|Sonetto|en|Timekeeper? Please, come and take a look at this.
+.\training_set\activityvoc_hero3023lvhu1_2_part02_18.wav|Sonetto|en|Blani, it is okay to rest on the chair over there if you're feeling fatigued. Leave this to me.
+.\training_set\activityvoc_hero3023lvhu1_2_part02_19.wav|Sonetto|en|I see. Have you also done a lot of research about this genre?
+.\training_set\activityvoc_hero3023lvhu1_2_part02_2.wav|Sonetto|en|Not good. The water is too cold. I got a cramp.
+.\training_set\activityvoc_hero3023lvhu1_2_part02_20.wav|Sonetto|en|"'I'm terribly sorry for what you're going through, but this is not the typical kind of treatment that we used to receive from her.'
+.\training_set\activityvoc_hero3023lvhu1_2_part02_21.wav|Sonetto|en|This is nothing compared to the training I received in the Foundation.
+.\training_set\activityvoc_hero3023lvhu1_2_part02_22.wav|Sonetto|en|A boat? Is this Blowney's?
+.\training_set\activityvoc_hero3023lvhu1_2_part02_23.wav|Sonetto|en|Bloody! The ghost bride took her down. We need to help her!
+.\training_set\activityvoc_hero3023lvhu1_2_part02_24.wav|Sonetto|en|Good. That'd make another trap. The cabin is more safely secured now.
+.\training_set\activityvoc_hero3023lvhu1_2_part02_25.wav|Sonetto|en|Now, take these boards to the east side of the house. We need to have that direction covered as well.
+.\training_set\activityvoc_hero3023lvhu1_2_part02_26.wav|Sonetto|en|Crashed on the edge of the woods? What do you mean?
+.\training_set\activityvoc_hero3023lvhu1_2_part02_27.wav|Sonetto|en|Blonnie, please stay still. We're coming for you.
+.\training_set\activityvoc_hero3023lvhu1_2_part02_28.wav|Sonetto|en|Don't worry. She's very professional and skillful. You won't feel any pain in the process.
+.\training_set\activityvoc_hero3023lvhu1_2_part02_29.wav|Sonetto|en|She would ask us to take the tooth fairies, that is, those golden elves in the glass jar.
+.\training_set\activityvoc_hero3023lvhu1_2_part02_3.wav|Sonetto|en|The rain has healed its wounds. It's getting stronger and harder to deal with.
+.\training_set\activityvoc_hero3023lvhu1_2_part02_30.wav|Sonetto|en|St. Pavlov Foundation is an official institution that takes in and organizes arcanists and
+.\training_set\activityvoc_hero3023lvhu1_2_part02_31.wav|Sonetto|en|If what Mr. Horipedia has said is true, it's dangerous for us to split up. The three of us should stay together.
+.\training_set\activityvoc_hero3023lvhu1_2_part02_32.wav|Sonetto|en|Lonnie, you're awake.
+.\training_set\activityvoc_hero3023lvhu1_2_part02_33.wav|Sonetto|en|Miss Tooth Fairy, you're back. Where is Michael?
+.\training_set\activityvoc_hero3023lvhu1_2_part02_34.wav|Sonetto|en|Huh? Timekeeper? She's back?
+.\training_set\activityvoc_hero3023lvhu1_2_part02_35.wav|Sonetto|en|This is good. Blonnie seems to be more relaxed now. She smiles a lot more as well.
+.\training_set\activityvoc_hero3023lvhu1_2_part02_4.wav|Sonetto|en|Miss Tooth Fairy, please wait.
+.\training_set\activityvoc_hero3023lvhu1_2_part02_6.wav|Sonetto|en|Uh, yes. And it actually tastes pretty nice. Like mint and flavored dried plum. It's… it just looks a bit unconventional.
+.\training_set\activityvoc_hero3023lvhu1_2_part02_8.wav|Sonetto|en|They are effective in treating toothache and other oral diseases, but also can be used to reduce inflammation, stimulates wound healing, and relieve headaches.
+.\training_set\activityvoc_hero3023lvhu1_2_part02_9.wav|Sonetto|en|Keep... keep things from the instructors? Did you do this a lot?
+.\training_set\activityvoc_hero3023lvhu1_2_part03_1.wav|Sonetto|en|Miss Tooth Fairy, behind you!
+.\training_set\activityvoc_hero3023lvhu1_2_part03_10.wav|Sonetto|en|We are very close to shore. Mr. Horopedia, we can slow down. Watch out for the critters!
+.\training_set\activityvoc_hero3023lvhu1_2_part03_11.wav|Sonetto|en|However we decide to do this, it's always better to take action before our enemy does.
+.\training_set\activityvoc_hero3023lvhu1_2_part03_12.wav|Sonetto|en|I did some research on Green Lake campsite after piecing together the map.
+.\training_set\activityvoc_hero3023lvhu1_2_part03_13.wav|Sonetto|en|The lock has been broken. Those are bite marks from small critters. They might have nested inside.
+.\training_set\activityvoc_hero3023lvhu1_2_part03_14.wav|Sonetto|en|I see. So it's not true. Just a made-up story. Miss Tooth Fairy! Did you come back from the trip?
+.\training_set\activityvoc_hero3023lvhu1_2_part03_15.wav|Sonetto|en|Mr. Horrorpedia is not a bad person. He's just a bit... unconventional.
+.\training_set\activityvoc_hero3023lvhu1_2_part03_16.wav|Sonetto|en|Time... Timekeeper!
+.\training_set\activityvoc_hero3023lvhu1_2_part03_17.wav|Sonetto|en|It was the map of one of the training bases of Zeno. They used to train their youth force there in the early 60s and deserted that base in the early 70s.
+.\training_set\activityvoc_hero3023lvhu1_2_part03_18.wav|Sonetto|en|To your right, by the corner of the stairway, there are three... No, at least three of them.
+.\training_set\activityvoc_hero3023lvhu1_2_part03_19.wav|Sonetto|en|Not good. The critters are coming around again.
+.\training_set\activityvoc_hero3023lvhu1_2_part03_2.wav|Sonetto|en|Human subject research? Political parties? Pardon me, I don't follow you.
+.\training_set\activityvoc_hero3023lvhu1_2_part03_20.wav|Sonetto|en|But as you just said, in their own training base, it's almost impossible for the youth force to be...
+.\training_set\activityvoc_hero3023lvhu1_2_part03_21.wav|Sonetto|en|Maybe it has underground cables, or it's powered by some generation sets left by Zeno. Wait. Stop here.
+.\training_set\activityvoc_hero3023lvhu1_2_part03_22.wav|Sonetto|en|A risky strategy, but could be equally beneficial.
+.\training_set\activityvoc_hero3023lvhu1_2_part03_23.wav|Sonetto|en|He was the one who received the Outstanding Contribution Award in the latest annual appraisal. Allow me to introduce...
+.\training_set\activityvoc_hero3023lvhu1_2_part03_24.wav|Sonetto|en|This is not good. It's too dark out here. Hardly visible.
+.\training_set\activityvoc_hero3023lvhu1_2_part03_26.wav|Sonetto|en|Michael must have driven out of here, but how did Blonnie disappear in the blink of an eye?
+.\training_set\activityvoc_hero3023lvhu1_2_part03_28.wav|Sonetto|en|I know, I- I was just a bit caught off guard. It has never come to my mind that such a bizarre event would take place within an official institution.
+.\training_set\activityvoc_hero3023lvhu1_2_part03_29.wav|Sonetto|en|We will never do harm to any human. It's strictly stipulated.
+.\training_set\activityvoc_hero3023lvhu1_2_part03_3.wav|Sonetto|en|My friends and I work for them. We will try our best to keep everyone here safe.
+.\training_set\activityvoc_hero3023lvhu1_2_part03_30.wav|Sonetto|en|Timekeeper, the critters in the water are attacking the lighthouse. We are about to fall. Please be-
+.\training_set\activityvoc_hero3023lvhu1_2_part03_32.wav|Sonetto|en|We have found every piece of information we can. We can start cross-examining them any minute.
+.\training_set\activityvoc_hero3023lvhu1_2_part03_33.wav|Sonetto|en|Timekeeper? Miss Toothberry? Are you alright?
+.\training_set\activityvoc_hero3023lvhu1_2_part03_34.wav|Sonetto|en|But wasn't it a story? A story made up by Mr. Horopedia?
+.\training_set\activityvoc_hero3023lvhu1_2_part03_36.wav|Sonetto|en|Attracted? Pardon me, Jo- Mr. Horropedia, we did not plan to go there, and we certainly do not feel any strong attraction to that place.
+.\training_set\activityvoc_hero3023lvhu1_2_part03_38.wav|Sonetto|en|Is everyone okay? Did somebody get hurt? Timekeeper, you...
+.\training_set\activityvoc_hero3023lvhu1_2_part03_4.wav|Sonetto|en|It had been under use even before it was abandoned. It was more of a Boy Scout camping site than a military training base.
+.\training_set\activityvoc_hero3023lvhu1_2_part03_5.wav|Sonetto|en|Her wounds are healing, and I sense her Arcanum is getting stronger. We need to leave now, Timekeeper.
+.\training_set\activityvoc_hero3023lvhu1_2_part03_6.wav|Sonetto|en|Don't worry, Timekeeper. Although his manner is debatable, he's not a bad person.
+.\training_set\activityvoc_hero3023lvhu1_2_part03_7.wav|Sonetto|en|Great! Timekeeper and Anne! You're here!
+.\training_set\activityvoc_hero3023lvhu1_2_part03_9.wav|Sonetto|en|Timekeeper... Faked her illness? Ah, and that also explains her toffees.
+.\training_set\guide3023_1.wav|Sonetto|en|Turn your eyes on me and listen to my incantation. Witness my ultimate.
+.\training_set\guide3023_10.wav|Sonetto|en|Well, time to change my strategy.
+.\training_set\guide3023_11.wav|Sonetto|en|That's quite a lot of critters. Timekeeper, we must do something to turn things around now.
+.\training_set\guide3023_12.wav|Sonetto|en|Use an incantation that is strong against the enemies of Fletas to defeat them more quickly. You can take it from here, Timekeeper.
+.\training_set\guide3023_13.wav|Sonetto|en|Timekeeper, we need to go one step further. Observe, meditate, and create stronger incantations.
+.\training_set\guide3023_14.wav|Sonetto|en|We can now summon the ritual timekeeper.
+.\training_set\guide3023_16.wav|Sonetto|en|Our AP is invaluable. Moving incantations will cost AP as well.
+.\training_set\guide3023_17.wav|Sonetto|en|Tap again to select an incantation.
+.\training_set\guide3023_18.wav|Sonetto|en|You must play the cards right based on the situation. You've been pretty good at that.
+.\training_set\guide3023_19.wav|Sonetto|en|The enemies are attacking. We are counting on you, Timekeeper.
+.\training_set\guide3023_2.wav|Sonetto|en|I can see further and hear better. I can now summon a stronger ritual capable of unveiling the useless facades.
+.\training_set\guide3023_20.wav|Sonetto|en|Well done. I knew it. You're gifted as a commander.
+.\training_set\guide3023_21.wav|Sonetto|en|Tap to select an incantation and summon its ritual.
+.\training_set\guide3023_22.wav|Sonetto|en|We did it! We broke out of the enemy's encirclement!
+.\training_set\guide3023_23.wav|Sonetto|en|It shows the incantations that have been generated here.
+.\training_set\guide3023_24.wav|Sonetto|en|Timekeeper, the drunks are getting close. We await your instruction.
+.\training_set\guide3023_25.wav|Sonetto|en|Timekeeper, allow me to go through the basic principles and deployment method of Arcanum Battle again.
+.\training_set\guide3023_26.wav|Sonetto|en|We're now fully prepared to face the enemy.
+.\training_set\guide3023_27.wav|Sonetto|en|Timekeeper, this is our chance.
+.\training_set\guide3023_28.wav|Sonetto|en|Tap on a proper incantation to link the neighboring ones and improve its power.
+.\training_set\guide3023_29.wav|Sonetto|en|Observations of the minerals, plants, stars, and beasts, as well as our experiences with the spirit and intelligence, let us better understand our own existence.
+.\training_set\guide3023_3.wav|Sonetto|en|Select a proper target for me, timekeeper.
+.\training_set\guide3023_31.wav|Sonetto|en|Remember what the instructor said in class? Aflatus is a way to hunt in the world.
+.\training_set\guide3023_32.wav|Sonetto|en|Thank you for your decisiveness, Timekeeper.
+.\training_set\guide3023_4.wav|Sonetto|en|Do not worry, Timekeeper. I now have enough moxie.
+.\training_set\guide3023_5.wav|Sonetto|en|Do not worry, timekeeper. I will keep things in check.
+.\training_set\guide3023_6.wav|Sonetto|en|It shows our action points here. Choosing an incantation consumes one AP. When you are done choosing, the ritual shall begin.
+.\training_set\guide3023_8.wav|Sonetto|en|Tap and hold an incantation to check details of this arcane skill.
+.\training_set\guide3023_9.wav|Sonetto|en|Look, it shows the star levels of the incantations here.
+.\training_set\hero3023_activitystory_lvhu_13.wav|Sonetto|en|This is fantastic.
+.\training_set\hero3023_activitystory_lvhu_15.wav|Sonetto|en|This is a very, very inspiring creation.
+.\training_set\hero3023_activitystory_lvhu_16.wav|Sonetto|en|I'm... not sure.
+.\training_set\hero3023_activitystory_lvhu_3.wav|Sonetto|en|Little... Puppy.
+.\training_set\hero3023_level_gudu1_9_1.wav|Sonetto|en|Timekeeper, the enemy's ritual has altered the environment. Please be careful.
+.\training_set\hero3023_level_gudu1_9_2.wav|Sonetto|en|Timekeeper, the first preparation stage is complete.
+.\training_set\hero3023_level_gudu1_9_4.wav|Sonetto|en|Timekeeper, please allow me to assist you.
+.\training_set\hero3023_level_gudu1_9_5.wav|Sonetto|en|I will not allow the tragedy in Chicago to happen again. Timekeeper, it's time I showed you what my training's been for.
+.\training_set\hero3023_level_gudu1_9_6.wav|Sonetto|en|The creature is defeated and Arcana has emerged once again. Timekeeper, stage 2 is complete.
+.\training_set\hero3023_level_gudu1_9_7.wav|Sonetto|en|Timekeeper, there's a gigantic creature emerging from the portal. We must complete stage two as soon as possible.
+.\training_set\hero3023_level_gudu1_9_8.wav|Sonetto|en|Timekeeper! Arcana has disappeared, and monsters are pouring out of the portal she created!
+.\training_set\hero3023_level_gudu1_9_9.wav|Sonetto|en|Timekeeper, I've defeated the enemy. Beginning preparations now.
+.\training_set\hero3023_mainstory_6.wav|Sonetto|en|Timekeeper? Timekeeper!
+.\training_set\hero3023_skill_11.wav|Sonetto|en|Sempre caro mi fu querstermo co le.
+.\training_set\hero3023_skill_13.wav|Sonetto|en|I agree, Miss Tooth Fairy.
+.\training_set\hero3023_skill_15.wav|Sonetto|en|you
+.\training_set\hero3023_skill_16.wav|Sonetto|en|This place has brought me so many things. Freedom, fresh knowledge, brave friends. How can I ever repay you? I want to be of help to you at any time.
+.\training_set\hero3023_skill_19.wav|Sonetto|en|I know the moon, and this is an alien city.
+.\training_set\hero3023_skill_20.wav|Sonetto|en|.
+.\training_set\hero3023_skill_23.wav|Sonetto|en|So long lives this, and this gives power to thee.
+.\training_set\hero3023_skill_3.wav|Sonetto|en|La ringrazio. I will make good use of this power.
+.\training_set\hero3023_skill_30.wav|Sonetto|en|Please take this note, Timekeeper. I'm looking forward to your deduction.
+.\training_set\hero3023_skill_32.wav|Sonetto|en|The words written on this love letter are smudged by rain. I wish I could read them.
+.\training_set\hero3023_skill_33.wav|Sonetto|en|Just as what's been practiced countless times.
+.\training_set\hero3023_skill_35.wav|Sonetto|en|I will pray for you. Sorry.
+.\training_set\hero3023_skill_36.wav|Sonetto|en|Regia sereno intenso ad infinito.
+.\training_set\hero3023_skill_37.wav|Sonetto|en|you
+.\training_set\hero3023_skill_39.wav|Sonetto|en|.
+.\training_set\hero3023_skill_4.wav|Sonetto|en|Each moment, now night.
+.\training_set\hero3023_skill_5.wav|Sonetto|en|Depict the world I have never seen before.
+.\training_set\hero3023_skill_9.wav|Sonetto|en|May the peace be with us.
+.\training_set\illusion_hero3023_1_9_gudu_1.wav|Sonetto|en|Wait! Perhaps a more impromptu debate? I have some fresh ideas about our past discussions. Could I trouble you to help me refine them?
+.\training_set\illusion_hero3023_1_9_gudu_2.wav|Sonetto|en|Perhaps we might go somewhere quiet. I wanted to speak with you about linear regression.
+.\training_set\illusion_hero3023_1_9_gudu_3.wav|Sonetto|en|Timekeeper, are you leaving the banquet?
+.\training_set\illusion_hero3023_1_9_gudu_4.wav|Sonetto|en|The storm is gone. We have time to enjoy life again. You don't have to keep checking your watch or your task list anymore.
+.\training_set\mianvoc_hero3023_1.wav|Sonetto|en|Timekeeper? Timekeeper? Are you asleep? Okay. Please have a good rest. Where is the blanket? Hmm. Cover yourself and you won't catch a cold.
+.\training_set\mianvoc_hero3023_10.wav|Sonetto|en|The verses to release arcane skills are not easy to find. They must be full of passion and well-timed and can only be found with luck. However, if I know a poet, maybe things will be much easier.
+.\training_set\mianvoc_hero3023_11.wav|Sonetto|en|Horizon, the boundary of heaven and earth that may or may not intersect with the earth's surface. Useful to measure the radio waves and useful to make people feel better.
+.\training_set\mianvoc_hero3023_12.wav|Sonetto|en|The lake is overflowing. It's cold, just like a flowing line. Wait, where am I?
+.\training_set\mianvoc_hero3023_13.wav|Sonetto|en|Good morning. Here's the newspaper today. Huh? Why are my fingers black? Stained with ink? How come? I've just touched it.
+.\training_set\mianvoc_hero3023_14.wav|Sonetto|en|It is said that the world I write down is just my imagination. But how can I get closer to the reality? What is the boundary between them?
+.\training_set\mianvoc_hero3023_15.wav|Sonetto|en|Emotionally stable and responsible. Well planned and capable. Gentle, decisive and beautiful. Huh? What's going on? Timekeeper? Why is your face covered in your hands?
+.\training_set\mianvoc_hero3023_16.wav|Sonetto|en|Here's the newspaper from yesterday. The bridge. Can we go there? It looks really beautiful.
+.\training_set\mianvoc_hero3023_17.wav|Sonetto|en|Sometimes I think about the time when we studied together. The instructor made us desk mates, and your pockets were always alive with frogs, stones, and toffees.
+.\training_set\mianvoc_hero3023_18.wav|Sonetto|en|Greetings. Today your shirt matches the color of your eyes very well.
+.\training_set\mianvoc_hero3023_2.wav|Sonetto|en|I hope that in the future I can also contribute to the well-being of mankind. However, it would be better to have more missions.
+.\training_set\mianvoc_hero3023_3.wav|Sonetto|en|Did you do something amazing just now? Well, you don't need to explain to me. I can imagine it.
+.\training_set\mianvoc_hero3023_4.wav|Sonetto|en|Good morning! Today I read a news story on the Italian cheek-kissing greeting. Uh, I mean, it would be great if we can practice it.
+.\training_set\mianvoc_hero3023_5.wav|Sonetto|en|The joke on November the 7th? I seem to have read it somewhere. Ah, it was on the issue of February the 29th. Report! I found a typographical error.
+.\training_set\mianvoc_hero3023_6.wav|Sonetto|en|Order is more important than opinion. I was taught in this way.
+.\training_set\mianvoc_hero3023_7.wav|Sonetto|en|Is it really okay doing nothing like this? I mean, when I was at the Foundation, there had never been such a tranquil night. Thank you for teaching me all these things.
+.\training_set\mianvoc_hero3023_8.wav|Sonetto|en|The Foundation has provided me with much help, including food, uniforms, education, and goals.
+.\training_set\mianvoc_hero3023_9.wav|Sonetto|en|These newspapers, please please do not throw them away until I finish reading.
+.\training_set\plotvoc_hero3023chapter0_1.wav|Sonetto|en|Predicting the enemy's movement mid-teleportation, you're even more perceptive than I thought.
+.\training_set\plotvoc_hero3023chapter0_10.wav|Sonetto|en|The effects of the misty bubble ball only last so long. She can't have gotten far.
+.\training_set\plotvoc_hero3023chapter0_11.wav|Sonetto|en|Express gratitude, salute, and see them off. Never disturb the lives of the registrants.
+.\training_set\plotvoc_hero3023chapter0_13.wav|Sonetto|en|But thank goodness you're awake now. There's no time to spare.
+.\training_set\plotvoc_hero3023chapter0_14.wav|Sonetto|en|That was close. We finally got rid of them.
+.\training_set\plotvoc_hero3023chapter0_15.wav|Sonetto|en|A portable floppy disk containing the arcane skill teleport. I used one just now to bring you here.
+.\training_set\plotvoc_hero3023chapter0_17.wav|Sonetto|en|I didn't. It's all thanks to the timekeeper.
+.\training_set\plotvoc_hero3023chapter0_18.wav|Sonetto|en|I've never known a person more perceptive in the arts of Arcanum than you. And...
+.\training_set\plotvoc_hero3023chapter0_19.wav|Sonetto|en|We are investigators from the St. Pavlov Foundation. As far as we are aware, you have not registered for the Arcanum license.
+.\training_set\plotvoc_hero3023chapter0_2.wav|Sonetto|en|Thank you very much for your support, Timekeeper.
+.\training_set\plotvoc_hero3023chapter0_20.wav|Sonetto|en|Unauthorized use of Arcanum is a violation of the public security law. You are required to cooperate with our investigation and registration process.
+.\training_set\plotvoc_hero3023chapter0_22.wav|Sonetto|en|It was rushed, the ritual wasn't ready, and you fell into a coma.
+.\training_set\plotvoc_hero3023chapter0_23.wav|Sonetto|en|Envision the destination, speak its name, and the teleport ritual will begin.
+.\training_set\plotvoc_hero3023chapter0_24.wav|Sonetto|en|Please hand me the floppy disk, Regulus. I'll start the ritual.
+.\training_set\plotvoc_hero3023chapter0_26.wav|Sonetto|en|Ahem. They're still under experimentation, so they're not entirely stable. Madam Z only gave me three.
+.\training_set\plotvoc_hero3023chapter0_27.wav|Sonetto|en|I... I'm not qualified. Thus far, you are the only one who can move freely during the storm.
+.\training_set\plotvoc_hero3023chapter0_28.wav|Sonetto|en|Manus Vindicte has been silent for some time. Why are there so many of them now?
+.\training_set\plotvoc_hero3023chapter0_29.wav|Sonetto|en|Somewhere safe. We won't hurt you.
+.\training_set\plotvoc_hero3023chapter0_3.wav|Sonetto|en|Are you coming with me? I thought you would leave after we defeated those Manus Vindicte. Ah, thank you.
+.\training_set\plotvoc_hero3023chapter0_30.wav|Sonetto|en|Regulus, will you cooperate or not? I need your answer.
+.\training_set\plotvoc_hero3023chapter0_31.wav|Sonetto|en|The Hero Pickles. This is...
+.\training_set\plotvoc_hero3023chapter0_32.wav|Sonetto|en|Just come back with us to the research center and...
+.\training_set\plotvoc_hero3023chapter0_33.wav|Sonetto|en|I'm Himmel Vaxelman the Boonen Builder.
+.\training_set\plotvoc_hero3023chapter0_35.wav|Sonetto|en|T-timekeeper.
+.\training_set\plotvoc_hero3023chapter0_37.wav|Sonetto|en|Timekeeper, I formally request your aid. We must rescue the investigators, complete the registration of Regulus, and return to the research center before the arrival of the storm.
+.\training_set\plotvoc_hero3023chapter0_38.wav|Sonetto|en|I'm just curious. I'll throw it away when I've finished. Please don't think too much of it.
+.\training_set\plotvoc_hero3023chapter0_39.wav|Sonetto|en|I just need you by my side to guide me.
+.\training_set\plotvoc_hero3023chapter0_4.wav|Sonetto|en|Landed. Good. They landed safely.
+.\training_set\plotvoc_hero3023chapter0_40.wav|Sonetto|en|According to the field mission evacuation instructions, we can request your aid within 24 hours of the storm.
+.\training_set\plotvoc_hero3023chapter0_41.wav|Sonetto|en|This is the last one. Let's take Regulus back.
+.\training_set\plotvoc_hero3023chapter0_43.wav|Sonetto|en|The mission... we've... failed?
+.\training_set\plotvoc_hero3023chapter0_44.wav|Sonetto|en|Unfortunately, she's now being pursued by Manus Vindictae.
+.\training_set\plotvoc_hero3023chapter0_47.wav|Sonetto|en|That's right. I heard you're a fan of technology.
+.\training_set\plotvoc_hero3023chapter0_49.wav|Sonetto|en|Hmm? Regulus? Where is she?
+.\training_set\plotvoc_hero3023chapter0_5.wav|Sonetto|en|At least... Let me search these stores again.
+.\training_set\plotvoc_hero3023chapter0_51.wav|Sonetto|en|I shouldn't have sent the backup request so hastily. The ritual wasn't ready.
+.\training_set\plotvoc_hero3023chapter0_53.wav|Sonetto|en|I'm not finished yet. Stand up and continue the fight.
+.\training_set\plotvoc_hero3023chapter0_55.wav|Sonetto|en|I... I'll take a copy, please.
+.\training_set\plotvoc_hero3023chapter0_56.wav|Sonetto|en|Two days ago, we met heavy resistance on our mission to register Regulus. She's even captured two of our investigators.
+.\training_set\plotvoc_hero3023chapter0_58.wav|Sonetto|en|But if everything goes well, they'll save us a lot of time.
+.\training_set\plotvoc_hero3023chapter0_59.wav|Sonetto|en|Please use this. It'll send us directly to our destination.
+.\training_set\plotvoc_hero3023chapter0_6.wav|Sonetto|en|Of course. Timekeeper, I must offer you my deepest apologies.
+.\training_set\plotvoc_hero3023chapter0_60.wav|Sonetto|en|Let's get a move on. Time is of the essence.
+.\training_set\plotvoc_hero3023chapter0_61.wav|Sonetto|en|Oh, now I understand. She's using an optical arcane skill to make herself invisible.
+.\training_set\plotvoc_hero3023chapter0_62.wav|Sonetto|en|Timekeeper, any progress on your end?
+.\training_set\plotvoc_hero3023chapter0_63.wav|Sonetto|en|I was careless, but we should be fine.
+.\training_set\plotvoc_hero3023chapter0_65.wav|Sonetto|en|Battersea Park. Chelsea is across the river.
+.\training_set\plotvoc_hero3023chapter0_66.wav|Sonetto|en|Ascolta. Capire. Pregare. Perdonare.
+.\training_set\plotvoc_hero3023chapter0_67.wav|Sonetto|en|I sent the backup request without authorization, and you were teleported here.
+.\training_set\plotvoc_hero3023chapter0_68.wav|Sonetto|en|You're shaking your head. That means...
+.\training_set\plotvoc_hero3023chapter0_7.wav|Sonetto|en|I know. You don't have to fight, Miss Burton.
+.\training_set\plotvoc_hero3023chapter0_71.wav|Sonetto|en|Please allow me to report and request backup.
+.\training_set\plotvoc_hero3023chapter0_73.wav|Sonetto|en|You return to the Foundation and make the report. As Chief Investigator, I will stay until the last moment.
+.\training_set\plotvoc_hero3023chapter0_74.wav|Sonetto|en|Kaspita, those rioters are still after them. At this rate...
+.\training_set\plotvoc_hero3023chapter0_8.wav|Sonetto|en|We've got some distance from them for now.
+.\training_set\plotvoc_hero3023chapter0_9.wav|Sonetto|en|I should go. I have to go back.
+.\training_set\plotvoc_hero3023chapter1_1.wav|Sonetto|en|Although this is different from all the missions before.
+.\training_set\plotvoc_hero3023chapter1_10.wav|Sonetto|en|However, you need to go to the Foundation and the Scientific Computing Center first to complete the registration process.
+.\training_set\plotvoc_hero3023chapter1_11.wav|Sonetto|en|For anything that may cost others' lives, I want to be as cautious as possible. What if...
+.\training_set\plotvoc_hero3023chapter1_13.wav|Sonetto|en|Vertan, don't just stand there. Talk to them. Explain that.
+.\training_set\plotvoc_hero3023chapter1_14.wav|Sonetto|en|It is... Regulus's voice? Why is her voice coming from above?
+.\training_set\plotvoc_hero3023chapter1_15.wav|Sonetto|en|Skin damage, less than or equal to 5 millimeters. No visceral damage or sci-cube fluctuation found for the moment. Conclusion, the injuries meet the requirements of Emergency Defense Code of St. Pavlov Foundation.
+.\training_set\plotvoc_hero3023chapter1_16.wav|Sonetto|en|I did not expect that you would just summon me. In the future, if possible, I hope you could show me the incantation. I would also like to learn it.
+.\training_set\plotvoc_hero3023chapter1_18.wav|Sonetto|en|Timekeeper? Yes. Uh, um, I'm just thinking about how to find you.
+.\training_set\plotvoc_hero3023chapter1_19.wav|Sonetto|en|This is also the reason why we need to stop the next tragedy. For the peace of all mankind.
+.\training_set\plotvoc_hero3023chapter1_2.wav|Sonetto|en|So this is the distance from the entrance to the wall, and here should also be marked...
+.\training_set\plotvoc_hero3023chapter1_21.wav|Sonetto|en|The authorities would probably want us to recruit new arcanists for the Foundation as much as possible.
+.\training_set\plotvoc_hero3023chapter1_23.wav|Sonetto|en|Really? I seem to feel nothing. It's actually kind of warm compared to our routine training at low temperatures.
+.\training_set\plotvoc_hero3023chapter1_24.wav|Sonetto|en|No, never mind. I'm not worried about my own life. I'm just...
+.\training_set\plotvoc_hero3023chapter1_25.wav|Sonetto|en|May I ask where is this place?
+.\training_set\plotvoc_hero3023chapter1_27.wav|Sonetto|en|The mission is in the underground parking at number 2122 Lincoln Park Street, two blocks away from us. We still have plenty of time.
+.\training_set\plotvoc_hero3023chapter1_29.wav|Sonetto|en|Did you use the advanced arcane skill, Alferoi Around, number 00026260310008, to send me over?
+.\training_set\plotvoc_hero3023chapter1_30.wav|Sonetto|en|How come? I did not. And I will definitely wash my hands after eating.
+.\training_set\plotvoc_hero3023chapter1_31.wav|Sonetto|en|No, it should not be this.
+.\training_set\plotvoc_hero3023chapter1_32.wav|Sonetto|en|Maybe. That's just...
+.\training_set\plotvoc_hero3023chapter1_33.wav|Sonetto|en|I did not expect that there is such a big place in your suitcase. I never knew it before.
+.\training_set\plotvoc_hero3023chapter1_35.wav|Sonetto|en|I heard that you caught... No, you gained the trust of Regulus.
+.\training_set\plotvoc_hero3023chapter1_36.wav|Sonetto|en|Don't let them wander around. It's too dangerous here. The gang fight will definitely hurt them.
+.\training_set\plotvoc_hero3023chapter1_37.wav|Sonetto|en|As timekeeper, you've always carried such a secret for us. Thank you.
+.\training_set\plotvoc_hero3023chapter1_38.wav|Sonetto|en|When I returned to the research center, the committee informed me that Regulus would join the foundation as our colleague.
+.\training_set\plotvoc_hero3023chapter1_39.wav|Sonetto|en|The outside world is very different from what I thought.
+.\training_set\plotvoc_hero3023chapter1_4.wav|Sonetto|en|Yes, I reconstruct it to actual scale. In this way, I can calculate the position that can provide cover without hindering us from joining the battle in time.
+.\training_set\plotvoc_hero3023chapter1_41.wav|Sonetto|en|Um, I am also a bit like quite dizzy.
+.\training_set\plotvoc_hero3023chapter1_42.wav|Sonetto|en|Could I talk to you for a second, Timekeeper?
+.\training_set\plotvoc_hero3023chapter1_43.wav|Sonetto|en|We need to rescue the victims before human gangsters arrive at the underground parking.
+.\training_set\plotvoc_hero3023chapter1_44.wav|Sonetto|en|It doesn't conflict with the Foundation's purpose, right? Preventing confrontations between two races is also a way to defend the peace of mankind.
+.\training_set\plotvoc_hero3023chapter1_45.wav|Sonetto|en|S-sorry, I got carried away.
+.\training_set\plotvoc_hero3023chapter1_46.wav|Sonetto|en|What? No, no, no. The Foundation is definitely not a place for serious old men.
+.\training_set\plotvoc_hero3023chapter1_47.wav|Sonetto|en|You're right. I'm very happy to be invited over.
+.\training_set\plotvoc_hero3023chapter1_48.wav|Sonetto|en|Regulus, she... Hmm. She seems to be asleep. Well...
+.\training_set\plotvoc_hero3023chapter1_50.wav|Sonetto|en|Can... could we go there by bus?
+.\training_set\plotvoc_hero3023chapter1_51.wav|Sonetto|en|Madam Z is right. She said Regulus was with you.
+.\training_set\plotvoc_hero3023chapter1_54.wav|Sonetto|en|As an Arcanist Talent Rated S, we will provide you with the best equipment for scientific research.
+.\training_set\plotvoc_hero3023chapter1_55.wav|Sonetto|en|Timekeeper, you made it!
+.\training_set\plotvoc_hero3023chapter1_57.wav|Sonetto|en|The... that's where Vertan and I grew up. And there are many other interesting people like us. Ahem! Young people!
+.\training_set\plotvoc_hero3023chapter1_59.wav|Sonetto|en|According to the intelligence, now it's still one hour before the incident. Hmm.
+.\training_set\plotvoc_hero3023chapter1_6.wav|Sonetto|en|Regulus, we are very glad to have you.
+.\training_set\plotvoc_hero3023chapter1_60.wav|Sonetto|en|Gunshots? Wha-? But the Arcanists haven't got here!
+.\training_set\plotvoc_hero3023chapter1_61.wav|Sonetto|en|The committee recommended me to help you as the chief assistant.
+.\training_set\plotvoc_hero3023chapter1_62.wav|Sonetto|en|The scope of your responsibilities has also increased. You will be in charge of all the investigations on the storm and Manus Vindictae. The authorities will provide us with assistance in all aspects.
+.\training_set\plotvoc_hero3023chapter1_64.wav|Sonetto|en|According to the latest historical intelligence, there will be a massacre against Arcanus in Chicago on February 14.
+.\training_set\plotvoc_hero3023chapter1_7.wav|Sonetto|en|I am here to convey the committee's commendation and your next mission.
+.\training_set\plotvoc_hero3023chapter1_8.wav|Sonetto|en|I will definitely make an application to the administration.
+.\training_set\plotvoc_hero3023chapter1_9.wav|Sonetto|en|Sigh
+.\training_set\plotvoc_hero3023chapter1_att_1.wav|Sonetto|en|The liquid flowing out of the wall, it's a mixture of human blood and vomitus.
+.\training_set\plotvoc_hero3023chapter1_att_10.wav|Sonetto|en|Kill... He killed himself?
+.\training_set\plotvoc_hero3023chapter1_att_12.wav|Sonetto|en|The overall area of this secret chamber is not too big, but many obstacles here can move. It's easy to get lost.
+.\training_set\plotvoc_hero3023chapter1_att_13.wav|Sonetto|en|Timekeeper! The wall is falling down!
+.\training_set\plotvoc_hero3023chapter1_att_16.wav|Sonetto|en|According to my calculation, that's the closest position to the edge of the woods.
+.\training_set\plotvoc_hero3023chapter1_att_17.wav|Sonetto|en|Uh, what are you... Wait a minute...
+.\training_set\plotvoc_hero3023chapter1_att_18.wav|Sonetto|en|I got you. Please stand behind us. I will escort you to somewhere safe...
+.\training_set\plotvoc_hero3023chapter1_att_19.wav|Sonetto|en|Miss Sotheby, you seem to know the Walden better. Please lead the way.
+.\training_set\plotvoc_hero3023chapter1_att_2.wav|Sonetto|en|Hmm, looks like it has been through a huge fire.
+.\training_set\plotvoc_hero3023chapter1_att_20.wav|Sonetto|en|Caspita. The crash just now awakened the critters in the underground.
+.\training_set\plotvoc_hero3023chapter1_att_21.wav|Sonetto|en|Well, if it were not the path we must take, I really don't want to enter these woods.
+.\training_set\plotvoc_hero3023chapter1_att_23.wav|Sonetto|en|In one minute, I'll cover you to move in the opposite direction. Remember, there's a slope two miles away that can slow down the critters.
+.\training_set\plotvoc_hero3023chapter1_att_24.wav|Sonetto|en|We gathered much intelligence this time. When we get out of here, I will write a report...
+.\training_set\plotvoc_hero3023chapter1_att_25.wav|Sonetto|en|There are indeed many voices. Huh? Timekeeper? I seem to hear her voice.
+.\training_set\plotvoc_hero3023chapter1_att_26.wav|Sonetto|en|Timekeeper, did you see my mark on the map?
+.\training_set\plotvoc_hero3023chapter1_att_28.wav|Sonetto|en|Uh! C- C-
+.\training_set\plotvoc_hero3023chapter1_att_29.wav|Sonetto|en|We should get out of here as soon as possible. Timekeeper, she definitely needs my help.
+.\training_set\plotvoc_hero3023chapter1_att_3.wav|Sonetto|en|Timekeeper, what's going on? You are bleeding!
+.\training_set\plotvoc_hero3023chapter1_att_30.wav|Sonetto|en|The car is stuck in the wall. We have to find another way out.
+.\training_set\plotvoc_hero3023chapter1_att_31.wav|Sonetto|en|At the end of this corner, turn right.
+.\training_set\plotvoc_hero3023chapter1_att_34.wav|Sonetto|en|I heard someone asking for help around here! There was also remnants of potion there.
+.\training_set\plotvoc_hero3023chapter1_att_35.wav|Sonetto|en|There is no way ahead. It seems to be another dead end.
+.\training_set\plotvoc_hero3023chapter1_att_37.wav|Sonetto|en|Freddy... Leave him to me. I will carry him.
+.\training_set\plotvoc_hero3023chapter1_att_38.wav|Sonetto|en|All the plants are dead. There's no evidence of life at all. Even the bark on the branches are charred.
+.\training_set\plotvoc_hero3023chapter1_att_39.wav|Sonetto|en|Are you really joining this insurgent organization? He's using your fears!
+.\training_set\plotvoc_hero3023chapter1_att_40.wav|Sonetto|en|Please trust me, just like how we used to be.
+.\training_set\plotvoc_hero3023chapter1_att_41.wav|Sonetto|en|Please do not lie. You actually detained a human in your secret room.
+.\training_set\plotvoc_hero3023chapter1_att_42.wav|Sonetto|en|The witch. Don't call me.
+.\training_set\plotvoc_hero3023chapter1_att_43.wav|Sonetto|en|Timekeeper, Sotheby and I have explored here for a while.
+.\training_set\plotvoc_hero3023chapter1_att_46.wav|Sonetto|en|Just a little more time, she will spit it out.
+.\training_set\plotvoc_hero3023chapter1_att_48.wav|Sonetto|en|Don't worry. The action strategy would be more flexible if there's only me.
+.\training_set\plotvoc_hero3023chapter1_att_49.wav|Sonetto|en|That's it? She's gone? What are these?
+.\training_set\plotvoc_hero3023chapter1_att_5.wav|Sonetto|en|Uh, Mr. Apple, why are you in front of me? Then...
+.\training_set\plotvoc_hero3023chapter1_att_50.wav|Sonetto|en|Don't worry. I will deal with them right now.
+.\training_set\plotvoc_hero3023chapter1_att_52.wav|Sonetto|en|It shouldn't be a mistake. There is a human imprisoned by Arcanum in this speakeasy. I have to report it to the Timekeeper as soon as possible.
+.\training_set\plotvoc_hero3023chapter1_att_53.wav|Sonetto|en|Oh, it hurts.
+.\training_set\plotvoc_hero3023chapter1_att_54.wav|Sonetto|en|Good idea! Let's start from the middle.
+.\training_set\plotvoc_hero3023chapter1_att_55.wav|Sonetto|en|Don't be afraid. We will definitely...
+.\training_set\plotvoc_hero3023chapter1_att_57.wav|Sonetto|en|No, they cannot hear us. Let me blast the wall.
+.\training_set\plotvoc_hero3023chapter1_att_58.wav|Sonetto|en|She even left us the stolen goods?
+.\training_set\plotvoc_hero3023chapter1_att_6.wav|Sonetto|en|Yes, but it looks like...
+.\training_set\plotvoc_hero3023chapter1_att_60.wav|Sonetto|en|Your sister... I...
+.\training_set\plotvoc_hero3023chapter1_att_61.wav|Sonetto|en|She took the truth serum? I have memorized the formula. The feel and smell of the liquid could confirm it.
+.\training_set\plotvoc_hero3023chapter1_att_62.wav|Sonetto|en|Thank you.
+.\training_set\plotvoc_hero3023chapter1_att_63.wav|Sonetto|en|I will always find you. Please retreat quickly.
+.\training_set\plotvoc_hero3023chapter1_att_64.wav|Sonetto|en|Too bad, he doesn't look right. Hold the handrail!
+.\training_set\plotvoc_hero3023chapter1_att_65.wav|Sonetto|en|Let her lie on her back, right arm high. I will conduct first aid and get her to vomit up the potion.
+.\training_set\plotvoc_hero3023chapter1_att_66.wav|Sonetto|en|This is... Truth Serum.
+.\training_set\plotvoc_hero3023chapter1_att_67.wav|Sonetto|en|Ah, I can't hear you clearly. It's too noisy walking on these dried leaves. All I heard is the whizzing sound behind me.
+.\training_set\plotvoc_hero3023chapter1_att_68.wav|Sonetto|en|Timekeeper, do you have any questions about the plan?
+.\training_set\plotvoc_hero3023chapter1_att_69.wav|Sonetto|en|It is you! You are abusing this girl! Evil murderer! I must stop you!
+.\training_set\plotvoc_hero3023chapter1_att_70.wav|Sonetto|en|I just heard... Is it my mistake?
+.\training_set\plotvoc_hero3023chapter1_att_72.wav|Sonetto|en|Let me think. It should be around the wall in front of the critter lair.
+.\training_set\plotvoc_hero3023chapter1_att_75.wav|Sonetto|en|I had drawn a map before, and the exit is very close in this direction. As long as it's near the outer wall of the speakeasy, we will be able to break through.
+.\training_set\plotvoc_hero3023chapter1_att_76.wav|Sonetto|en|Miss Sotheby? Miss Sotheby? Are you alright?
+.\training_set\plotvoc_hero3023chapter1_att_77.wav|Sonetto|en|Miss Hetherby, did you feed him a whole bottle of that? It's too dangerous!
+.\training_set\plotvoc_hero3023chapter1_att_78.wav|Sonetto|en|Suppressed by such an overwhelming number, we can't get out.
+.\training_set\plotvoc_hero3023chapter1_att_79.wav|Sonetto|en|None of the seven are alive. How much do you hate humans that you could kill them like that?
+.\training_set\plotvoc_hero3023chapter1_att_82.wav|Sonetto|en|No way! Too fast! The speed? It's illegal in the city! WAAAHHHHH!
+.\training_set\plotvoc_hero3023chapter1_att_83.wav|Sonetto|en|As long as the enemies are not ghosts... No. Even if they are ghosts, I will survive.
+.\training_set\plotvoc_hero3023chapter1_att_84.wav|Sonetto|en|Timekeeper? Timekeeper!
+.\training_set\plotvoc_hero3023chapter1_att_85.wav|Sonetto|en|Timekeeper, there is another person.
+.\training_set\plotvoc_hero3023chapter2_10.wav|Sonetto|en|I have recorded the broadcast and... the timekeeper situation, and will report it to the headquarters now.
+.\training_set\plotvoc_hero3023chapter2_11.wav|Sonetto|en|How did the manis do that? These are obviously exogenous diseases.
+.\training_set\plotvoc_hero3023chapter2_12.wav|Sonetto|en|She will do her best not to put herself in danger.
+.\training_set\plotvoc_hero3023chapter2_13.wav|Sonetto|en|The enemy is after us. We are still in danger. It will only cost us more if we act on impulse.
+.\training_set\plotvoc_hero3023chapter2_14.wav|Sonetto|en|There should be no other enemies. Are you all right? Is anybody hurt?
+.\training_set\plotvoc_hero3023chapter2_15.wav|Sonetto|en|"'Miss Sotheby, could we stay at your house for the moment?'
+.\training_set\plotvoc_hero3023chapter2_16.wav|Sonetto|en|We must not let the Manus know where we are going.
+.\training_set\plotvoc_hero3023chapter2_18.wav|Sonetto|en|It seems there's no one else but us here.
+.\training_set\plotvoc_hero3023chapter2_2.wav|Sonetto|en|Sasana, well, this is the first time I've seen so many arcane creatures and plants for real.
+.\training_set\plotvoc_hero3023chapter2_20.wav|Sonetto|en|So, is that...
+.\training_set\plotvoc_hero3023chapter2_21.wav|Sonetto|en|Everybody get in the car! I'm afraid the noise will get us new company.
+.\training_set\plotvoc_hero3023chapter2_23.wav|Sonetto|en|What do you say is in the bowl in front of you, Mr. Carson? What is it?
+.\training_set\plotvoc_hero3023chapter2_25.wav|Sonetto|en|And the Manus will also want to know why the Timekeeper is immune to the storm.
+.\training_set\plotvoc_hero3023chapter2_26.wav|Sonetto|en|Is that... a unicorn on the wall?
+.\training_set\plotvoc_hero3023chapter2_27.wav|Sonetto|en|There is a large-scale disease outbreak in the city center. The news is on the radio.
+.\training_set\plotvoc_hero3023chapter2_28.wav|Sonetto|en|Thank you, Alchemist Sotheby. Mr. Apple has applied the medicine just now, and Miss Marion found the medicine outside the garden's storeroom.
+.\training_set\plotvoc_hero3023chapter2_3.wav|Sonetto|en|I made a small cut of his leaf to release venom. Hopefully the toxin will take effects slower.
+.\training_set\plotvoc_hero3023chapter2_30.wav|Sonetto|en|We need to make a rescue plan as soon as we are safe and get her out.
+.\training_set\plotvoc_hero3023chapter2_34.wav|Sonetto|en|When Timekeeper is absent, Chief Assistant Soneta will be the first in command.
+.\training_set\plotvoc_hero3023chapter2_35.wav|Sonetto|en|Let's fight. Put an end to all that's happening in this ridiculous forest.
+.\training_set\plotvoc_hero3023chapter2_4.wav|Sonetto|en|Huh, it turned around. I thought it was a statue, but it is still alive.
+.\training_set\plotvoc_hero3023chapter2_5.wav|Sonetto|en|Whether it is the solution to the storm, or the plan to rescue the Timekeeper, we all need instructions at a higher level.
+.\training_set\plotvoc_hero3023chapter2_6.wav|Sonetto|en|I'm so sorry. I did not hear it clearly either.
+.\training_set\plotvoc_hero3023chapter2_8.wav|Sonetto|en|I'm fine. The casualties are staggering.
+.\training_set\plotvoc_hero3023chapter2_9.wav|Sonetto|en|Going back now is like lambs to the slaughter. It will only ruin the last chance to rescue the timekeeper.
+.\training_set\plotvoc_hero3023chapter2_att_1.wav|Sonetto|en|I've already heard the Timekeeper's voice. She's close to us. She needs help!
+.\training_set\plotvoc_hero3023chapter2_att_11.wav|Sonetto|en|Come here. Hold your breath. The white fox should be a protective incantation to hide the relief shelter.
+.\training_set\plotvoc_hero3023chapter2_att_12.wav|Sonetto|en|Timekeeper, the supplies have been counted and are being transported to the headquarters. The refugees are also being settled.
+.\training_set\plotvoc_hero3023chapter2_att_14.wav|Sonetto|en|Be careful, everyone. We have entered the area of the relief shelter.
+.\training_set\plotvoc_hero3023chapter2_att_15.wav|Sonetto|en|What comes next is the final battle.
+.\training_set\plotvoc_hero3023chapter2_att_16.wav|Sonetto|en|Why... why can't the fog be cleared? How can we get in?
+.\training_set\plotvoc_hero3023chapter2_att_17.wav|Sonetto|en|I have read her investigation report. She's the stepdaughter of a Washington State forestry tycoon.
+.\training_set\plotvoc_hero3023chapter2_att_19.wav|Sonetto|en|Good. This should be the third transport truck we seized.
+.\training_set\plotvoc_hero3023chapter2_att_20.wav|Sonetto|en|I'm sorry. You protected me when the wall fell.
+.\training_set\plotvoc_hero3023chapter2_att_21.wav|Sonetto|en|Then what about the timekeeper? She...
+.\training_set\plotvoc_hero3023chapter2_att_22.wav|Sonetto|en|Please hold on, Timekeeper. Reinforcements are coming right away.
+.\training_set\plotvoc_hero3023chapter2_att_24.wav|Sonetto|en|Everyone, please lend me your strength.
+.\training_set\plotvoc_hero3023chapter2_att_25.wav|Sonetto|en|I just received the news that here is not the main target for the manis.
+.\training_set\plotvoc_hero3023chapter2_att_26.wav|Sonetto|en|As long as we're more powerful, even just for a second, as long as there's a breach.
+.\training_set\plotvoc_hero3023chapter2_att_27.wav|Sonetto|en|Not yet. If the instructions are delayed, I'm afraid I will implement the backup plan.
+.\training_set\plotvoc_hero3023chapter2_att_28.wav|Sonetto|en|In order to avoid attention, the man has reduced the number of guards for the supply transport. They must have never expected our attack.
+.\training_set\plotvoc_hero3023chapter2_att_29.wav|Sonetto|en|This morning, Arcana led other members and robbed a large amount of supplies from Washington.
+.\training_set\plotvoc_hero3023chapter2_att_3.wav|Sonetto|en|But if that's the Manus' power, I will then need much more training.
+.\training_set\plotvoc_hero3023chapter2_att_30.wav|Sonetto|en|We are late, but not too late.
+.\training_set\plotvoc_hero3023chapter2_att_31.wav|Sonetto|en|You and the others, follow me to the relief shelter.
+.\training_set\plotvoc_hero3023chapter2_att_32.wav|Sonetto|en|Of course we are the transport staff, though the direction we're going is different from yours.
+.\training_set\plotvoc_hero3023chapter2_att_33.wav|Sonetto|en|Where is the timekeeper? What happened to you? Is...
+.\training_set\plotvoc_hero3023chapter2_att_34.wav|Sonetto|en|But I could not save you, and even let you confront the manus alone. I'm sorry.
+.\training_set\plotvoc_hero3023chapter2_att_36.wav|Sonetto|en|The battle is intense. The number of the injured on both sides is still increasing.
+.\training_set\plotvoc_hero3023chapter2_att_37.wav|Sonetto|en|Good. Repeat. Transfer supplies. Rescue refugees.
+.\training_set\plotvoc_hero3023chapter2_att_38.wav|Sonetto|en|Sorry. For the humans who have temporarily lost their minds, this is the only way to go.
+.\training_set\plotvoc_hero3023chapter2_att_41.wav|Sonetto|en|I can't wait any longer. I don't want it to be like the last time.
+.\training_set\plotvoc_hero3023chapter2_att_43.wav|Sonetto|en|So the reinforcements sent by the Foundation are you guys? Excellent!
+.\training_set\plotvoc_hero3023chapter2_att_45.wav|Sonetto|en|What did you just say, Mr. X? Is there another way?
+.\training_set\plotvoc_hero3023chapter2_att_46.wav|Sonetto|en|There must be a way to focus all of our arcanums simultaneously.
+.\training_set\plotvoc_hero3023chapter2_att_47.wav|Sonetto|en|Captain, lead the team to escort the three vehicles back to the manor.
+.\training_set\plotvoc_hero3023chapter2_att_48.wav|Sonetto|en|This time, please let me protect you.
+.\training_set\plotvoc_hero3023chapter2_att_49.wav|Sonetto|en|We have assembled so many combatants!
+.\training_set\plotvoc_hero3023chapter2_att_50.wav|Sonetto|en|What is your wish? May I realize it for you?
+.\training_set\plotvoc_hero3023chapter2_att_51.wav|Sonetto|en|You... You're right.
+.\training_set\plotvoc_hero3023chapter2_att_52.wav|Sonetto|en|Timekeeper, I... I'm so glad that you are safe and sound.
+.\training_set\plotvoc_hero3023chapter2_att_53.wav|Sonetto|en|Yes, Sonetta received. We are on our way to the relief shelter, close to the woods.
+.\training_set\plotvoc_hero3023chapter2_att_54.wav|Sonetto|en|The refugees nearby are not well, and the guards are doubled.
+.\training_set\plotvoc_hero3023chapter2_att_55.wav|Sonetto|en|Schneider, what are you doing?
+.\training_set\plotvoc_hero3023chapter2_att_57.wav|Sonetto|en|From now on, everyone please proceed with caution. Ensure that you are not disturbed by the fog.
+.\training_set\plotvoc_hero3023chapter2_att_58.wav|Sonetto|en|Unforgivable! How can there be someone who spoke such rude words and insulted the deceased and the timekeeper like this?
+.\training_set\plotvoc_hero3023chapter2_att_59.wav|Sonetto|en|Those who are not injured, please take charge of the inventory, and gather all the refugees.
+.\training_set\plotvoc_hero3023chapter2_att_6.wav|Sonetto|en|A Goldberg machine. That explains it. Now I understand.
+.\training_set\plotvoc_hero3023chapter2_att_60.wav|Sonetto|en|I received the message from the patrol team. Followers are around the manor.
+.\training_set\plotvoc_hero3023chapter2_att_61.wav|Sonetto|en|Mr. X and... Regulus!
+.\training_set\plotvoc_hero3023chapter2_att_63.wav|Sonetto|en|So, please start the experiment soon. We do not have much time.
+.\training_set\plotvoc_hero3023chapter2_att_64.wav|Sonetto|en|You're not hurt! That's great!
+.\training_set\plotvoc_hero3023chapter2_att_65.wav|Sonetto|en|What is... the next mission for us? The storm... it should be coming soon.
+.\training_set\plotvoc_hero3023chapter2_att_66.wav|Sonetto|en|Understood. I will do my best.
+.\training_set\plotvoc_hero3023chapter2_att_67.wav|Sonetto|en|What counterintuitive experiment will you do?
+.\training_set\plotvoc_hero3023chapter2_att_68.wav|Sonetto|en|To rescue the Timekeeper is the primary goal.
+.\training_set\plotvoc_hero3023chapter2_att_8.wav|Sonetto|en|Hmm. Are you going to avoid the surveillance of the fog and go directly in to break the incantation?
+.\training_set\plotvoc_hero3023chapter2_att_9.wav|Sonetto|en|She's the heir to an auction house in London, England, and helped us a lot this time.
+.\training_set\plotvoc_hero3023chapter3_10.wav|Sonetto|en|These are... meaningless.
+.\training_set\plotvoc_hero3023chapter3_11.wav|Sonetto|en|Miss! Me! Me!
+.\training_set\plotvoc_hero3023chapter3_12.wav|Sonetto|en|The sanitary trolley is parked at the next turn. I've left the biggest garbage bag on it.
+.\training_set\plotvoc_hero3023chapter3_13.wav|Sonetto|en|A human who casts arcane skills.
+.\training_set\plotvoc_hero3023chapter3_15.wav|Sonetto|en|I thought Timekeeper is receiving treatment for her low spirit, but you said you held her down.
+.\training_set\plotvoc_hero3023chapter3_16.wav|Sonetto|en|Hello, this is Anato, the Chief Assistant of the Foundation's Timekeeper. My employee number is SF38000000801102Y. Could you please register a visit to Ward 1525 for me?
+.\training_set\plotvoc_hero3023chapter3_18.wav|Sonetto|en|M-Matilda? It's you?
+.\training_set\plotvoc_hero3023chapter3_2.wav|Sonetto|en|The registration is also more rigorous than it was before. I wonder if this is because of the storms.
+.\training_set\plotvoc_hero3023chapter3_20.wav|Sonetto|en|Maybe I'm seeing things.
+.\training_set\plotvoc_hero3023chapter3_21.wav|Sonetto|en|The student handbook is protecting us.
+.\training_set\plotvoc_hero3023chapter3_22.wav|Sonetto|en|Hmm? So, here is a junction to the right.
+.\training_set\plotvoc_hero3023chapter3_24.wav|Sonetto|en|Sigh.
+.\training_set\plotvoc_hero3023chapter3_29.wav|Sonetto|en|I don't see any cabinets. That's fine.
+.\training_set\plotvoc_hero3023chapter3_31.wav|Sonetto|en|And I will not bring danger to the timekeeper.
+.\training_set\plotvoc_hero3023chapter3_32.wav|Sonetto|en|I haven't worked out the reason behind this, but she was indeed...
+.\training_set\plotvoc_hero3023chapter3_33.wav|Sonetto|en|So none of these have been applied for the Timekeeper's well-being?
+.\training_set\plotvoc_hero3023chapter3_34.wav|Sonetto|en|I can't tell what's wrong. Perhaps I ate something bad for breakfast.
+.\training_set\plotvoc_hero3023chapter3_35.wav|Sonetto|en|How much longer is this therapy going to take, in your view?
+.\training_set\plotvoc_hero3023chapter3_37.wav|Sonetto|en|In fact, we all knew this would have happened, but it took place too soon caught us all off guard.
+.\training_set\plotvoc_hero3023chapter3_4.wav|Sonetto|en|I-I- Miss, I know this one!
+.\training_set\plotvoc_hero3023chapter3_40.wav|Sonetto|en|She was Greco's biological daughter. Schneider was a pseudonym.
+.\training_set\plotvoc_hero3023chapter3_41.wav|Sonetto|en|I see. Thank you. Is there anything else I should know?
+.\training_set\plotvoc_hero3023chapter3_42.wav|Sonetto|en|Whoever you are, may the peace be with us.
+.\training_set\plotvoc_hero3023chapter3_43.wav|Sonetto|en|I don't understand why you always skip classes.
+.\training_set\plotvoc_hero3023chapter3_44.wav|Sonetto|en|It is protecting us from harm and regrets.
+.\training_set\plotvoc_hero3023chapter3_47.wav|Sonetto|en|Aren't you aware that you've been given a timeout, Miss Burton?
+.\training_set\plotvoc_hero3023chapter3_48.wav|Sonetto|en|At that time, people in Europe widely considered Arcanum to be the paganism that collaborates with the demons, hence the trials against Arcanists.
+.\training_set\plotvoc_hero3023chapter3_49.wav|Sonetto|en|Both sides struggled in repeated battles. In the end, mankind, jointly led by both their religious and secular leaders, prevailed.
+.\training_set\plotvoc_hero3023chapter3_5.wav|Sonetto|en|I didn't know she was the one following me. I shouldn't have acted in haste.
+.\training_set\plotvoc_hero3023chapter3_50.wav|Sonetto|en|Press every button here to buy some time.
+.\training_set\plotvoc_hero3023chapter3_52.wav|Sonetto|en|I don't know much about psychology.
+.\training_set\plotvoc_hero3023chapter3_53.wav|Sonetto|en|Who was that? Could be a disoriented patient, or a man, a spy, or...
+.\training_set\plotvoc_hero3023chapter3_54.wav|Sonetto|en|Who are you? Speak up! Why are you following me?
+.\training_set\plotvoc_hero3023chapter3_58.wav|Sonetto|en|I've looked up the directory of Arcanus in the U.S. in 1929. None of their family is on it.
+.\training_set\plotvoc_hero3023chapter3_6.wav|Sonetto|en|Stop! You're not getting away!
+.\training_set\plotvoc_hero3023chapter3_60.wav|Sonetto|en|In response, Arcanus struck back fiercely. However, due to their spontaneous character and the unpredictability of their whereabouts, their communication was unsuccessful during the fight.
+.\training_set\plotvoc_hero3023chapter3_62.wav|Sonetto|en|Sorry, I overreacted. I don't feel quite myself today.
+.\training_set\plotvoc_hero3023chapter3_63.wav|Sonetto|en|As the Roman Empire declined, some Arcanists were tempted by the irrational side of their nature and applied magia naturalis in warfare and disputes over interests, which irritated the Church and other powers of religion.
+.\training_set\plotvoc_hero3023chapter3_64.wav|Sonetto|en|Miss, the features of Gnosis are, 1. It cannot be verified by an independent third party, and 2. It is impossible to be comprehended through reasoning.
+.\training_set\plotvoc_hero3023chapter3_68.wav|Sonetto|en|I will just take another route.
+.\training_set\plotvoc_hero3023chapter3_69.wav|Sonetto|en|I'm sorry. I... I thought it was someone suspicious, so...
+.\training_set\plotvoc_hero3023chapter3_72.wav|Sonetto|en|As the instructors have told us, to live is to lose things around us until the day we lose life itself to death. That's why we should only focus on the supreme missions.
+.\training_set\plotvoc_hero3023chapter3_73.wav|Sonetto|en|Matilda, are you alright?
+.\training_set\plotvoc_hero3023chapter3_76.wav|Sonetto|en|You know that we are not supposed to pay too much attention to affairs outside the school. Please, don't bring me these pebbles and frogs anymore.
+.\training_set\plotvoc_hero3023chapter3_8.wav|Sonetto|en|"'Turn right again? Hmm? But there's only one way, and it goes left.'
+.\training_set\plotvoc_hero3023chapter3_att_11.wav|Sonetto|en|Otherwise, I'm obliged to report this to the instructor as the monitor student on duty.
+.\training_set\plotvoc_hero3023chapter3_att_13.wav|Sonetto|en|I heard you were in a coma for two days.
+.\training_set\plotvoc_hero3023chapter3_att_14.wav|Sonetto|en|You're welcome. Are you feeling better now?
+.\training_set\plotvoc_hero3023chapter3_att_15.wav|Sonetto|en|Even if it will cost you everything you've had here...
+.\training_set\plotvoc_hero3023chapter3_att_16.wav|Sonetto|en|Okay, she's now temporarily paralyzed.
+.\training_set\plotvoc_hero3023chapter3_att_17.wav|Sonetto|en|The song was beautiful.
+.\training_set\plotvoc_hero3023chapter3_att_18.wav|Sonetto|en|I may have misunderstood you. I'm sorry.
+.\training_set\plotvoc_hero3023chapter3_att_19.wav|Sonetto|en|How are you feeling now? I heard you were in a coma for two days.
+.\training_set\plotvoc_hero3023chapter3_att_20.wav|Sonetto|en|Seems like you won't be needing my notebook anymore.
+.\training_set\plotvoc_hero3023chapter3_att_21.wav|Sonetto|en|You weren't in the dormitory last night.
+.\training_set\plotvoc_hero3023chapter3_att_22.wav|Sonetto|en|You will not be regretful, right?
+.\training_set\plotvoc_hero3023chapter3_att_23.wav|Sonetto|en|I know you are planning something behind the instructor's backs. Please do not act against any regulations stipulated in the student handbook.
+.\training_set\plotvoc_hero3023chapter3_att_24.wav|Sonetto|en|Yes, I heard it's dreadful in there. I went to visit with some food, but was turned away by the instructor.
+.\training_set\plotvoc_hero3023chapter3_att_25.wav|Sonetto|en|It was a pleasure to be your death's mate, Burton.
+.\training_set\plotvoc_hero3023chapter3_att_27.wav|Sonetto|en|You're going to do something very dangerous, aren't you?
+.\training_set\plotvoc_hero3023chapter3_att_29.wav|Sonetto|en|What... what are you singing?
+.\training_set\plotvoc_hero3023chapter3_att_30.wav|Sonetto|en|I… I think you may find this helpful.
+.\training_set\plotvoc_hero3023chapter3_att_4.wav|Sonetto|en|you
+.\training_set\plotvoc_hero3023chapter3_att_5.wav|Sonetto|en|They're welcome to borrow my notes.
+.\training_set\plotvoc_hero3023chapter3_att_6.wav|Sonetto|en|Please be mindful of your language, Lilia.
+.\training_set\plotvoc_hero3023chapter3_att_7.wav|Sonetto|en|Your duty is to eliminate the alityaus in the campus, not attacking the students.
+.\training_set\plotvoc_hero3023chapter3_att_8.wav|Sonetto|en|Thank you. Please, take good care of the timekeeper. I'll be on my way.
+.\training_set\plotvoc_hero3023chapter3_att_9.wav|Sonetto|en|Yes, as I am today.
+.\training_set\plotvoc_hero3023chapter4_part01_1.wav|Sonetto|en|People on it will fall with it.
+.\training_set\plotvoc_hero3023chapter4_part01_12.wav|Sonetto|en|The other deck makes me feel comfortable, as if I have spent a long time there.
+.\training_set\plotvoc_hero3023chapter4_part01_13.wav|Sonetto|en|There are two broken decks. They were originally one piece.
+.\training_set\plotvoc_hero3023chapter4_part01_16.wav|Sonetto|en|I need to ask you a favor.
+.\training_set\plotvoc_hero3023chapter4_part01_17.wav|Sonetto|en|Could you please read the future for me?
+.\training_set\plotvoc_hero3023chapter4_part01_19.wav|Sonetto|en|I can trace back every step I take.
+.\training_set\plotvoc_hero3023chapter4_part01_2.wav|Sonetto|en|All the students of the School of Primary Defense of Mankind are devoted to the peace of mankind. We have pledged lifelong allegiance to the foundation that leads the cause.
+.\training_set\plotvoc_hero3023chapter4_part01_20.wav|Sonetto|en|Madam Vice President, according to our investigation of the event in 1929 and Timekeeper's report, it is highly possible that Arcana of Manus Vendicte has the arcane power to influence the sanity and consciousness of others from a certain distance.
+.\training_set\plotvoc_hero3023chapter4_part01_23.wav|Sonetto|en|I am here to confess and to seek the prophecy.
+.\training_set\plotvoc_hero3023chapter4_part01_24.wav|Sonetto|en|Ahem.
+.\training_set\plotvoc_hero3023chapter4_part01_26.wav|Sonetto|en|I said something wrong.
+.\training_set\plotvoc_hero3023chapter4_part01_27.wav|Sonetto|en|.
+.\training_set\plotvoc_hero3023chapter4_part01_28.wav|Sonetto|en|I think all of her responses were out of her survival instinct.
+.\training_set\plotvoc_hero3023chapter4_part01_29.wav|Sonetto|en|I am ready. Please tell me the right choice.
+.\training_set\plotvoc_hero3023chapter4_part01_30.wav|Sonetto|en|This is also one of the survival strategies that have been taught in Chapter 1, Book 3 of Introduction to Strategy, edited by the School of Primary Defense of Mankind.
+.\training_set\plotvoc_hero3023chapter4_part01_35.wav|Sonetto|en|I can feel the coldness of the deep water and the pains when they struggle.
+.\training_set\plotvoc_hero3023chapter4_part01_37.wav|Sonetto|en|There is something bright on that deck, just like Timekeeper and Truvis. It is warm there.
+.\training_set\plotvoc_hero3023chapter4_part01_39.wav|Sonetto|en|I let them go. That was the worst decision I have ever made.
+.\training_set\plotvoc_hero3023chapter4_part01_4.wav|Sonetto|en|She is able to exert an irresistible psychic influence on others through short conversations. Timekeeper... Timekeeper was under huge threats at that time.
+.\training_set\plotvoc_hero3023chapter4_part01_40.wav|Sonetto|en|Good day, Madam Vice President. Greetings to all committee members. May the peace be with us.
+.\training_set\plotvoc_hero3023chapter4_part01_41.wav|Sonetto|en|Matilda, are you there?
+.\training_set\plotvoc_hero3023chapter4_part01_42.wav|Sonetto|en|I was unable to help Timekeeper and Drew this. Instead, I created a deeper misunderstanding.
+.\training_set\plotvoc_hero3023chapter4_part01_43.wav|Sonetto|en|I'm sorry, but I think I heard your voice.
+.\training_set\plotvoc_hero3023chapter4_part01_44.wav|Sonetto|en|I... I do not know.
+.\training_set\plotvoc_hero3023chapter4_part01_47.wav|Sonetto|en|What choice should I make to resolve their conflict? Stalemate like that really scares me.
+.\training_set\plotvoc_hero3023chapter4_part01_6.wav|Sonetto|en|Every time I get closer to one deck, the other one sinks.
+.\training_set\plotvoc_hero3023chapter4_part02_1.wav|Sonetto|en|Sorry, I cannot do math now.
+.\training_set\plotvoc_hero3023chapter4_part02_10.wav|Sonetto|en|I heard that. The number of people opposing the draft significantly increased after the debate.
+.\training_set\plotvoc_hero3023chapter4_part02_11.wav|Sonetto|en|The system arranged guards to accompany me to ensure my safety.
+.\training_set\plotvoc_hero3023chapter4_part02_13.wav|Sonetto|en|Hmm... What is an arcade?
+.\training_set\plotvoc_hero3023chapter4_part02_14.wav|Sonetto|en|My mind goes blank.
+.\training_set\plotvoc_hero3023chapter4_part02_15.wav|Sonetto|en|Listen to the voice in my mind.
+.\training_set\plotvoc_hero3023chapter4_part02_16.wav|Sonetto|en|Is it because of the provisions of talent protection?
+.\training_set\plotvoc_hero3023chapter4_part02_17.wav|Sonetto|en|Yes. I am taking combat drills with the artificial somnambulism training system.
+.\training_set\plotvoc_hero3023chapter4_part02_18.wav|Sonetto|en|Really? In that case, the vote result has to come out before that.
+.\training_set\plotvoc_hero3023chapter4_part02_2.wav|Sonetto|en|The light is flashing. What did you press?
+.\training_set\plotvoc_hero3023chapter4_part02_20.wav|Sonetto|en|However, I am more familiar with the way you talk now. It reminds me of our time at school.
+.\training_set\plotvoc_hero3023chapter4_part02_21.wav|Sonetto|en|I... I can provide the report, but I have no experience in court hearings.
+.\training_set\plotvoc_hero3023chapter4_part02_22.wav|Sonetto|en|Please let me know if there are any missions to alleviate the situation. I will do my best to meet your expectations.
+.\training_set\plotvoc_hero3023chapter4_part02_23.wav|Sonetto|en|The moment they entered the building, they started sawing the trees, saying that they need to carve out the path.
+.\training_set\plotvoc_hero3023chapter4_part02_24.wav|Sonetto|en|I have been instructed to manage affairs on behalf of Timekeeper during her treatment.
+.\training_set\plotvoc_hero3023chapter4_part02_25.wav|Sonetto|en|I hope Miss Druvis can hold out.
+.\training_set\plotvoc_hero3023chapter4_part02_26.wav|Sonetto|en|If I say something wrong, will it affect the special prosecutor's decision?
+.\training_set\plotvoc_hero3023chapter4_part02_28.wav|Sonetto|en|Dear Madam Z, With this letter, I send you my best regards.
+.\training_set\plotvoc_hero3023chapter4_part02_30.wav|Sonetto|en|Ah, ah, ah.
+.\training_set\plotvoc_hero3023chapter4_part02_31.wav|Sonetto|en|I will do my best, Madam Z.
+.\training_set\plotvoc_hero3023chapter4_part02_33.wav|Sonetto|en|Thank you, Matilda. Your divination is very helpful. My mind is very clear now.
+.\training_set\plotvoc_hero3023chapter4_part02_34.wav|Sonetto|en|Thank you for making time for me, Matilda.
+.\training_set\plotvoc_hero3023chapter4_part02_35.wav|Sonetto|en|You were very serious during the divination. Even your tone was different from usual.
+.\training_set\plotvoc_hero3023chapter4_part02_37.wav|Sonetto|en|Uh, okay. Shall I turn this red knob?
+.\training_set\plotvoc_hero3023chapter4_part02_39.wav|Sonetto|en|Since then, I have not been there.
+.\training_set\plotvoc_hero3023chapter4_part02_40.wav|Sonetto|en|If you need my help next time, please let me know.
+.\training_set\plotvoc_hero3023chapter4_part02_41.wav|Sonetto|en|I submitted a request to enter that building.
+.\training_set\plotvoc_hero3023chapter4_part02_6.wav|Sonetto|en|Sigh. Sigh. Sigh. Sigh.
+.\training_set\plotvoc_hero3023chapter4_part02_7.wav|Sonetto|en|No, I'm not. I am not goofing around.
+.\training_set\plotvoc_hero3023chapter4_part02_9.wav|Sonetto|en|I am exhausted.
+.\training_set\plotvoc_hero3023chapter4_part03_1.wav|Sonetto|en|I am happy to be able to make a difference during the time and defend the established facts.
+.\training_set\plotvoc_hero3023chapter4_part03_10.wav|Sonetto|en|In this particular case, you should have reported to the headquarters or to the investigators out there, instead of doing nothing but leaving an insult.
+.\training_set\plotvoc_hero3023chapter4_part03_11.wav|Sonetto|en|They were required to sell alcohol and speakeasies at night to make a profit for the office.
+.\training_set\plotvoc_hero3023chapter4_part03_12.wav|Sonetto|en|The malpractice at daytime was therefore tacitly approved. This can be found in photo appendix number 3-12-8.
+.\training_set\plotvoc_hero3023chapter4_part03_13.wav|Sonetto|en|Well, according to measures of the Foundation for Administrative Penalties, based on the severity of the circumstances, fines will be imposed and the offender's salary shall be deducted accordingly in minor cases, while detention or expulsion shall be imposed in major cases.
+.\training_set\plotvoc_hero3023chapter4_part03_14.wav|Sonetto|en|Ah, okay. Copy that. Thank you for the message.
+.\training_set\plotvoc_hero3023chapter4_part03_17.wav|Sonetto|en|You refuse to offer a human... No, an entire family, the shelter of the Foundation.
+.\training_set\plotvoc_hero3023chapter4_part03_18.wav|Sonetto|en|I do not understand why there was such wording on it.
+.\training_set\plotvoc_hero3023chapter4_part03_19.wav|Sonetto|en|I seem to be... too emotional just now.
+.\training_set\plotvoc_hero3023chapter4_part03_2.wav|Sonetto|en|Does not the Declaration of Peace say, Everyone strong or weak, rich or poor, of any race, deserves a helping hand so that the existing peace and order shall be maintained?
+.\training_set\plotvoc_hero3023chapter4_part03_21.wav|Sonetto|en|If the number of people involved in a brawl is equal to or less than 8, and there are no major casualties, the penalty will be minor.
+.\training_set\plotvoc_hero3023chapter4_part03_22.wav|Sonetto|en|Hereon, I shall prove the value of my testimony.
+.\training_set\plotvoc_hero3023chapter4_part03_23.wav|Sonetto|en|I am not slandering the office.
+.\training_set\plotvoc_hero3023chapter4_part03_25.wav|Sonetto|en|They were humans. If only they had made it to the headquarters sooner. Maybe... They...
+.\training_set\plotvoc_hero3023chapter4_part03_26.wav|Sonetto|en|Take it easy, take it easy.
+.\training_set\plotvoc_hero3023chapter4_part03_27.wav|Sonetto|en|Whether the history is long or short, it does not affect the validity of the facts.
+.\training_set\plotvoc_hero3023chapter4_part03_28.wav|Sonetto|en|This is the field report and diary I wrote about the storm in 1929.
+.\training_set\plotvoc_hero3023chapter4_part03_29.wav|Sonetto|en|Was it because she did not pay enough shelter fee to qualify for sheltering?
+.\training_set\plotvoc_hero3023chapter4_part03_3.wav|Sonetto|en|I personally believe that there is still much room for improvement for the Foundation's office in Chicago in the United States.
+.\training_set\plotvoc_hero3023chapter4_part03_30.wav|Sonetto|en|Why? Debate duel. Can I do it again?
+.\training_set\plotvoc_hero3023chapter4_part03_31.wav|Sonetto|en|We did not know each other. I heard of him at work, but we rarely worked together.
+.\training_set\plotvoc_hero3023chapter4_part03_32.wav|Sonetto|en|Take a deep breath, and then focus.
+.\training_set\plotvoc_hero3023chapter4_part03_33.wav|Sonetto|en|In addition, there was a racial brawl in the square, but the office did not send anyone to pacify the crowd or maintain the order.
+.\training_set\plotvoc_hero3023chapter4_part03_34.wav|Sonetto|en|But instead of offering any solution or help, you just gave her a rejection letter.
+.\training_set\plotvoc_hero3023chapter4_part03_35.wav|Sonetto|en|Half of the staff in the office were absent from work. I learned that this was permitted by the director.
+.\training_set\plotvoc_hero3023chapter4_part03_36.wav|Sonetto|en|Article 78 of the International Law of Procedure states, Any individual who has knowledge of the case and has an independent will is obliged to testify as witness.
+.\training_set\plotvoc_hero3023chapter4_part03_37.wav|Sonetto|en|She once chose to join the Foundation under the pressure of both the Storm and Manus Vindictae.
+.\training_set\plotvoc_hero3023chapter4_part03_38.wav|Sonetto|en|It had a small line written on it. Poppers, fuck off.
+.\training_set\plotvoc_hero3023chapter4_part03_39.wav|Sonetto|en|The penalty also depends on what is damaged. For example, production tools, household goods, buildings, equipment, and facilities, etc. These are the properties that involve less cost and limited influence if damaged.
+.\training_set\plotvoc_hero3023chapter4_part03_4.wav|Sonetto|en|Greetings. May the peace be with us.
+.\training_set\plotvoc_hero3023chapter4_part03_40.wav|Sonetto|en|This is good. This is great.
+.\training_set\plotvoc_hero3023chapter4_part03_41.wav|Sonetto|en|I was one of the parties involved in the 1929 storm incident. I submitted a detailed report of that. He searched the database and found the report, so he made a request for access to my supervisor, Madam Z.
+.\training_set\plotvoc_hero3023chapter4_part03_42.wav|Sonetto|en|Or was it because the wand she used was transformed by Arcanum, which made you think she was an Arcanist?
+.\training_set\plotvoc_hero3023chapter4_part03_43.wav|Sonetto|en|Schneider, a friend we met in Chicago.
+.\training_set\plotvoc_hero3023chapter4_part03_44.wav|Sonetto|en|February 14th, 1929, after the storm.
+.\training_set\plotvoc_hero3023chapter4_part03_45.wav|Sonetto|en|A procession appeared in the square in front of the office. They were mostly humans, with a few arcanists.
+.\training_set\plotvoc_hero3023chapter4_part03_48.wav|Sonetto|en|That morning, an hour and a half before my encounter with Timekeeper,
+.\training_set\plotvoc_hero3023chapter4_part03_49.wav|Sonetto|en|May I ask what happened? Why are you asking this all of a sudden?
+.\training_set\plotvoc_hero3023chapter4_part03_5.wav|Sonetto|en|This is a record of all my travels from the time I received the promotion order in the research center to go to the office in Chicago in the United States, to the time I went back to the headquarters of the foundation when the storm came.
+.\training_set\plotvoc_hero3023chapter4_part03_50.wav|Sonetto|en|Hello. May the peace be with us.
+.\training_set\plotvoc_hero3023chapter4_part03_51.wav|Sonetto|en|They were protesting against the high registration fee charged by the office for registering their identity information.
+.\training_set\plotvoc_hero3023chapter4_part03_52.wav|Sonetto|en|I, my immediate supervisor is having a long-term treatment, and there are more time slots available on my schedule.
+.\training_set\plotvoc_hero3023chapter4_part03_6.wav|Sonetto|en|I wrote them in my diary. Does that count as evidence?
+.\training_set\plotvoc_hero3023chapter4_part03_7.wav|Sonetto|en|Then, Madam Z asked if I would be willing to provide the report and attend court as witness.
+.\training_set\plotvoc_hero3023chapter4_part03_8.wav|Sonetto|en|I would like to prove that the Foundation's office in Chicago and the United States violated the declaration, fight for the peace and order of mankind, and the rights of some humans and arcanists.
+.\training_set\plotvoc_hero3023chapter5_part01_1.wav|Sonetto|en|It's as if something is jamming the signal.
+.\training_set\plotvoc_hero3023chapter5_part01_10.wav|Sonetto|en|60% of the left cabin has been flooded, as well as 75% of the right cabin.
+.\training_set\plotvoc_hero3023chapter5_part01_12.wav|Sonetto|en|Watch out! The big waves!
+.\training_set\plotvoc_hero3023chapter5_part01_13.wav|Sonetto|en|We don't know where this flow is leading us. We know nothing about it.
+.\training_set\plotvoc_hero3023chapter5_part01_16.wav|Sonetto|en|Oh, and these are the files you asked me to search for.
+.\training_set\plotvoc_hero3023chapter5_part01_17.wav|Sonetto|en|I just heard some spirit-lifting news at the hall. Phenomenal achievement, Timekeeper.
+.\training_set\plotvoc_hero3023chapter5_part01_18.wav|Sonetto|en|The captain of the Razor Special Operations Squad told me this might be a settlement of a group of Arcanists who have been long cut off from the world.
+.\training_set\plotvoc_hero3023chapter5_part01_19.wav|Sonetto|en|Timekeeper, we have an emergency.
+.\training_set\plotvoc_hero3023chapter5_part01_2.wav|Sonetto|en|It's similar to the training we once received. I can go inside on behalf of Timekeeper.
+.\training_set\plotvoc_hero3023chapter5_part01_21.wav|Sonetto|en|Miss Sophia, could you please repeat all the taboos on the island?
+.\training_set\plotvoc_hero3023chapter5_part01_22.wav|Sonetto|en|We've been trapped in a tremendous ritual.
+.\training_set\plotvoc_hero3023chapter5_part01_23.wav|Sonetto|en|Wait, we have something to...
+.\training_set\plotvoc_hero3023chapter5_part01_24.wav|Sonetto|en|Disobedient. Unreasonable. Never played by the rules.
+.\training_set\plotvoc_hero3023chapter5_part01_25.wav|Sonetto|en|And one more thing, Captain, and I'm asking this with no ill intention. Uh, may I know your lineage?
+.\training_set\plotvoc_hero3023chapter5_part01_26.wav|Sonetto|en|Did you just violate the rule of not to pick up what has fallen?
+.\training_set\plotvoc_hero3023chapter5_part01_27.wav|Sonetto|en|Wait, Lillia! Are you sure about taking off in such stormy weather?
+.\training_set\plotvoc_hero3023chapter5_part01_28.wav|Sonetto|en|Thank goodness you are all safe and sound.
+.\training_set\plotvoc_hero3023chapter5_part01_3.wav|Sonetto|en|That sounds like the turbine just cracked.
+.\training_set\plotvoc_hero3023chapter5_part01_30.wav|Sonetto|en|I've tried other contingency teleport incantations, but none of them worked in this area. Neither did the communicator.
+.\training_set\plotvoc_hero3023chapter5_part01_32.wav|Sonetto|en|Those dolphins sent us to the other side of the currents.
+.\training_set\plotvoc_hero3023chapter5_part01_33.wav|Sonetto|en|Eating... beans?
+.\training_set\plotvoc_hero3023chapter5_part01_35.wav|Sonetto|en|Also, Ms. Sotheby accepted your request.
+.\training_set\plotvoc_hero3023chapter5_part01_36.wav|Sonetto|en|It was too dark in there. I didn't take them all down.
+.\training_set\plotvoc_hero3023chapter5_part01_37.wav|Sonetto|en|To stay quiet and keep the secrets.
+.\training_set\plotvoc_hero3023chapter5_part01_38.wav|Sonetto|en|It's a tremendous breakthrough in our fight with Manus Vindictae. Everyone at the headquarters is cheering.
+.\training_set\plotvoc_hero3023chapter5_part01_39.wav|Sonetto|en|Luckily, the SPDM library has every single issue of Global Arcane Geography since the 1960s,
+.\training_set\plotvoc_hero3023chapter5_part01_4.wav|Sonetto|en|Timekeeper, did you see that?
+.\training_set\plotvoc_hero3023chapter5_part01_41.wav|Sonetto|en|They are the Apiron believers. They lent us a helping hand after the ship went down.
+.\training_set\plotvoc_hero3023chapter5_part01_42.wav|Sonetto|en|Yes, only the members of the Razor Squad are still missing. They also belong to the St. Pavlov Foundation like we do.
+.\training_set\plotvoc_hero3023chapter5_part01_43.wav|Sonetto|en|The size of the sea monster! It's shrinking!
+.\training_set\plotvoc_hero3023chapter5_part01_44.wav|Sonetto|en|The ship cannot survive such a ferocious storm. Timekeeper, we should get ready for evacuation.
+.\training_set\plotvoc_hero3023chapter5_part01_45.wav|Sonetto|en|Regulus, did you just pick up the grape that 37 threw at you earlier from the ground?
+.\training_set\plotvoc_hero3023chapter5_part01_48.wav|Sonetto|en|The teleport soft disk can't be activated.
+.\training_set\plotvoc_hero3023chapter5_part01_50.wav|Sonetto|en|Although, I don't know what this component really is. Is it a kind of ritual? Or a unique substance?
+.\training_set\plotvoc_hero3023chapter5_part01_51.wav|Sonetto|en|That's to say, any arcane amuse on this island is only a part of this giant flow.
+.\training_set\plotvoc_hero3023chapter5_part01_52.wav|Sonetto|en|I've never seen such a tremendous ritual.
+.\training_set\plotvoc_hero3023chapter5_part01_55.wav|Sonetto|en|Lillia is on her way. Now we only need to find the captain and his team members.
+.\training_set\plotvoc_hero3023chapter5_part01_56.wav|Sonetto|en|Thank you. I wish your next mission would be trouble-free, too.
+.\training_set\plotvoc_hero3023chapter5_part01_6.wav|Sonetto|en|The members of the Razor Squad are all humans.
+.\training_set\plotvoc_hero3023chapter5_part01_8.wav|Sonetto|en|Unlike other unregistered Arcanists, these people chose not to live alongside the humans. They still lead an ancient Arcanist way of life and follow the old customs. We must be meticulous when getting in touch with them.
+.\training_set\plotvoc_hero3023chapter5_part01_9.wav|Sonetto|en|I've requested information from Ms. Mosnell about Apiron, but it will take some time for the files to come in.
+.\training_set\plotvoc_hero3023chapter5_part02_1.wav|Sonetto|en|No, I don't have a number.
+.\training_set\plotvoc_hero3023chapter5_part02_10.wav|Sonetto|en|This is my duty. I won't let it get in the way of the team's investigation.
+.\training_set\plotvoc_hero3023chapter5_part02_11.wav|Sonetto|en|I ask my tongue to be taken, for it has spoken mindless words, and I shall stay silent for the truth.
+.\training_set\plotvoc_hero3023chapter5_part02_12.wav|Sonetto|en|I see. I will contact Miss Juvus and Miss Moiseau first and keep an eye on Arcana.
+.\training_set\plotvoc_hero3023chapter5_part02_14.wav|Sonetto|en|Sorry, I have never thought about this. For me, Arcanum is my inborn mission.
+.\training_set\plotvoc_hero3023chapter5_part02_15.wav|Sonetto|en|I am Sunetto from San Pavlo Foundation.
+.\training_set\plotvoc_hero3023chapter5_part02_16.wav|Sonetto|en|Does this mean we could collect more asymmetrical nuclide R samples?
+.\training_set\plotvoc_hero3023chapter5_part02_17.wav|Sonetto|en|No, no, I wouldn't have achieved this without your guidance.
+.\training_set\plotvoc_hero3023chapter5_part02_18.wav|Sonetto|en|But there's still something confusing me, such as Pythagoras and his golden thigh, his memory of the previous lifetimes as the son of Hermes, and the transmigration for every 216 years. Could you please tell me more about these?
+.\training_set\plotvoc_hero3023chapter5_part02_2.wav|Sonetto|en|This is... news of the outside world?
+.\training_set\plotvoc_hero3023chapter5_part02_21.wav|Sonetto|en|I've thoroughly studied the scripture and this time I'm sure I can do better.
+.\training_set\plotvoc_hero3023chapter5_part02_22.wav|Sonetto|en|Back in the Foundation, I once won a public debate of a similar nature.
+.\training_set\plotvoc_hero3023chapter5_part02_23.wav|Sonetto|en|I failed again.
+.\training_set\plotvoc_hero3023chapter5_part02_24.wav|Sonetto|en|These are Timekeeper's contributions. I barely did anything.
+.\training_set\plotvoc_hero3023chapter5_part02_25.wav|Sonetto|en|I'm completely lost in this irrational debate. I...
+.\training_set\plotvoc_hero3023chapter5_part02_26.wav|Sonetto|en|It's... it's okay, Timekeeper. I will defend Regulus.
+.\training_set\plotvoc_hero3023chapter5_part02_27.wav|Sonetto|en|Sigh. Sigh.
+.\training_set\plotvoc_hero3023chapter5_part02_29.wav|Sonetto|en|Don't worry, Timekeeper. Lilia and I will keep an eye on Manus Vindicte.
+.\training_set\plotvoc_hero3023chapter5_part02_3.wav|Sonetto|en|Hmm? No, I didn't do anything. Timekeeper knows the storm better.
+.\training_set\plotvoc_hero3023chapter5_part02_31.wav|Sonetto|en|So Manus Vindicte is also restrained by the Stone Bangle like we are.
+.\training_set\plotvoc_hero3023chapter5_part02_32.wav|Sonetto|en|Timekeeper, this island, the Manus's mask, and your suitcase are all immune to the storm.
+.\training_set\plotvoc_hero3023chapter5_part02_33.wav|Sonetto|en|I wish all the honorable audiences here would lend me their ears to hear my defense as a humanitarian gesture.
+.\training_set\plotvoc_hero3023chapter5_part02_34.wav|Sonetto|en|The numbers... charm?
+.\training_set\plotvoc_hero3023chapter5_part02_35.wav|Sonetto|en|I swear to let matter stay in the world of matter and a form in the world of forms.
+.\training_set\plotvoc_hero3023chapter5_part02_36.wav|Sonetto|en|Don't worry, Timekeeper. I'll defend myself.
+.\training_set\plotvoc_hero3023chapter5_part02_37.wav|Sonetto|en|Renia sereno intenso ed infinito!
+.\training_set\plotvoc_hero3023chapter5_part02_38.wav|Sonetto|en|Arcana's still in the hall. She hasn't taken any action so far. Got it.
+.\training_set\plotvoc_hero3023chapter5_part02_39.wav|Sonetto|en|Miss Sophia, you said this is the graveyard?
+.\training_set\plotvoc_hero3023chapter5_part02_4.wav|Sonetto|en|Regulus, studying the scripture is not that scary. They will teach you and guide you until you take full command.
+.\training_set\plotvoc_hero3023chapter5_part02_40.wav|Sonetto|en|However unworthy you think you are, there must be something we can do.
+.\training_set\plotvoc_hero3023chapter5_part02_41.wav|Sonetto|en|You did it in an efficient and precise manner, which is already an advanced ritual.
+.\training_set\plotvoc_hero3023chapter5_part02_42.wav|Sonetto|en|I think I kind of know how you feel, Miss Sophia.
+.\training_set\plotvoc_hero3023chapter5_part02_48.wav|Sonetto|en|Timekeeper, you are here.
+.\training_set\plotvoc_hero3023chapter5_part02_49.wav|Sonetto|en|If you ask me, you are an unbelievably excellent arcanist.
+.\training_set\plotvoc_hero3023chapter5_part02_5.wav|Sonetto|en|Just like... taking lessons at school.
+.\training_set\plotvoc_hero3023chapter5_part02_50.wav|Sonetto|en|Timekeeper, I'm so sorry. I tried my best, but still I couldn't understand the debate.
+.\training_set\plotvoc_hero3023chapter5_part02_51.wav|Sonetto|en|Maybe we can't reach the core of the truth, but we can clean up the path to it for the future explorers.
+.\training_set\plotvoc_hero3023chapter5_part02_54.wav|Sonetto|en|You can flatten the ground, clean up the beach, and rectify errors.
+.\training_set\plotvoc_hero3023chapter5_part02_55.wav|Sonetto|en|Sorry, Timekeeper. I just...
+.\training_set\plotvoc_hero3023chapter5_part02_6.wav|Sonetto|en|Please keep an eye on the mana's followers. Be mindful of the restrictions set by the bangle.
+.\training_set\plotvoc_hero3023chapter5_part02_8.wav|Sonetto|en|Those mathematic statements are really inspiring. I've learned a lot.
+.\training_set\plotvoc_hero3023chapter5_part02_9.wav|Sonetto|en|Timekeeper, I'm sorry. At the assembly, I failed to understand the arcanist's logic. It was totally different to the debates I have participated in.
+.\training_set\plotvoc_hero3023chapter7_10.wav|Sonetto|en|But a Puron is a boundless, limitless existence. If we wish to seek knowledge beyond our own limitations, we must turn to it for help.
+.\training_set\plotvoc_hero3023chapter7_12.wav|Sonetto|en|They are moving as planned. The deployment will be complete within two hours.
+.\training_set\plotvoc_hero3023chapter7_13.wav|Sonetto|en|I know perfectly well what I'm doing. Your provocations will not work on me.
+.\training_set\plotvoc_hero3023chapter7_14.wav|Sonetto|en|Like the storm of 1929, it was accelerated by social upheavals resulting from the constant tensions Manus Vindicte created between nations.
+.\training_set\plotvoc_hero3023chapter7_15.wav|Sonetto|en|Mind your distance. Arcana has power over people's minds at a close range.
+.\training_set\plotvoc_hero3023chapter7_16.wav|Sonetto|en|"'My apologies, Regulus. I was too focused on linear regression formulas.'
+.\training_set\plotvoc_hero3023chapter7_17.wav|Sonetto|en|I will not make the same mistake again, Miss Arcana.
+.\training_set\plotvoc_hero3023chapter7_18.wav|Sonetto|en|The pact on this bangle is of a similar nature.
+.\training_set\plotvoc_hero3023chapter7_19.wav|Sonetto|en|Once received, please do not read it out by any means. The side effects are extremely deadly.
+.\training_set\plotvoc_hero3023chapter7_2.wav|Sonetto|en|Rania sereno, intenso ed infinito!
+.\training_set\plotvoc_hero3023chapter7_20.wav|Sonetto|en|Uh, 37, we...
+.\training_set\plotvoc_hero3023chapter7_21.wav|Sonetto|en|Laplace is gathering every piece of information they can find on the storm. The discovery of the asymmetrical nuclide R was already a remarkable breakthrough.
+.\training_set\plotvoc_hero3023chapter7_22.wav|Sonetto|en|Laplace is looking for a safe method to deliver the incantation. Given the incidence before, some time is required for the application procedure.
+.\training_set\plotvoc_hero3023chapter7_23.wav|Sonetto|en|Go, Timekeeper. While you're out, Lilia and I will ready us for evacuation.
+.\training_set\plotvoc_hero3023chapter7_24.wav|Sonetto|en|But I don't understand.
+.\training_set\plotvoc_hero3023chapter7_25.wav|Sonetto|en|Don't worry, Regulus. We have foreseen this.
+.\training_set\plotvoc_hero3023chapter7_26.wav|Sonetto|en|No, this is...
+.\training_set\plotvoc_hero3023chapter7_27.wav|Sonetto|en|When we first arrived, I was bewildered by the rules on this island. But as I learned more about their scriptures, things began to make sense.
+.\training_set\plotvoc_hero3023chapter7_28.wav|Sonetto|en|The headquarters has issued a notice. The critical point of the storm is in Vienna.
+.\training_set\plotvoc_hero3023chapter7_29.wav|Sonetto|en|Could you be more specific on that, Mr. Apple?
+.\training_set\plotvoc_hero3023chapter7_3.wav|Sonetto|en|Miss Marta told me about this. There are limits to the knowledge one can acquire even when using numbers, which are considered closest to the essence.
+.\training_set\plotvoc_hero3023chapter7_30.wav|Sonetto|en|For the peace of this world.
+.\training_set\plotvoc_hero3023chapter7_31.wav|Sonetto|en|And we have only seven hours until the storm.
+.\training_set\plotvoc_hero3023chapter7_32.wav|Sonetto|en|How do these numbers relate to the circle?
+.\training_set\plotvoc_hero3023chapter7_33.wav|Sonetto|en|What's the price? Lives or...
+.\training_set\plotvoc_hero3023chapter7_34.wav|Sonetto|en|It would help the immunity research a lot if the timekeeper could find something useful in that cave.
+.\training_set\plotvoc_hero3023chapter7_35.wav|Sonetto|en|That is the unspoken rule of the peace agreement.
+.\training_set\plotvoc_hero3023chapter7_37.wav|Sonetto|en|An act without the intent to attack will not be seen as an attack.
+.\training_set\plotvoc_hero3023chapter7_38.wav|Sonetto|en|Miss Lillia, are you certain about this?
+.\training_set\plotvoc_hero3023chapter7_39.wav|Sonetto|en|The margin of error should be below 0.00025%. I'm confident that it will work.
+.\training_set\plotvoc_hero3023chapter7_4.wav|Sonetto|en|The Foundation will rebuild Apple II and pay for its maintenance. Huh?
+.\training_set\plotvoc_hero3023chapter7_40.wav|Sonetto|en|They mock language for its ambiguity, scorn its flaws, and ruthlessly expose its inconsistencies like they did during that debate.
+.\training_set\plotvoc_hero3023chapter7_43.wav|Sonetto|en|The large-scale ritual on this island... is... undoing itself?
+.\training_set\plotvoc_hero3023chapter7_44.wav|Sonetto|en|Positive 1, negative 1, positive 2, negative 3, 3, negative 3, positive 2, negative 1, positive 1.
+.\training_set\plotvoc_hero3023chapter7_45.wav|Sonetto|en|The Timekeeper asked me to request a new ship for you, and we have the approval.
+.\training_set\plotvoc_hero3023chapter7_46.wav|Sonetto|en|This type of storm syndrome involves a bodily transformation into oil paintings, primarily affecting the face but sometimes spreading to the torso. It is often accompanied by delirium and an intense obsession with war.
+.\training_set\plotvoc_hero3023chapter7_47.wav|Sonetto|en|Regulus! Regulus!
+.\training_set\plotvoc_hero3023chapter7_48.wav|Sonetto|en|Language is an unreliable means of communication. Information can become muddled and vague wording can lead to mistakes and contradictions. That's why the island values math as a more precise and truthful language.
+.\training_set\plotvoc_hero3023chapter7_5.wav|Sonetto|en|The headquarters are at least 768 nautical miles away, and you have no protection during the long flight. It's dangerous.
+.\training_set\plotvoc_hero3023chapter7_50.wav|Sonetto|en|Such is the nature of Arcanum.
+.\training_set\plotvoc_hero3023chapter7_51.wav|Sonetto|en|Timekeeper, Location Alpha is ready for the ritual.
+.\training_set\plotvoc_hero3023chapter7_53.wav|Sonetto|en|Sorry, Regulus. Your… accommodation was a long way from ours, so we haven't given you the latest updates.
+.\training_set\plotvoc_hero3023chapter7_54.wav|Sonetto|en|I heard Sophia is making her announcement today. I'm curious which number she will be.
+.\training_set\plotvoc_hero3023chapter7_6.wav|Sonetto|en|Don't worry, Regulus. We have gone over this many times.
+.\training_set\plotvoc_hero3023chapter7_9.wav|Sonetto|en|Hmm, then I'd say she is a multiple of 139.
+.\training_set\plotvoc_hero3023newworld_chapter7_1.wav|Sonetto|en|It's okay, Timekeeper. Don't let me keep you. I'm not going anywhere.
+.\training_set\plotvoc_hero3023newworld_chapter7_10.wav|Sonetto|en|She knew Mana Svendikte never cared for the lives of others. She witnessed the suicide attacks carried out by Mana's followers on the island. She experienced it all firsthand.
+.\training_set\plotvoc_hero3023newworld_chapter7_11.wav|Sonetto|en|I feel frustrated, like I've lost another debate. I knew the right answers, but could not articulate it. I had to watch them die without being able to convince them otherwise.
+.\training_set\plotvoc_hero3023newworld_chapter7_12.wav|Sonetto|en|The islanders were thrust into war, their beliefs shattered, and their vulnerability then exploited by the manas who welcomed them with open arms.
+.\training_set\plotvoc_hero3023newworld_chapter7_13.wav|Sonetto|en|"'I'm not very good at small talk. Can you start the conversation?'
+.\training_set\plotvoc_hero3023newworld_chapter7_14.wav|Sonetto|en|No matter how impossible it may seem right now, I will find a way.
+.\training_set\plotvoc_hero3023newworld_chapter7_15.wav|Sonetto|en|What I really want to do is...
+.\training_set\plotvoc_hero3023newworld_chapter7_16.wav|Sonetto|en|Good morning, Timekeeper. We have finally completed all of our assigned tasks.
+.\training_set\plotvoc_hero3023newworld_chapter7_17.wav|Sonetto|en|I wish I didn't lose this debate, Timekeeper.
+.\training_set\plotvoc_hero3023newworld_chapter7_18.wav|Sonetto|en|Sorry, this is about to sound like a work report.
+.\training_set\plotvoc_hero3023newworld_chapter7_19.wav|Sonetto|en|Thank you, Timekeeper. I wanted to talk to you about the mission we just had. Especially about Sophia.
+.\training_set\plotvoc_hero3023newworld_chapter7_2.wav|Sonetto|en|Sorry, those were big words I know.
+.\training_set\plotvoc_hero3023newworld_chapter7_20.wav|Sonetto|en|Let us do this together, Timekeeper.
+.\training_set\plotvoc_hero3023newworld_chapter7_21.wav|Sonetto|en|I could not understand her motives. She was one of the most devout believers I knew. So why did she turn her back on Aperon?
+.\training_set\plotvoc_hero3023newworld_chapter7_22.wav|Sonetto|en|Yes, as enemies.
+.\training_set\plotvoc_hero3023newworld_chapter7_23.wav|Sonetto|en|I don't know what to do with my free time. Would you mind if I spent some time with you?
+.\training_set\plotvoc_hero3023newworld_chapter7_3.wav|Sonetto|en|I will do everything in my power to prevent tragedies like Sophia's and Schneider's from happening again.
+.\training_set\plotvoc_hero3023newworld_chapter7_4.wav|Sonetto|en|I know that their intention was to provoke war, and the invading soldiers must have had their assistance.
+.\training_set\plotvoc_hero3023newworld_chapter7_5.wav|Sonetto|en|We can talk later when you have time.
+.\training_set\plotvoc_hero3023newworld_chapter7_6.wav|Sonetto|en|For it is my duty and my own will.
+.\training_set\plotvoc_hero3023newworld_chapter7_7.wav|Sonetto|en|I'm here, Timekeeper. Are you free now?
+.\training_set\plotvoc_hero3023newworld_chapter7_8.wav|Sonetto|en|To keep being your assistant, Timekeeper.
+.\training_set\plotvoc_hero3023newworld_chapter7_9.wav|Sonetto|en|The Foundation gave me a break, but...
+.\training_set\activityvoc_hero3023_1_6_shuori_1.wav|Sonetto|en|And her name is...
+.\training_set\activityvoc_hero3023_1_6_shuori_4.wav|Sonetto|en|嫌なせい。
+.\training_set\activityvoc_hero3023lvhu1_2_part01_10.wav|Sonetto|en|Huh?
+.\training_set\activityvoc_hero3023lvhu1_2_part01_17.wav|Sonetto|en|What?
+.\training_set\activityvoc_hero3023lvhu1_2_part01_26.wav|Sonetto|en|かし
+.\training_set\activityvoc_hero3023lvhu1_2_part01_28.wav|Sonetto|en|Yes, Miss Tooth Fairy.
+.\training_set\activityvoc_hero3023lvhu1_2_part01_31.wav|Sonetto|en|Timekeeper.
+.\training_set\activityvoc_hero3023lvhu1_2_part01_32.wav|Sonetto|en|Ha ha ha ha!
+.\training_set\activityvoc_hero3023lvhu1_2_part01_4.wav|Sonetto|en|Ha!
+.\training_set\activityvoc_hero3023lvhu1_2_part01_6.wav|Sonetto|en|Ah!
+.\training_set\activityvoc_hero3023lvhu1_2_part02_16.wav|Sonetto|en|She would...
+.\training_set\activityvoc_hero3023lvhu1_2_part02_5.wav|Sonetto|en|Let me give you a hand, Anne.
+.\training_set\activityvoc_hero3023lvhu1_2_part02_7.wav|Sonetto|en|Timekeeper!
+.\training_set\activityvoc_hero3023lvhu1_2_part03_25.wav|Sonetto|en|May the peace be with us.
+.\training_set\activityvoc_hero3023lvhu1_2_part03_27.wav|Sonetto|en|Huh!
+.\training_set\activityvoc_hero3023lvhu1_2_part03_31.wav|Sonetto|en|May the peace be with us.
+.\training_set\activityvoc_hero3023lvhu1_2_part03_35.wav|Sonetto|en|Blonnie! Wait!
+.\training_set\activityvoc_hero3023lvhu1_2_part03_37.wav|Sonetto|en|P-Please, wait a minute!
+.\training_set\activityvoc_hero3023lvhu1_2_part03_8.wav|Sonetto|en|Ah!
+.\training_set\guide3023_15.wav|Sonetto|en|We are prepared for the change.
+.\training_set\guide3023_30.wav|Sonetto|en|I'll leave the rest to you, timekeeper.
+.\training_set\guide3023_7.wav|Sonetto|en|Please guide me.
+.\training_set\hero3023_activitystory_lvhu_1.wav|Sonetto|en|No worries.
+.\training_set\hero3023_activitystory_lvhu_10.wav|Sonetto|en|Hmm.
+.\training_set\hero3023_activitystory_lvhu_11.wav|Sonetto|en|No.
+.\training_set\hero3023_activitystory_lvhu_12.wav|Sonetto|en|That's awesome.
+.\training_set\hero3023_activitystory_lvhu_14.wav|Sonetto|en|うーん…
+.\training_set\hero3023_activitystory_lvhu_17.wav|Sonetto|en|Hmm...
+.\training_set\hero3023_activitystory_lvhu_2.wav|Sonetto|en|What?
+.\training_set\hero3023_activitystory_lvhu_4.wav|Sonetto|en|あっ…
+.\training_set\hero3023_activitystory_lvhu_5.wav|Sonetto|en|All right.
+.\training_set\hero3023_activitystory_lvhu_6.wav|Sonetto|en|Miss Jessica?
+.\training_set\hero3023_activitystory_lvhu_7.wav|Sonetto|en|I agree.
+.\training_set\hero3023_activitystory_lvhu_8.wav|Sonetto|en|Oh?
+.\training_set\hero3023_activitystory_lvhu_9.wav|Sonetto|en|あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ
+.\training_set\hero3023_level_gudu1_9_3.wav|Sonetto|en|Just like the battle simulations.
+.\training_set\hero3023_mainstory_1.wav|Sonetto|en|I
+.\training_set\hero3023_mainstory_10.wav|Sonetto|en|Hmm.
+.\training_set\hero3023_mainstory_11.wav|Sonetto|en|I'm clear.
+.\training_set\hero3023_mainstory_12.wav|Sonetto|en|Hmph!
+.\training_set\hero3023_mainstory_13.wav|Sonetto|en|あっ
+.\training_set\hero3023_mainstory_14.wav|Sonetto|en|How come?
+.\training_set\hero3023_mainstory_15.wav|Sonetto|en|はっ?
+.\training_set\hero3023_mainstory_2.wav|Sonetto|en|Hmm...
+.\training_set\hero3023_mainstory_3.wav|Sonetto|en|Das Peter!
+.\training_set\hero3023_mainstory_4.wav|Sonetto|en|Please.
+.\training_set\hero3023_mainstory_5.wav|Sonetto|en|Huh?
+.\training_set\hero3023_mainstory_7.wav|Sonetto|en|My apologies.
+.\training_set\hero3023_mainstory_8.wav|Sonetto|en|Huh.
+.\training_set\hero3023_mainstory_9.wav|Sonetto|en|Roger that.
+.\training_set\hero3023_skill_1.wav|Sonetto|en|.
+.\training_set\hero3023_skill_10.wav|Sonetto|en|.
+.\training_set\hero3023_skill_12.wav|Sonetto|en|Huh!
+.\training_set\hero3023_skill_14.wav|Sonetto|en|Oh,
+.\training_set\hero3023_skill_17.wav|Sonetto|en|Ugh!
+.\training_set\hero3023_skill_18.wav|Sonetto|en|Ugh!
+.\training_set\hero3023_skill_2.wav|Sonetto|en|It's all right.
+.\training_set\hero3023_skill_21.wav|Sonetto|en|Ah!
+.\training_set\hero3023_skill_22.wav|Sonetto|en|I believe in you.
+.\training_set\hero3023_skill_24.wav|Sonetto|en|It's alright.
+.\training_set\hero3023_skill_25.wav|Sonetto|en|you
+.\training_set\hero3023_skill_26.wav|Sonetto|en|you
+.\training_set\hero3023_skill_27.wav|Sonetto|en|Ugh!
+.\training_set\hero3023_skill_28.wav|Sonetto|en|Huh!
+.\training_set\hero3023_skill_29.wav|Sonetto|en|you
+.\training_set\hero3023_skill_31.wav|Sonetto|en|you
+.\training_set\hero3023_skill_34.wav|Sonetto|en|BANG!
+.\training_set\hero3023_skill_38.wav|Sonetto|en|You found the right verse for me.
+.\training_set\hero3023_skill_6.wav|Sonetto|en|.
+.\training_set\hero3023_skill_7.wav|Sonetto|en|My sword sharp.
+.\training_set\hero3023_skill_8.wav|Sonetto|en|Oh!
+.\training_set\plotvoc_hero3023chapter0_12.wav|Sonetto|en|No, I'm just…
+.\training_set\plotvoc_hero3023chapter0_16.wav|Sonetto|en|Hmm...
+.\training_set\plotvoc_hero3023chapter0_21.wav|Sonetto|en|Timekeeper, look at that table!
+.\training_set\plotvoc_hero3023chapter0_25.wav|Sonetto|en|Huh?
+.\training_set\plotvoc_hero3023chapter0_34.wav|Sonetto|en|Regulus's ship's been sunk.
+.\training_set\plotvoc_hero3023chapter0_36.wav|Sonetto|en|We need to move quickly.
+.\training_set\plotvoc_hero3023chapter0_42.wav|Sonetto|en|Right, Timekeeper?
+.\training_set\plotvoc_hero3023chapter0_45.wav|Sonetto|en|Hm? That voice?
+.\training_set\plotvoc_hero3023chapter0_46.wav|Sonetto|en|Let's split up.
+.\training_set\plotvoc_hero3023chapter0_48.wav|Sonetto|en|Sure. Go ahead.
+.\training_set\plotvoc_hero3023chapter0_50.wav|Sonetto|en|Are you feeling better?
+.\training_set\plotvoc_hero3023chapter0_52.wav|Sonetto|en|¡Ede subito será!
+.\training_set\plotvoc_hero3023chapter0_54.wav|Sonetto|en|Timekeeper!
+.\training_set\plotvoc_hero3023chapter0_57.wav|Sonetto|en|My apologies, Timekeeper.
+.\training_set\plotvoc_hero3023chapter0_64.wav|Sonetto|en|When will the storm begin?
+.\training_set\plotvoc_hero3023chapter0_69.wav|Sonetto|en|Ambush!
+.\training_set\plotvoc_hero3023chapter0_70.wav|Sonetto|en|May the peace be with us.
+.\training_set\plotvoc_hero3023chapter0_72.wav|Sonetto|en|はっ
+.\training_set\plotvoc_hero3023chapter1_12.wav|Sonetto|en|Let's get ready to move.
+.\training_set\plotvoc_hero3023chapter1_17.wav|Sonetto|en|Hmm.
+.\training_set\plotvoc_hero3023chapter1_20.wav|Sonetto|en|Hmm...
+.\training_set\plotvoc_hero3023chapter1_22.wav|Sonetto|en|Please take a look.
+.\training_set\plotvoc_hero3023chapter1_26.wav|Sonetto|en|Excuse me.
+.\training_set\plotvoc_hero3023chapter1_28.wav|Sonetto|en|Sigh.
+.\training_set\plotvoc_hero3023chapter1_3.wav|Sonetto|en|Stop it!
+.\training_set\plotvoc_hero3023chapter1_34.wav|Sonetto|en|Timekeeper!
+.\training_set\plotvoc_hero3023chapter1_40.wav|Sonetto|en|Regulus?
+.\training_set\plotvoc_hero3023chapter1_49.wav|Sonetto|en|I should have more training.
+.\training_set\plotvoc_hero3023chapter1_5.wav|Sonetto|en|I got promoted.
+.\training_set\plotvoc_hero3023chapter1_52.wav|Sonetto|en|Why are you killing them?
+.\training_set\plotvoc_hero3023chapter1_53.wav|Sonetto|en|Huh.
+.\training_set\plotvoc_hero3023chapter1_56.wav|Sonetto|en|Whoa!
+.\training_set\plotvoc_hero3023chapter1_58.wav|Sonetto|en|あい
+.\training_set\plotvoc_hero3023chapter1_63.wav|Sonetto|en|Ha ha ha ha!
+.\training_set\plotvoc_hero3023chapter1_att_11.wav|Sonetto|en|Sigh.
+.\training_set\plotvoc_hero3023chapter1_att_14.wav|Sonetto|en|May the peace be with us.
+.\training_set\plotvoc_hero3023chapter1_att_15.wav|Sonetto|en|Timekeeper.
+.\training_set\plotvoc_hero3023chapter1_att_22.wav|Sonetto|en|Don't worry. Leave it to me.
+.\training_set\plotvoc_hero3023chapter1_att_27.wav|Sonetto|en|You!
+.\training_set\plotvoc_hero3023chapter1_att_32.wav|Sonetto|en|Oh, and...
+.\training_set\plotvoc_hero3023chapter1_att_33.wav|Sonetto|en|Sigh.
+.\training_set\plotvoc_hero3023chapter1_att_36.wav|Sonetto|en|Roger that. And we...
+.\training_set\plotvoc_hero3023chapter1_att_4.wav|Sonetto|en|Um...
+.\training_set\plotvoc_hero3023chapter1_att_44.wav|Sonetto|en|Timekeeper!
+.\training_set\plotvoc_hero3023chapter1_att_45.wav|Sonetto|en|Ha!
+.\training_set\plotvoc_hero3023chapter1_att_47.wav|Sonetto|en|Ha!
+.\training_set\plotvoc_hero3023chapter1_att_51.wav|Sonetto|en|Ugh!
+.\training_set\plotvoc_hero3023chapter1_att_56.wav|Sonetto|en|Huh?
+.\training_set\plotvoc_hero3023chapter1_att_59.wav|Sonetto|en|You chased us here!
+.\training_set\plotvoc_hero3023chapter1_att_7.wav|Sonetto|en|Like an underground labyrinth.
+.\training_set\plotvoc_hero3023chapter1_att_71.wav|Sonetto|en|Who's there?
+.\training_set\plotvoc_hero3023chapter1_att_73.wav|Sonetto|en|Huh?
+.\training_set\plotvoc_hero3023chapter1_att_74.wav|Sonetto|en|We have to beat them before we leave.
+.\training_set\plotvoc_hero3023chapter1_att_8.wav|Sonetto|en|No, it's not.
+.\training_set\plotvoc_hero3023chapter1_att_80.wav|Sonetto|en|No, never.
+.\training_set\plotvoc_hero3023chapter1_att_81.wav|Sonetto|en|Hmm?
+.\training_set\plotvoc_hero3023chapter1_att_86.wav|Sonetto|en|I want to help her get out.
+.\training_set\plotvoc_hero3023chapter1_att_9.wav|Sonetto|en|I will be there right away.
+.\training_set\plotvoc_hero3023chapter2_1.wav|Sonetto|en|We should go.
+.\training_set\plotvoc_hero3023chapter2_17.wav|Sonetto|en|That's great. Thank you.
+.\training_set\plotvoc_hero3023chapter2_19.wav|Sonetto|en|Ha ha ha.
+.\training_set\plotvoc_hero3023chapter2_22.wav|Sonetto|en|Ha ha ha.
+.\training_set\plotvoc_hero3023chapter2_24.wav|Sonetto|en|Please trust the Timekeeper.
+.\training_set\plotvoc_hero3023chapter2_29.wav|Sonetto|en|The madness has taken action.
+.\training_set\plotvoc_hero3023chapter2_31.wav|Sonetto|en|Are you okay, Mr. Apple?
+.\training_set\plotvoc_hero3023chapter2_32.wav|Sonetto|en|Huh?
+.\training_set\plotvoc_hero3023chapter2_33.wav|Sonetto|en|Come here, Miss Sotheby.
+.\training_set\plotvoc_hero3023chapter2_36.wav|Sonetto|en|Everybody, get ready to fight!
+.\training_set\plotvoc_hero3023chapter2_37.wav|Sonetto|en|Ha ha ha ha.
+.\training_set\plotvoc_hero3023chapter2_38.wav|Sonetto|en|Timekeeper.
+.\training_set\plotvoc_hero3023chapter2_39.wav|Sonetto|en|Huh?
+.\training_set\plotvoc_hero3023chapter2_7.wav|Sonetto|en|Sigh.
+.\training_set\plotvoc_hero3023chapter2_att_10.wav|Sonetto|en|Let's move!
+.\training_set\plotvoc_hero3023chapter2_att_13.wav|Sonetto|en|Huh?
+.\training_set\plotvoc_hero3023chapter2_att_18.wav|Sonetto|en|Oh!
+.\training_set\plotvoc_hero3023chapter2_att_2.wav|Sonetto|en|Timekeeper!
+.\training_set\plotvoc_hero3023chapter2_att_23.wav|Sonetto|en|Nonsense!
+.\training_set\plotvoc_hero3023chapter2_att_35.wav|Sonetto|en|Huh?
+.\training_set\plotvoc_hero3023chapter2_att_39.wav|Sonetto|en|May the peace be with us!
+.\training_set\plotvoc_hero3023chapter2_att_4.wav|Sonetto|en|They ran away!
+.\training_set\plotvoc_hero3023chapter2_att_40.wav|Sonetto|en|You are...
+.\training_set\plotvoc_hero3023chapter2_att_42.wav|Sonetto|en|Stono Swift.
+.\training_set\plotvoc_hero3023chapter2_att_44.wav|Sonetto|en|I have no wish.
+.\training_set\plotvoc_hero3023chapter2_att_5.wav|Sonetto|en|Ha!
+.\training_set\plotvoc_hero3023chapter2_att_56.wav|Sonetto|en|Mine?
+.\training_set\plotvoc_hero3023chapter2_att_62.wav|Sonetto|en|The enemies are cleared.
+.\training_set\plotvoc_hero3023chapter2_att_69.wav|Sonetto|en|Don't suddenly get so close to her!
+.\training_set\plotvoc_hero3023chapter2_att_7.wav|Sonetto|en|It is now 35 minutes to 10.
+.\training_set\plotvoc_hero3023chapter3_1.wav|Sonetto|en|The storm took our friend from us.
+.\training_set\plotvoc_hero3023chapter3_14.wav|Sonetto|en|はっ
+.\training_set\plotvoc_hero3023chapter3_17.wav|Sonetto|en|Sigh...
+.\training_set\plotvoc_hero3023chapter3_19.wav|Sonetto|en|Can be both.
+.\training_set\plotvoc_hero3023chapter3_23.wav|Sonetto|en|That's right.
+.\training_set\plotvoc_hero3023chapter3_25.wav|Sonetto|en|Goodbye, miss.
+.\training_set\plotvoc_hero3023chapter3_26.wav|Sonetto|en|Sigh.
+.\training_set\plotvoc_hero3023chapter3_27.wav|Sonetto|en|Hmm?
+.\training_set\plotvoc_hero3023chapter3_28.wav|Sonetto|en|Ha!
+.\training_set\plotvoc_hero3023chapter3_3.wav|Sonetto|en|She didn't.
+.\training_set\plotvoc_hero3023chapter3_30.wav|Sonetto|en|These are very dangerous things.
+.\training_set\plotvoc_hero3023chapter3_36.wav|Sonetto|en|I... I don't know...
+.\training_set\plotvoc_hero3023chapter3_38.wav|Sonetto|en|Did I miss any crossings?
+.\training_set\plotvoc_hero3023chapter3_39.wav|Sonetto|en|I will catch this person.
+.\training_set\plotvoc_hero3023chapter3_45.wav|Sonetto|en|Matilda, please take...
+.\training_set\plotvoc_hero3023chapter3_46.wav|Sonetto|en|That's right.
+.\training_set\plotvoc_hero3023chapter3_51.wav|Sonetto|en|Uh...
+.\training_set\plotvoc_hero3023chapter3_55.wav|Sonetto|en|Please, please stop.
+.\training_set\plotvoc_hero3023chapter3_56.wav|Sonetto|en|Cabbage.
+.\training_set\plotvoc_hero3023chapter3_57.wav|Sonetto|en|The nurses seem busy here.
+.\training_set\plotvoc_hero3023chapter3_59.wav|Sonetto|en|Please wait!
+.\training_set\plotvoc_hero3023chapter3_61.wav|Sonetto|en|What's that?
+.\training_set\plotvoc_hero3023chapter3_65.wav|Sonetto|en|I am not.
+.\training_set\plotvoc_hero3023chapter3_66.wav|Sonetto|en|We are born to die martyrs.
+.\training_set\plotvoc_hero3023chapter3_67.wav|Sonetto|en|Hmm.
+.\training_set\plotvoc_hero3023chapter3_7.wav|Sonetto|en|Oh, okay.
+.\training_set\plotvoc_hero3023chapter3_70.wav|Sonetto|en|They're here.
+.\training_set\plotvoc_hero3023chapter3_71.wav|Sonetto|en|A sphere.
+.\training_set\plotvoc_hero3023chapter3_74.wav|Sonetto|en|Good. Just what I need.
+.\training_set\plotvoc_hero3023chapter3_75.wav|Sonetto|en|I can't get away from them.
+.\training_set\plotvoc_hero3023chapter3_9.wav|Sonetto|en|Okay.
+.\training_set\plotvoc_hero3023chapter3_att_1.wav|Sonetto|en|.
+.\training_set\plotvoc_hero3023chapter3_att_10.wav|Sonetto|en|Ha ha ha ha ha!
+.\training_set\plotvoc_hero3023chapter3_att_12.wav|Sonetto|en|They will be out next week.
+.\training_set\plotvoc_hero3023chapter3_att_2.wav|Sonetto|en|Stoto Swift!
+.\training_set\plotvoc_hero3023chapter3_att_26.wav|Sonetto|en|I...
+.\training_set\plotvoc_hero3023chapter3_att_28.wav|Sonetto|en|I...
+.\training_set\plotvoc_hero3023chapter3_att_3.wav|Sonetto|en|Huh?
+.\training_set\plotvoc_hero3023chapter4_part01_10.wav|Sonetto|en|The vision?
+.\training_set\plotvoc_hero3023chapter4_part01_11.wav|Sonetto|en|I...
+.\training_set\plotvoc_hero3023chapter4_part01_14.wav|Sonetto|en|Huh!
+.\training_set\plotvoc_hero3023chapter4_part01_15.wav|Sonetto|en|I...
+.\training_set\plotvoc_hero3023chapter4_part01_18.wav|Sonetto|en|うっ、あいっ。
+.\training_set\plotvoc_hero3023chapter4_part01_21.wav|Sonetto|en|Hmm...
+.\training_set\plotvoc_hero3023chapter4_part01_22.wav|Sonetto|en|I...
+.\training_set\plotvoc_hero3023chapter4_part01_25.wav|Sonetto|en|.
+.\training_set\plotvoc_hero3023chapter4_part01_3.wav|Sonetto|en|Copy that.
+.\training_set\plotvoc_hero3023chapter4_part01_31.wav|Sonetto|en|Ugh.
+.\training_set\plotvoc_hero3023chapter4_part01_32.wav|Sonetto|en|I...
+.\training_set\plotvoc_hero3023chapter4_part01_33.wav|Sonetto|en|Four years ago.
+.\training_set\plotvoc_hero3023chapter4_part01_34.wav|Sonetto|en|I tried.
+.\training_set\plotvoc_hero3023chapter4_part01_36.wav|Sonetto|en|I feel fear.
+.\training_set\plotvoc_hero3023chapter4_part01_38.wav|Sonetto|en|See myself falling.
+.\training_set\plotvoc_hero3023chapter4_part01_45.wav|Sonetto|en|Okay.
+.\training_set\plotvoc_hero3023chapter4_part01_46.wav|Sonetto|en|Copy that.
+.\training_set\plotvoc_hero3023chapter4_part01_48.wav|Sonetto|en|I was not properly prepared.
+.\training_set\plotvoc_hero3023chapter4_part01_5.wav|Sonetto|en|Clear.
+.\training_set\plotvoc_hero3023chapter4_part01_7.wav|Sonetto|en|Of-of course.
+.\training_set\plotvoc_hero3023chapter4_part01_8.wav|Sonetto|en|I'm sorry.
+.\training_set\plotvoc_hero3023chapter4_part01_9.wav|Sonetto|en|Because, um...
+.\training_set\plotvoc_hero3023chapter4_part02_12.wav|Sonetto|en|Wait!
+.\training_set\plotvoc_hero3023chapter4_part02_19.wav|Sonetto|en|I'm waiting for orders.
+.\training_set\plotvoc_hero3023chapter4_part02_27.wav|Sonetto|en|Sincerely, Zanetto.
+.\training_set\plotvoc_hero3023chapter4_part02_29.wav|Sonetto|en|Hmm...
+.\training_set\plotvoc_hero3023chapter4_part02_3.wav|Sonetto|en|Good night.
+.\training_set\plotvoc_hero3023chapter4_part02_32.wav|Sonetto|en|Sense of justice.
+.\training_set\plotvoc_hero3023chapter4_part02_36.wav|Sonetto|en|I see.
+.\training_set\plotvoc_hero3023chapter4_part02_38.wav|Sonetto|en|What is it?
+.\training_set\plotvoc_hero3023chapter4_part02_4.wav|Sonetto|en|As witness?
+.\training_set\plotvoc_hero3023chapter4_part02_5.wav|Sonetto|en|I should not have hesitated.
+.\training_set\plotvoc_hero3023chapter4_part02_8.wav|Sonetto|en|ふふふ
+.\training_set\plotvoc_hero3023chapter4_part03_15.wav|Sonetto|en|I have no objection, madam.
+.\training_set\plotvoc_hero3023chapter4_part03_16.wav|Sonetto|en|I found this letter in her suit pocket.
+.\training_set\plotvoc_hero3023chapter4_part03_20.wav|Sonetto|en|Huh.
+.\training_set\plotvoc_hero3023chapter4_part03_24.wav|Sonetto|en|Are you leaving?
+.\training_set\plotvoc_hero3023chapter4_part03_46.wav|Sonetto|en|I
+.\training_set\plotvoc_hero3023chapter4_part03_47.wav|Sonetto|en|More importantly...
+.\training_set\plotvoc_hero3023chapter4_part03_53.wav|Sonetto|en|Schneider...
+.\training_set\plotvoc_hero3023chapter4_part03_9.wav|Sonetto|en|は?
+.\training_set\plotvoc_hero3023chapter5_part01_11.wav|Sonetto|en|Regulus!
+.\training_set\plotvoc_hero3023chapter5_part01_14.wav|Sonetto|en|Timekeeper?
+.\training_set\plotvoc_hero3023chapter5_part01_15.wav|Sonetto|en|Huh?
+.\training_set\plotvoc_hero3023chapter5_part01_20.wav|Sonetto|en|Yes, all is well.
+.\training_set\plotvoc_hero3023chapter5_part01_29.wav|Sonetto|en|Please, Timekeeper.
+.\training_set\plotvoc_hero3023chapter5_part01_31.wav|Sonetto|en|Hmm.
+.\training_set\plotvoc_hero3023chapter5_part01_34.wav|Sonetto|en|imaginary numbers?
+.\training_set\plotvoc_hero3023chapter5_part01_40.wav|Sonetto|en|It's too perilous, Timekeeper.
+.\training_set\plotvoc_hero3023chapter5_part01_46.wav|Sonetto|en|Everyone, please wait a minute.
+.\training_set\plotvoc_hero3023chapter5_part01_47.wav|Sonetto|en|¡Ede Subito Cera!
+.\training_set\plotvoc_hero3023chapter5_part01_49.wav|Sonetto|en|Roger that.
+.\training_set\plotvoc_hero3023chapter5_part01_5.wav|Sonetto|en|TimeGamer!
+.\training_set\plotvoc_hero3023chapter5_part01_53.wav|Sonetto|en|Timekeeper!
+.\training_set\plotvoc_hero3023chapter5_part01_54.wav|Sonetto|en|I believe in Timekeeper.
+.\training_set\plotvoc_hero3023chapter5_part01_7.wav|Sonetto|en|But...
+.\training_set\plotvoc_hero3023chapter5_part02_13.wav|Sonetto|en|Well, I'm with Sophia.
+.\training_set\plotvoc_hero3023chapter5_part02_19.wav|Sonetto|en|What?
+.\training_set\plotvoc_hero3023chapter5_part02_20.wav|Sonetto|en|Sigh.
+.\training_set\plotvoc_hero3023chapter5_part02_28.wav|Sonetto|en|Just checking up on Lilia.
+.\training_set\plotvoc_hero3023chapter5_part02_30.wav|Sonetto|en|Huh?
+.\training_set\plotvoc_hero3023chapter5_part02_43.wav|Sonetto|en|But now I have...
+.\training_set\plotvoc_hero3023chapter5_part02_44.wav|Sonetto|en|Timekeeper?
+.\training_set\plotvoc_hero3023chapter5_part02_45.wav|Sonetto|en|Huh?
+.\training_set\plotvoc_hero3023chapter5_part02_46.wav|Sonetto|en|I...
+.\training_set\plotvoc_hero3023chapter5_part02_47.wav|Sonetto|en|No.
+.\training_set\plotvoc_hero3023chapter5_part02_52.wav|Sonetto|en|What's this?
+.\training_set\plotvoc_hero3023chapter5_part02_53.wav|Sonetto|en|What, me?
+.\training_set\plotvoc_hero3023chapter5_part02_7.wav|Sonetto|en|This is our fate.
+.\training_set\plotvoc_hero3023chapter7_1.wav|Sonetto|en|Miss Sophia!
+.\training_set\plotvoc_hero3023chapter7_11.wav|Sonetto|en|Something else?
+.\training_set\plotvoc_hero3023chapter7_36.wav|Sonetto|en|Price?
+.\training_set\plotvoc_hero3023chapter7_41.wav|Sonetto|en|うん
+.\training_set\plotvoc_hero3023chapter7_42.wav|Sonetto|en|To put it simply,
+.\training_set\plotvoc_hero3023chapter7_49.wav|Sonetto|en|Yes.
+.\training_set\plotvoc_hero3023chapter7_52.wav|Sonetto|en|I will stop you.
+.\training_set\plotvoc_hero3023chapter7_7.wav|Sonetto|en|What about Arcana?
+.\training_set\plotvoc_hero3023chapter7_8.wav|Sonetto|en|Um...
