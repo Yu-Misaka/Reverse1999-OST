@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     13143,        352]
-NotebookOptionsPosition[     11204,        317]
-NotebookOutlinePosition[     11620,        334]
-CellTagsIndexPosition[     11577,        331]
+NotebookDataLength[     17530,        468]
+NotebookOptionsPosition[     14705,        422]
+NotebookOutlinePosition[     15121,        439]
+CellTagsIndexPosition[     15078,        436]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -313,6 +313,111 @@ Cell[BoxData[
  CellChangeTimes->{{3.9452156458848104`*^9, 3.945215666381791*^9}, {
   3.945215724866561*^9, 3.9452157788026557`*^9}},
  CellLabel->"In[9]:=",ExpressionUUID->"ae15f563-7efa-461d-8cd5-42ef0500ccb0"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Strict", "Section",
+ CellChangeTimes->{{3.9452213714284973`*^9, 
+  3.9452213861238813`*^9}},ExpressionUUID->"ea3ed271-8779-49fd-a9c7-\
+bb9cd36ede69"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"text", "=", 
+   RowBox[{"Import", "[", 
+    RowBox[{"\"\<ASR-5043-1.txt\>\"", ",", "\"\<Data\>\""}], "]"}]}], 
+  ";"}]], "Input",
+ CellLabel->"In[3]:=",ExpressionUUID->"3dd808bd-75b3-4649-9a62-a3cb579fbc14"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"longerThan2Words", "=", 
+   RowBox[{"Select", "[", 
+    RowBox[{"text", ",", 
+     RowBox[{
+      RowBox[{
+       RowBox[{"Length", "@", 
+        RowBox[{"Flatten", "@", 
+         RowBox[{"StringSplit", "[", 
+          RowBox[{"StringCases", "[", 
+           RowBox[{"#", ",", 
+            RowBox[{
+             RowBox[{"\"\<|en|\>\"", "~~", "x__"}], "->", "x"}]}], "]"}], 
+          "]"}]}]}], ">", "2"}], "&"}]}], "]"}]}], ";"}]], "Input",
+ CellChangeTimes->{{3.9452215364773703`*^9, 3.945221607009914*^9}},
+ CellLabel->"In[19]:=",ExpressionUUID->"028abeff-b267-4c64-9b57-59a82879b8b8"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"Export", "[", 
+   RowBox[{
+   "\"\<ASR-5043-GPT-Strict.txt\>\"", ",", "longerThan2Words", ",", 
+    "\"\<Text\>\""}], "]"}], ";"}]], "Input",
+ CellChangeTimes->{{3.945221614513519*^9, 3.945221640979888*^9}, {
+   3.9452217348738904`*^9, 3.945221735146301*^9}, {3.9452229023183966`*^9, 
+   3.9452229041732016`*^9}, 
+   3.9452229749804616`*^9},ExpressionUUID->"29d29fd0-40f6-4566-9207-\
+ad9928c8021b"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"strict", "=", 
+   RowBox[{"Import", "[", 
+    RowBox[{"\"\<ASR-5043-GPT-Strict.txt\>\"", ",", "\"\<Data\>\""}], "]"}]}],
+   ";"}]], "Input",
+ CellChangeTimes->{{3.9452229410934696`*^9, 3.9452229867988143`*^9}},
+ CellLabel->"In[24]:=",ExpressionUUID->"61a2ed09-00f7-45b9-acfe-2831bb62165d"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"output", "=", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"StringReplace", "[", 
+      RowBox[{"#", ",", 
+       RowBox[{
+       "\"\<.\\\\training_set\\\\\>\"", "->", 
+        "\"\</root/autodl-tmp/data/\>\""}]}], "]"}], "&"}], "/@", 
+    "strict"}]}], ";"}]], "Input",
+ CellChangeTimes->{3.9452230086443305`*^9},
+ CellLabel->"In[25]:=",ExpressionUUID->"4d34ee40-e08f-46b7-8c60-c8338202c6af"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"Export", "[", 
+   RowBox[{
+   "\"\<export_for_strict\\\\ASR-5043-GPT-Strict.list\>\"", ",", "output", 
+    ",", "\"\<Text\>\""}], "]"}], ";"}]], "Input",
+ CellChangeTimes->{{3.945223019182177*^9, 3.945223025790411*^9}},
+ CellLabel->"In[26]:=",ExpressionUUID->"cd4f7b31-1676-4473-a6fb-8c276392e292"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"files", "=", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"Sequence", "@@", 
+      RowBox[{"StringCases", "[", 
+       RowBox[{"#", ",", 
+        RowBox[{
+         RowBox[{"\"\<.\\\\training_set\\\\\>\"", "~~", 
+          RowBox[{"Shortest", "[", "x__", "]"}], "~~", "\"\<|\>\""}], "->", 
+         "x"}]}], "]"}]}], "&"}], "/@", "strict"}]}], ";"}]], "Input",
+ CellChangeTimes->{3.9452230494054003`*^9},
+ CellLabel->"In[27]:=",ExpressionUUID->"a1488d45-f7d3-4cb6-ac3c-de39baa5fa10"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"CopyFile", "[", 
+     RowBox[{
+      RowBox[{"\"\<..\\\\Selection\\\\5043\\\\\>\"", "<>", "#"}], ",", 
+      RowBox[{"\"\<export_for_strict\\\\\>\"", "<>", "#"}]}], "]"}], "&"}], "/@",
+    "files"}], ";"}]], "Input",
+ CellChangeTimes->{3.94522307074257*^9},
+ CellLabel->"In[28]:=",ExpressionUUID->"6b89f70e-486d-4d52-a148-b1491aa4389b"]
 }, Open  ]]
 },
 WindowSize->{1190.25, 708.75},
@@ -353,6 +458,17 @@ Cell[9222, 262, 545, 14, 43, "Input",ExpressionUUID->"a646e0d3-2f97-4280-a64b-2f
 Cell[9770, 278, 405, 8, 43, "Input",ExpressionUUID->"3e131571-7f74-4f0f-94e1-b4d196759fd2"],
 Cell[10178, 288, 531, 13, 43, "Input",ExpressionUUID->"139c60af-7005-4f32-8119-2bd18e032080"],
 Cell[10712, 303, 476, 11, 43, "Input",ExpressionUUID->"ae15f563-7efa-461d-8cd5-42ef0500ccb0"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[11225, 319, 155, 3, 67, "Section",ExpressionUUID->"ea3ed271-8779-49fd-a9c7-bb9cd36ede69"],
+Cell[11383, 324, 242, 6, 43, "Input",ExpressionUUID->"3dd808bd-75b3-4649-9a62-a3cb579fbc14"],
+Cell[11628, 332, 623, 16, 43, "Input",ExpressionUUID->"028abeff-b267-4c64-9b57-59a82879b8b8"],
+Cell[12254, 350, 433, 10, 43, "Input",ExpressionUUID->"29d29fd0-40f6-4566-9207-ad9928c8021b"],
+Cell[12690, 362, 324, 7, 43, "Input",ExpressionUUID->"61a2ed09-00f7-45b9-acfe-2831bb62165d"],
+Cell[13017, 371, 423, 12, 43, "Input",ExpressionUUID->"4d34ee40-e08f-46b7-8c60-c8338202c6af"],
+Cell[13443, 385, 333, 7, 43, "Input",ExpressionUUID->"cd4f7b31-1676-4473-a6fb-8c276392e292"],
+Cell[13779, 394, 511, 13, 43, "Input",ExpressionUUID->"a1488d45-f7d3-4cb6-ac3c-de39baa5fa10"],
+Cell[14293, 409, 396, 10, 43, "Input",ExpressionUUID->"6b89f70e-486d-4d52-a148-b1491aa4389b"]
 }, Open  ]]
 }
 ]

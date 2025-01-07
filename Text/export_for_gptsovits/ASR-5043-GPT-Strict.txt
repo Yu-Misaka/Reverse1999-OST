@@ -1,0 +1,1078 @@
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_1.wav|Vertin|en|You think it's like that invisible net?
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_10.wav|Vertin|en|Excuse us, we're looking for a bookstore.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_11.wav|Vertin|en|Spathodira is suffering confusion. It's probably the flames doing.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_13.wav|Vertin|en|The symptom is really rare to see.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_15.wav|Vertin|en|If the mushroom has simulated Spathidae's net, then these two light spots are...
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_16.wav|Vertin|en|Until you completely recover, or say, become completely normal again.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_18.wav|Vertin|en|You fell into a coma for 16 minutes and 30 seconds yesterday, due to external impact. Then you woke up and found yourself fine.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_19.wav|Vertin|en|On that night, you felt an unusual burn coming up to your throat from your stomach. At the same time, you had weird illusions.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_2.wav|Vertin|en|We are running out of time. Let's deal with the burning issue first.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_20.wav|Vertin|en|We can go back to the last junction or keep going forward. There is a trail about 300 metres ahead, and it leads all the way to the Rolling Crock bookstore.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_22.wav|Vertin|en|We will help you and take care of you.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_23.wav|Vertin|en|No, you didn't. She's behaving exactly the way you described.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_24.wav|Vertin|en|Given the complexity of the situation, I think you need a more detailed physical examination to find the crux.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_25.wav|Vertin|en|Someone's at the corner! Watch!
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_26.wav|Vertin|en|Are you sure? No one in your family is related to the red dragon.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_28.wav|Vertin|en|It's too outdated to provide any useful information.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_29.wav|Vertin|en|And as the news story described, a reincarnator is a miracle where a soul disappears from point A and shows up at point B without any clear reasons.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_31.wav|Vertin|en|Confusion and weak pulse. We have to take her to Laplace.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_32.wav|Vertin|en|I'm sure Medicine Pocket will bring us the concentration potion soon.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_34.wav|Vertin|en|You are not in danger. She is.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_36.wav|Vertin|en|Looks like this is how she has her mental break.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_37.wav|Vertin|en|Now, let's summarise what happened.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_43.wav|Vertin|en|It has grown larger and larger as your lizard hypothesis heated up. I'm sure the guards of Laplace will break in soon.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_44.wav|Vertin|en|Don't jump to the worst conclusion yet. Follow me.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_46.wav|Vertin|en|But there is no evidence to prove that she is telling a lie.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_47.wav|Vertin|en|You are of great significance to Laplace. They don't want you to take any risks.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_48.wav|Vertin|en|I am the one and only reliable bodyguard who can keep you safe among all the others in the Foundation.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_49.wav|Vertin|en|We missed the right junction. The roads are different from the map Mr Slouch Hat gave us.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_50.wav|Vertin|en|It's called the Rolling Croc, with a hand drum made of crocodile skin hanging on the signboard.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_53.wav|Vertin|en|One main fur that she was shocked by the fire vomiting and thus displayed abnormal behaviours
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_6.wav|Vertin|en|Relax. The symptoms may not last. Sensing omens doesn't always mean danger to arcanists.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_7.wav|Vertin|en|I'll protect it for you. Don't worry.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_8.wav|Vertin|en|And at last, he vomited. A ball of fire.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_1.wav|Vertin|en|Don't let anyone out before I open it again.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_11.wav|Vertin|en|Considering Spathodere's identity, we do stand a chance.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_13.wav|Vertin|en|Sorry, I'm not quite with you. Perhaps you could start from what happened then.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_14.wav|Vertin|en|Ezra is worried about you, and so are we.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_15.wav|Vertin|en|Is it because she took part in too many events in the stadium?
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_16.wav|Vertin|en|And these symptoms were relieved. Soon after they left the stadium,
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_17.wav|Vertin|en|The good news is, we are already a skilled fire brigade.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_18.wav|Vertin|en|And they happen to be here. Right now.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_19.wav|Vertin|en|I'm more than willing to join you in bringing back the games. It will be a wonderful new beginning.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_20.wav|Vertin|en|The temperature here will get even higher at noon.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_22.wav|Vertin|en|What do you mean, the present me?
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_23.wav|Vertin|en|Oh, thank you. He's my contact in Australia. We've been writing letters these days.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_24.wav|Vertin|en|They have something to do with people's lives. These marks have to mean something.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_25.wav|Vertin|en|Keep going Ezra, you're very close.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_26.wav|Vertin|en|Laplace has forwarded the Alluru Games application to the Foundation, and it has been moving smoothly in the system in the last two weeks. I heard that from Mr Slouchat on the phone this morning.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_27.wav|Vertin|en|They believe it will be a good opportunity to build a positive image for arcanists, and it will strengthen the communication between them and humans. The Foundation is happy to see that happen.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_29.wav|Vertin|en|But the paperwork we're going to deal with...
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_3.wav|Vertin|en|I've seen pictures of the Allura games in the school library collection a long time ago.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_30.wav|Vertin|en|Ezra has prepared plenty of cooling tablets and water in the medical kit for us. If anyone still suffers sunstroke, we also have the Budgerigal coat as an emergency measure.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_31.wav|Vertin|en|No time to hesitate. Protect Spathodira and engage.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_32.wav|Vertin|en|But to be honest, I'm impressed by Miss Bethadier's energy and passion for all these. She's... Huh? Who are those people by her side?
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_33.wav|Vertin|en|Bunny Bunny, take everyone back to the suitcase.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_34.wav|Vertin|en|I was not a fan of the routine physical fitness test at school, but I don't think any Orcanist would say no to witnessing the revival of the once magnificent games.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_35.wav|Vertin|en|After all, we're in a different age now, which means we can achieve much more than a sports game.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_36.wav|Vertin|en|I do have hopes for it. My wish to revive the games is stronger than Ezra's, and my expectations for it are higher than Spathodia's.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_39.wav|Vertin|en|something very important. What is it?
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_4.wav|Vertin|en|Her temperature is a bit lower than just now, but her condition is quite stable. I guess it's not a reincarnated reaction, but something else.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_40.wav|Vertin|en|Maybe they will lead us to the entrance to the stadium.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_41.wav|Vertin|en|Desert Flannel? Where have you been?
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_42.wav|Vertin|en|is the conversation about your changes.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_45.wav|Vertin|en|Watch out, Regulus. You're falling down.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_47.wav|Vertin|en|These are murals. No. They are reliefs. All the marks are carved out of the wall.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_48.wav|Vertin|en|These carvings existed long before any murals. And they are rougher.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_49.wav|Vertin|en|Desert Flannel's dizziness is in remission. She's already well enough to deal with her business on the fax machine. Will it do harm to her physical condition?
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_5.wav|Vertin|en|It's even more splendid than I thought. And more comfortable and pleasing.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_51.wav|Vertin|en|Well, I happen to know many Arcanists who meet your need.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_52.wav|Vertin|en|No, I don't think so. It just smells familiar here.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_53.wav|Vertin|en|Spathadia, who are they?
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_6.wav|Vertin|en|Relax, Desert Flannel. We've got help.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_7.wav|Vertin|en|Everyone, mind your steps and keep up.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_9.wav|Vertin|en|Drunk? C-clouding of consciousness? No! Regulus!
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_1.wav|Vertin|en|no matter how the times or the lifestyle change.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_13.wav|Vertin|en|I see. We'll deal with this problem before we talk.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_14.wav|Vertin|en|My first thought... Well, there's a UFO here.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_15.wav|Vertin|en|Not a number of McHower can incite alone. Some of them must be his accomplices. I'm sure they are good at mobilising, swindling, blackmailing and stuff.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_17.wav|Vertin|en|They have built the Uluru Guardians, which consist of 31 arcanists and 29 humans. There are doctors, writers, taxi drivers, new stand owners, and so on.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_18.wav|Vertin|en|Whenever they open the gate to the Alluru Stadium again, they will remember the spirit and faith it has been conveying.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_19.wav|Vertin|en|So it's a kind of experience one must grow old enough to learn.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_2.wav|Vertin|en|Showing Ezra what the world is like. Be right back.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_20.wav|Vertin|en|No response? Are they...
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_21.wav|Vertin|en|Mr. Alien T and I met in a very simple way.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_23.wav|Vertin|en|I know there are spots with mysterious power in this world. They can provide a slim chance of survival in the storm.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_24.wav|Vertin|en|No matter how many times the storm reshapes the world from top to bottom.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_25.wav|Vertin|en|That's almost the fastest they can do. Can we postpone it a bit more?
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_26.wav|Vertin|en|I took a glance at the crowd. There were at least 3,500 of them out there.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_28.wav|Vertin|en|The audience are all seated. No stampede or jostle, not to mention injury.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_30.wav|Vertin|en|The answer is much simpler than you think.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_32.wav|Vertin|en|It shouldn't be left in halves. What do you think?
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_33.wav|Vertin|en|Give me five minutes. They will no longer be a problem for us.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_34.wav|Vertin|en|Spathodir, it's not all your fault.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_35.wav|Vertin|en|No matter how ignorant people become.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_37.wav|Vertin|en|and they are all among the audience of the games.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_4.wav|Vertin|en|Spathodia has decided to supervise the construction herself, and Ulu is now with her at the site. I'm wondering how you were doing with Ezra.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_40.wav|Vertin|en|The procedure is long and complicated. Besides, the safety reports were only submitted a few days ago, so it will take at least 20 days.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_41.wav|Vertin|en|We shall run in the name of sportsmanship.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_42.wav|Vertin|en|Miss Desert Flannel, is Ezra still with you?
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_43.wav|Vertin|en|But the Aluru Stadium is still here.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_45.wav|Vertin|en|Fortunately, a lot of people went to the visitor window of the branch.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_46.wav|Vertin|en|Things will change in the unstoppable river of time, yet the Aluru Stadium shall remain forever.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_47.wav|Vertin|en|They volunteered to station here to protect it, even at the cost of their own time and effort.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_49.wav|Vertin|en|He's whipping up public opinion, just his greatest strength.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_5.wav|Vertin|en|Desert Flannel, you take care of Ezra. I'll follow the progress of the Foundation's examination.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_50.wav|Vertin|en|The current life expectancy is 50 to 75 years. I don't think I will ever reach your age.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_51.wav|Vertin|en|Thanks Hulu. I'll request another raise of your accelerants from Laplace.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_52.wav|Vertin|en|And the stadium is exactly one of them. Such a place will be desired by different forces one day. It's just a matter of time.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_53.wav|Vertin|en|The Foundation has already launched the Allura Regarding project. It will be a long-term mission and involves a heavy workload, and the Australia branch doesn't have enough manpower for it.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_6.wav|Vertin|en|That's why I want to keep it here.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_7.wav|Vertin|en|Desert Flannel? Ezra? What's the hurry?
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_9.wav|Vertin|en|It was in the office of a foundation branch, New Mexico, USA.
+.\training_set\activityvoc_hero5043_1_6_shuori_1.wav|Vertin|en|The nap went on a little longer than I thought.
+.\training_set\activityvoc_hero5043_1_6_shuori_10.wav|Vertin|en|I might have taken too long a nap. Never mind. Please come in.
+.\training_set\activityvoc_hero5043_1_6_shuori_11.wav|Vertin|en|Geographical exploration? What's her name?
+.\training_set\activityvoc_hero5043_1_6_shuori_13.wav|Vertin|en|I'm sorry, who's that?
+.\training_set\activityvoc_hero5043_1_6_shuori_15.wav|Vertin|en|I... what time is it now?
+.\training_set\activityvoc_hero5043_1_6_shuori_6.wav|Vertin|en|It's okay. I had a weird dream.
+.\training_set\activityvoc_hero5043_1_6_shuori_9.wav|Vertin|en|Think I had a dream. Many animals were jumping over a broken bridge.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_10.wav|Vertin|en|In the meantime, you and Sonetto stay here to take care of Blonney and to secure this room.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_11.wav|Vertin|en|Horopedia, do you have some cobweb bullets to trap it?
+.\training_set\activityvoc_hero5043lvhu1_2_part01_13.wav|Vertin|en|According to the map, there is the other campsite built in a wider region. We can fight it there!
+.\training_set\activityvoc_hero5043lvhu1_2_part01_14.wav|Vertin|en|Like the story of Zeno Youth Force, we are in real danger now.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_15.wav|Vertin|en|Funny story, Mr. Horropedia. As an urban myth, however, the ending is way too clear and powerful. The element of drama ruins its authenticity.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_16.wav|Vertin|en|Anything wrong with the original destination?
+.\training_set\activityvoc_hero5043lvhu1_2_part01_18.wav|Vertin|en|Nah, there's no way to follow it. The trees it pushed down have blocked the path. This would take us some time.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_2.wav|Vertin|en|Open it. If this is from a brutal crime, there might be some evidence inside.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_20.wav|Vertin|en|From the traces of activity here, it's probably been left by its indiscreet owner.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_21.wav|Vertin|en|Also, we need to turn this cabin into a security base for the upcoming battles.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_23.wav|Vertin|en|Hmm, this is super awkward.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_24.wav|Vertin|en|She's in great danger. We must act swiftly to save her.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_26.wav|Vertin|en|Blonney, is Anne also recruited as an actress? She is not as restless ... energetic as your classmates.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_27.wav|Vertin|en|Sonetto, easy. You are going to break your wand.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_29.wav|Vertin|en|Shoot that bullet. It's going to get you.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_3.wav|Vertin|en|We didn't find her in the woods. Wasn't she in Michael's car?
+.\training_set\activityvoc_hero5043lvhu1_2_part01_32.wav|Vertin|en|That was definitely not your usual critter. Miss Tooth Fairy, what kind of traces did you find earlier?
+.\training_set\activityvoc_hero5043lvhu1_2_part01_33.wav|Vertin|en|The bush is right over there. Follow me. Let's speed up.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_34.wav|Vertin|en|Then it means we are not in the kind of horror movie where misfortune only happens to "lone wolves."
+.\training_set\activityvoc_hero5043lvhu1_2_part01_36.wav|Vertin|en|No matter if we find him or not, we'll come back in five minutes.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_37.wav|Vertin|en|We are not in the human society. Aside from the "butcher," he might confront some other troubles.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_38.wav|Vertin|en|We can't let them leave like this. Hurry up!
+.\training_set\activityvoc_hero5043lvhu1_2_part01_4.wav|Vertin|en|Turn left here, keep going for a hundred meters, and then cross the bush!
+.\training_set\activityvoc_hero5043lvhu1_2_part01_40.wav|Vertin|en|Wait, this is the Green Lake campsite.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_41.wav|Vertin|en|You're back, Miss Tooth Fairy. What did you find when you explored the campsite?
+.\training_set\activityvoc_hero5043lvhu1_2_part01_42.wav|Vertin|en|You're good at making stories. Next time you can be more meticulous. Huh?
+.\training_set\activityvoc_hero5043lvhu1_2_part01_44.wav|Vertin|en|We're good. Don't worry. Cover your mouth and nose. Get out of the car.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_47.wav|Vertin|en|I remember the weather forecast said there won't be any rain in this area today.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_48.wav|Vertin|en|Please calm down. We've only been trying to help.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_49.wav|Vertin|en|No problem, Miss Tooth Fairy. I took the map with me before we got out. But there is smoke coming out of your car. Is it all right?
+.\training_set\activityvoc_hero5043lvhu1_2_part01_5.wav|Vertin|en|Sonetto, you stay here with Ms. Tooth Fairy. I will go find Jason with Horropedia.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_51.wav|Vertin|en|Miss Tooth Fairy and Horropedia, please follow them! Sonetto and I will handle this!
+.\training_set\activityvoc_hero5043lvhu1_2_part01_52.wav|Vertin|en|You are safe. The critter is gone. Don't worry.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_53.wav|Vertin|en|If we don't come back, please evacuate the whole campsite and contact rescue.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_54.wav|Vertin|en|We know where she is now. This is good. We will get her back safe and sound.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_55.wav|Vertin|en|Follow me. Take a deep breath. Hold my hand. Another deep breath.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_6.wav|Vertin|en|It's okay. Here, take my hand.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_60.wav|Vertin|en|No way. The place you're heading is...
+.\training_set\activityvoc_hero5043lvhu1_2_part01_61.wav|Vertin|en|You are all students from Vines State College?
+.\training_set\activityvoc_hero5043lvhu1_2_part01_62.wav|Vertin|en|None of my classmates or instructors ever doubted the authenticity of such a curse when they gossiped of such things.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_63.wav|Vertin|en|I know that case. I just never thought Mr. Campbell lost his because of this.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_8.wav|Vertin|en|Horropedia and I will rescue Anne. He is a horror movie expert, and it will be of great help.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_9.wav|Vertin|en|We just met a madman who called himself an oracle. He drove people away from the land of demons.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_1.wav|Vertin|en|Good. This should be the last note.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_12.wav|Vertin|en|We'll have to open it, according to the note.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_13.wav|Vertin|en|I can stay longer than them, but with no exception, I will become boring one day.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_15.wav|Vertin|en|Sounds great. We will definitely have great fun.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_19.wav|Vertin|en|There's a special area near the woods where the temperature and humidity levels are higher, so mosses are ubiquitous.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_2.wav|Vertin|en|You look pretty shocked. Have they all told you what they want?
+.\training_set\activityvoc_hero5043lvhu1_2_part02_22.wav|Vertin|en|When you were Anne, you asked what my wishes were.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_24.wav|Vertin|en|You can let go of me, Anne. It's over. He disappeared.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_25.wav|Vertin|en|It was dead. I've checked and there was no way it could survive.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_26.wav|Vertin|en|Horropedia, how likely is it for you to get their weaknesses right?
+.\training_set\activityvoc_hero5043lvhu1_2_part02_27.wav|Vertin|en|I promise, with everything I can offer.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_29.wav|Vertin|en|Now I know the answer. I know what I want.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_3.wav|Vertin|en|We saved Blonney but didn't find any of the boys. Don't worry. We will do our utmost to find them.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_30.wav|Vertin|en|The moss here is definitely special. We need to take some samples back for Miss Tooth Fairy.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_31.wav|Vertin|en|Some people ride a rocket, dashing into the sky, and eventually fall into an unknown Zero-G.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_32.wav|Vertin|en|Here in the mud. It's the fur... Oh, also, what's this?
+.\training_set\activityvoc_hero5043lvhu1_2_part02_35.wav|Vertin|en|What about us? Why haven't we been affected?
+.\training_set\activityvoc_hero5043lvhu1_2_part02_36.wav|Vertin|en|You might receive some training for a period. It might be a bit boring, but I promise it won't last too long.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_37.wav|Vertin|en|Stay strong and take my hands. I will pull you out.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_38.wav|Vertin|en|There, some people eat gold bars; some others dance on the crocodile skin.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_4.wav|Vertin|en|You can lead a different life. You can embrace a diversified and meaningful life.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_40.wav|Vertin|en|People from the outside world. Don't worry. They won't hurt you.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_42.wav|Vertin|en|If we defeat more monsters, we will get a clearer picture of what's happened at Greenlake campsite.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_44.wav|Vertin|en|It's Anne's voice. She must be here. Anne, can you hear me?
+.\training_set\activityvoc_hero5043lvhu1_2_part02_47.wav|Vertin|en|Actually, I heard them all as well.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_48.wav|Vertin|en|Even the grassland and the anonymous music in your dream, they truly exist in the outside world.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_49.wav|Vertin|en|I'm not sure. This place has been deserted for so long, we haven't found any trace of human activities.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_5.wav|Vertin|en|I will find you a good place to stay, where nobody will consider you to be weird, nor will they keep staring at you.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_50.wav|Vertin|en|Please don't attack. Repeat. Please don't attack.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_51.wav|Vertin|en|The key. This is the smell of the key.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_52.wav|Vertin|en|Once we get out of here, their wishes will soon come true.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_53.wav|Vertin|en|Someone is passing messages to us through these notes.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_54.wav|Vertin|en|This smell. I think I've smelled this before.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_55.wav|Vertin|en|You'll be alone again. Every day waking up. Falling asleep. Roaming in the dream alone.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_56.wav|Vertin|en|How about you, Anne? What do you wish to get?
+.\training_set\activityvoc_hero5043lvhu1_2_part02_58.wav|Vertin|en|There are a lot of people and fantastic things out there.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_6.wav|Vertin|en|When they stayed for long enough, after you ran out of all available games, they were no longer attractive to you, and no longer adored by you.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_60.wav|Vertin|en|Yeah, you defeated him. Like a marvelous miracle.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_61.wav|Vertin|en|Good, they've set traps in front of the cabin. Sonetto!
+.\training_set\activityvoc_hero5043lvhu1_2_part02_62.wav|Vertin|en|Not to wait for the monsters, but summon them to us.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_63.wav|Vertin|en|We have dealt with more curses in the past two hours than many people do in their entire life.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_64.wav|Vertin|en|Hmm. I think... I currently don't have any wishes.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_65.wav|Vertin|en|You will see the world with us. The amazing and unique outside world.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_66.wav|Vertin|en|Miss Tooth Fairy, please take a look at this.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_67.wav|Vertin|en|But Jessica, where are the people who once chose to stay here?
+.\training_set\activityvoc_hero5043lvhu1_2_part02_68.wav|Vertin|en|Watch out, something is approaching.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_7.wav|Vertin|en|If it is a curse, then it is a curse prepared for us.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_70.wav|Vertin|en|So the moss not only affects humans, it also works on arcanists.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_71.wav|Vertin|en|There are no enemies here. Everyone here is a member of our squad!
+.\training_set\activityvoc_hero5043lvhu1_2_part02_72.wav|Vertin|en|Wait, the carcass of the giant critter is missing.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_73.wav|Vertin|en|If you are willing to come with me, you will have them all.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_8.wav|Vertin|en|Jessica, if I stay, what will you get me, except for food and shelter? What else will you get me?
+.\training_set\activityvoc_hero5043lvhu1_2_part02_9.wav|Vertin|en|The lighthouse is sinking. Everyone move and leave now!
+.\training_set\hero5043_activitystory_lvhu_1.wav|Vertin|en|It's a long story.
+.\training_set\hero5043_activitystory_lvhu_6.wav|Vertin|en|they've proactively participated in.
+.\training_set\hero5043_level_gudu1_9_1.wav|Vertin|en|You're right. We've put too much time and effort into this plan to not carry it out now.
+.\training_set\hero5043_level_gudu1_9_10.wav|Vertin|en|Is this an illusion brought on by the fog? Or a new trial?
+.\training_set\hero5043_level_gudu1_9_11.wav|Vertin|en|No, something's not right. The arcane skill in that portal is fluctuating strangely.
+.\training_set\hero5043_level_gudu1_9_12.wav|Vertin|en|Everyone, it's almost time. Zeno will start any minute. We need to complete our preparations as planned and force Arkana to show up.
+.\training_set\hero5043_level_gudu1_9_13.wav|Vertin|en|No, I can sense her. She's still there, looking down at us through that portal.
+.\training_set\hero5043_level_gudu1_9_14.wav|Vertin|en|White shell. Pincer-like forelimbs.
+.\training_set\hero5043_level_gudu1_9_15.wav|Vertin|en|She just showed up of her own volition.
+.\training_set\hero5043_level_gudu1_9_16.wav|Vertin|en|Copy that. This is a critical moment. Everyone stay alert and await my command.
+.\training_set\hero5043_level_gudu1_9_17.wav|Vertin|en|Great. Next, we destroy the portal.
+.\training_set\hero5043_level_gudu1_9_19.wav|Vertin|en|It's time to enact the final stage.
+.\training_set\hero5043_level_gudu1_9_2.wav|Vertin|en|The battlefield. It transformed.
+.\training_set\hero5043_level_gudu1_9_20.wav|Vertin|en|Looks like the way we came, but it's a little different.
+.\training_set\hero5043_level_gudu1_9_24.wav|Vertin|en|These signs, are they trying to take me somewhere?
+.\training_set\hero5043_level_gudu1_9_25.wav|Vertin|en|Critters eating beans and a white rooster. These are supposed to be taboos on the island.
+.\training_set\hero5043_level_gudu1_9_26.wav|Vertin|en|Arcana is dangerous. We may not be able to defeat her.
+.\training_set\hero5043_level_gudu1_9_27.wav|Vertin|en|No, things are going too well. Like this has been rehearsed.
+.\training_set\hero5043_level_gudu1_9_28.wav|Vertin|en|She's waiting for something.
+.\training_set\hero5043_level_gudu1_9_4.wav|Vertin|en|Is all this still an illusion?
+.\training_set\hero5043_level_gudu1_9_5.wav|Vertin|en|With 73. Because it has the largest absolute value.
+.\training_set\hero5043_level_gudu1_9_7.wav|Vertin|en|Is this creature changing its afflatus to match that of its attacker?
+.\training_set\hero5043_level_gudu1_9_8.wav|Vertin|en|No. Something's not right. The flow of arcane skills on the island has changed.
+.\training_set\hero5043_level_gudu1_9_9.wav|Vertin|en|Sonetto, Lilia, Regulus, assume your positions.
+.\training_set\hero5043_level_lvhu1_2_1.wav|Vertin|en|Thanks for noticing, Miss Tooth Fairy.
+.\training_set\hero5043_level_lvhu1_2_2.wav|Vertin|en|If this thing has something to do with the butcher, he may predict his weakness through it.
+.\training_set\hero5043_level_lvhu1_2_3.wav|Vertin|en|The zombie bridegrooms. We've dealt with them.
+.\training_set\hero5043_level_qiutu1_4_1.wav|Vertin|en|The form of Manus Vindictae. It's more distorted than I thought.
+.\training_set\hero5043_level_qiutu1_4_10.wav|Vertin|en|I must make a plan and exercise great care.
+.\training_set\hero5043_level_qiutu1_4_11.wav|Vertin|en|Wait. The body is melting.
+.\training_set\hero5043_level_qiutu1_4_12.wav|Vertin|en|37? Can you hear me?
+.\training_set\hero5043_level_qiutu1_4_13.wav|Vertin|en|The peace agreement no longer works? Or is it safe as long as the contracting parties have no intention to fight?
+.\training_set\hero5043_level_qiutu1_4_16.wav|Vertin|en|So the seed is the form of Manus Vindictae,
+.\training_set\hero5043_level_qiutu1_4_2.wav|Vertin|en|It turns into a seed.
+.\training_set\hero5043_level_qiutu1_4_4.wav|Vertin|en|The dead followers turned into geometric symbols. Is it because of the cave?
+.\training_set\hero5043_level_qiutu1_4_5.wav|Vertin|en|A reckless attack may lead to the punishment of the bangle. I have to be careful with the method and timing of attacking.
+.\training_set\hero5043_level_qiutu1_4_6.wav|Vertin|en|They sacrifice one man to feed another.
+.\training_set\hero5043_level_qiutu1_4_7.wav|Vertin|en|So this is how the Manus fight against the restrictions?
+.\training_set\hero5043_level_qiutu1_4_8.wav|Vertin|en|The sacrificed follower has been absorbed by the seed.
+.\training_set\hero5043_skill_1.wav|Vertin|en|The form of Manus Vindictae. It's more distorted than I thought.
+.\training_set\hero5043_skill_10.wav|Vertin|en|Thanks for noticing, Miss Tooth Fairy.
+.\training_set\hero5043_skill_11.wav|Vertin|en|I must make a plan and exercise great care.
+.\training_set\hero5043_skill_12.wav|Vertin|en|Wait. The body is melting.
+.\training_set\hero5043_skill_13.wav|Vertin|en|37? Can you hear me?
+.\training_set\hero5043_skill_14.wav|Vertin|en|If this thing has something to do with the butcher, he may predict his weakness through it.
+.\training_set\hero5043_skill_15.wav|Vertin|en|The peace agreement no longer works? Or is it safe as long as the contracting parties have no intention to fight?
+.\training_set\hero5043_skill_18.wav|Vertin|en|So the seed is the form of Manus Vindictae,
+.\training_set\hero5043_skill_2.wav|Vertin|en|It turns into a seed.
+.\training_set\hero5043_skill_20.wav|Vertin|en|The zombie bridegrooms. We've dealt with them.
+.\training_set\hero5043_skill_4.wav|Vertin|en|The dead followers turned into geometric symbols. Is it because of the cave?
+.\training_set\hero5043_skill_5.wav|Vertin|en|A reckless attack may lead to the punishment of the bangle. I have to be careful with the method and timing of attacking.
+.\training_set\hero5043_skill_6.wav|Vertin|en|They sacrifice one man to feed another.
+.\training_set\hero5043_skill_7.wav|Vertin|en|So this is how the Manus fight against the restrictions?
+.\training_set\hero5043_skill_8.wav|Vertin|en|The sacrificed follower has been absorbed by the seed.
+.\training_set\illusion_hero5043_1_9_gudu_1.wav|Vertin|en|According to their rules, I'm not to eat things off the ground, or pick them up for that matter. Though, this mountain of beans isn't going away by itself. Fortunately, it doesn't appear to be too stable.
+.\training_set\illusion_hero5043_1_9_gudu_2.wav|Vertin|en|Terribly sorry, Sonetto. I really must be leaving.
+.\training_set\illusion_hero5043_1_9_gudu_3.wav|Vertin|en|Regulus, it's a violation of their scripture. You mustn't consume any beans or bean-based products.
+.\training_set\illusion_hero5043_1_9_gudu_4.wav|Vertin|en|I hate to be rude, but I need a moment of peace. If only I could turn everything silent.
+.\training_set\illusion_hero5043_1_9_gudu_5.wav|Vertin|en|but time still is against us, and I haven't any left to spare. Not even to explain myself to Sonetto.
+.\training_set\illusion_hero5043_1_9_gudu_6.wav|Vertin|en|Fortunately, it doesn't appear to be too stable.
+.\training_set\illusion_hero5043_1_9_gudu_7.wav|Vertin|en|So sorry, but I really do have to leave now.
+.\training_set\illusion_hero5043_1_9_gudu_8.wav|Vertin|en|But I came in from the left. Why would I leave the same way I came in?
+.\training_set\illusion_hero5043_1_9_gudu_9.wav|Vertin|en|I have to leave, but not from the right. There must be a way to reverse left and right.
+.\training_set\plotvoc_hero5043chapter0_part01_1.wav|Vertin|en|Careful, there's another gang of rioters. They're blocking the way ahead!
+.\training_set\plotvoc_hero5043chapter0_part01_11.wav|Vertin|en|Look at the world through your own eyes.
+.\training_set\plotvoc_hero5043chapter0_part01_12.wav|Vertin|en|We need to take them down first. Sonetto, your assistance, please!
+.\training_set\plotvoc_hero5043chapter0_part01_13.wav|Vertin|en|You can see it too. Which proves you're the one I'm looking for.
+.\training_set\plotvoc_hero5043chapter0_part01_14.wav|Vertin|en|Relax, I'm not going to take you to the foundation. I simply ask that you go somewhere safe with me.
+.\training_set\plotvoc_hero5043chapter0_part01_16.wav|Vertin|en|Also, in Kingly Court.
+.\training_set\plotvoc_hero5043chapter0_part01_19.wav|Vertin|en|She must've been in a rush, leaving all that behind.
+.\training_set\plotvoc_hero5043chapter0_part01_2.wav|Vertin|en|Her face has gone pale ... Let me check her out.
+.\training_set\plotvoc_hero5043chapter0_part01_21.wav|Vertin|en|You haven't seen the storm yet, have you?
+.\training_set\plotvoc_hero5043chapter0_part01_22.wav|Vertin|en|Enough! Stop running!
+.\training_set\plotvoc_hero5043chapter0_part01_25.wav|Vertin|en|What are you going to do after Regulus's registration? The storm is about to come.
+.\training_set\plotvoc_hero5043chapter0_part01_26.wav|Vertin|en|Are you talking about Regulus of the Apple?
+.\training_set\plotvoc_hero5043chapter0_part01_28.wav|Vertin|en|If you don't go back now, it'll be too late.
+.\training_set\plotvoc_hero5043chapter0_part01_29.wav|Vertin|en|It's nothing. I have my own mission.
+.\training_set\plotvoc_hero5043chapter0_part01_30.wav|Vertin|en|I'm her friend. She left something.
+.\training_set\plotvoc_hero5043chapter0_part01_31.wav|Vertin|en|Misty bubble balls have an easily traceable scent. Sonetto will be here any minute.
+.\training_set\plotvoc_hero5043chapter0_part01_32.wav|Vertin|en|I see. Let's go, Sonetto.
+.\training_set\plotvoc_hero5043chapter0_part01_34.wav|Vertin|en|And this is...
+.\training_set\plotvoc_hero5043chapter0_part01_35.wav|Vertin|en|Sonetto, are you really going to continue the mission?
+.\training_set\plotvoc_hero5043chapter0_part01_37.wav|Vertin|en|Now everyone, get ready to break through.
+.\training_set\plotvoc_hero5043chapter0_part01_38.wav|Vertin|en|Regulus, I need you to brave the storm with me.
+.\training_set\plotvoc_hero5043chapter0_part01_39.wav|Vertin|en|Have you found out where Regulus usually spends her time? Or anyone who knows her?
+.\training_set\plotvoc_hero5043chapter0_part01_4.wav|Vertin|en|I need your help, so until you can give it to me, I'll help you out.
+.\training_set\plotvoc_hero5043chapter0_part01_40.wav|Vertin|en|Sonetto, your assistance please.
+.\training_set\plotvoc_hero5043chapter0_part01_43.wav|Vertin|en|I'll do my best to help before the storm arrives.
+.\training_set\plotvoc_hero5043chapter0_part01_44.wav|Vertin|en|It's a misty bubble ball. You know how to use it, right?
+.\training_set\plotvoc_hero5043chapter0_part01_45.wav|Vertin|en|Do you like the world outside, Sonetto?
+.\training_set\plotvoc_hero5043chapter0_part01_46.wav|Vertin|en|Exactly. Isn't this the bookstore?
+.\training_set\plotvoc_hero5043chapter0_part01_5.wav|Vertin|en|Regulus, you're doing this too.
+.\training_set\plotvoc_hero5043chapter0_part01_6.wav|Vertin|en|You know I'm not like you, Sonetto. You've trained your whole life to battle with arcanum. I ... took a different path ...
+.\training_set\plotvoc_hero5043chapter0_part01_7.wav|Vertin|en|Indeed, we have 45 minutes.
+.\training_set\plotvoc_hero5043chapter0_part01_8.wav|Vertin|en|The breach is behind us. The alley towards King's Road.
+.\training_set\plotvoc_hero5043chapter0_part01_9.wav|Vertin|en|Fifteen minutes left. Come on, let's move.
+.\training_set\plotvoc_hero5043chapter0_part02_10.wav|Vertin|en|Follow me, all the way down to the end of the path and into the depths.
+.\training_set\plotvoc_hero5043chapter0_part02_11.wav|Vertin|en|Our time is going backwards, Regulus.
+.\training_set\plotvoc_hero5043chapter0_part02_13.wav|Vertin|en|There's also something I need to find out for myself.
+.\training_set\plotvoc_hero5043chapter0_part02_14.wav|Vertin|en|the FIFA World Player of the Year, who then became a mass idol.
+.\training_set\plotvoc_hero5043chapter0_part02_15.wav|Vertin|en|Before meeting you, I had done so many experiments.
+.\training_set\plotvoc_hero5043chapter0_part02_16.wav|Vertin|en|I realised that you could see what I see in this world. So...
+.\training_set\plotvoc_hero5043chapter0_part02_18.wav|Vertin|en|I can't stand aside and watch you be taken away by Sonetto; have you disappear like the others in the "Storm."
+.\training_set\plotvoc_hero5043chapter0_part02_2.wav|Vertin|en|At one point, I discovered that my suitcase was able to cut the storm out. It can preserve items from the last era too, like these photos.
+.\training_set\plotvoc_hero5043chapter0_part02_20.wav|Vertin|en|It was the beginning of the month. There couldn't have been a full moon that day. The real moon was to your west. There were two that night.
+.\training_set\plotvoc_hero5043chapter0_part02_21.wav|Vertin|en|A safe place. An ark. Sailing in the storm.
+.\training_set\plotvoc_hero5043chapter0_part02_24.wav|Vertin|en|Yes. I took this photo several days ago. He was selling Hoover upright vacuum cleaners in the West End and thought photos would help business, so he gladly posed for it.
+.\training_set\plotvoc_hero5043chapter0_part02_25.wav|Vertin|en|So I tried putting newspapers, mushrooms, even whopaloosies into the case. They all succeeded. However, when it came to the friends I'd made in the last era...
+.\training_set\plotvoc_hero5043chapter0_part02_26.wav|Vertin|en|They're stories from a long, long time to come.
+.\training_set\plotvoc_hero5043chapter0_part02_27.wav|Vertin|en|That is to say, I'm the one who records the beginnings and ends of eras.
+.\training_set\plotvoc_hero5043chapter0_part02_28.wav|Vertin|en|When you were out at sea, broadcasting on the radio, Regulus cried out, "Shout it to the full moon!"
+.\training_set\plotvoc_hero5043chapter0_part02_3.wav|Vertin|en|These photos date forward to 1999. My time.
+.\training_set\plotvoc_hero5043chapter0_part02_30.wav|Vertin|en|I met her at a snack bar at 2am. Her one-act play about the Transantarctic expedition was a real masterpiece.
+.\training_set\plotvoc_hero5043chapter0_part02_31.wav|Vertin|en|You've braved the storm. My experiment succeeded. Thank you for your help.
+.\training_set\plotvoc_hero5043chapter0_part02_32.wav|Vertin|en|Hold my hand. Let me take you into the suitcase.
+.\training_set\plotvoc_hero5043chapter0_part02_33.wav|Vertin|en|Not good. Seems our suitcase has been found.
+.\training_set\plotvoc_hero5043chapter0_part02_34.wav|Vertin|en|It's alright. It's just... the end of an era.
+.\training_set\plotvoc_hero5043chapter0_part02_35.wav|Vertin|en|By critters, maybe. Or just someone passing by. Sorry. I need to leave for a while. Need to hide it somewhere safe.
+.\training_set\plotvoc_hero5043chapter0_part02_36.wav|Vertin|en|Relax, Regulus. I will tell you, but not here.
+.\training_set\plotvoc_hero5043chapter0_part02_38.wav|Vertin|en|I'm the timekeeper. I keep track of time in the outside world.
+.\training_set\plotvoc_hero5043chapter0_part02_4.wav|Vertin|en|Maybe I should just record the time, be a silent, emotionless observer. Act as the Foundation has asked me to.
+.\training_set\plotvoc_hero5043chapter0_part02_42.wav|Vertin|en|I'm from the St. Pavlov Foundation, the same place as the investigators you just met. We actually grew up there together.
+.\training_set\plotvoc_hero5043chapter0_part02_47.wav|Vertin|en|Please, allow me to reintroduce myself.
+.\training_set\plotvoc_hero5043chapter0_part02_49.wav|Vertin|en|No one can follow us here. We can speak freely.
+.\training_set\plotvoc_hero5043chapter0_part02_5.wav|Vertin|en|At the countdown to the millennium, before the clock struck twelve, time reversed. We were sent back to the explosion of the supernova in the eighties, to the release of VHS.
+.\training_set\plotvoc_hero5043chapter0_part02_6.wav|Vertin|en|and to the 1960s, where I met you.
+.\training_set\plotvoc_hero5043chapter0_part02_7.wav|Vertin|en|This is Julie, who once invited me to her house. Her bedroom wall was covered with posters of Rivaldo.
+.\training_set\plotvoc_hero5043chapter0_part02_8.wav|Vertin|en|This is Marion Smith, a single mother. She worried if she could afford to feed her child every night, but she never gave up her dream of being a writer.
+.\training_set\plotvoc_hero5043chapter1_part01_1.wav|Vertin|en|I... I seem to see my mother.
+.\training_set\plotvoc_hero5043chapter1_part01_10.wav|Vertin|en|Those unconscious Arcanists behind you are the original victims, right?
+.\training_set\plotvoc_hero5043chapter1_part01_11.wav|Vertin|en|We don't have much time. Let's hurry up to the hidden position. Mr. Apple, why are you a little upset?
+.\training_set\plotvoc_hero5043chapter1_part01_14.wav|Vertin|en|The Foundation is currently the charity that can provide the best treatment for arcanists. There is no doubt about it.
+.\training_set\plotvoc_hero5043chapter1_part01_15.wav|Vertin|en|Mr Apple, how long will it take for the suitcase to be completely invisible?
+.\training_set\plotvoc_hero5043chapter1_part01_16.wav|Vertin|en|I was also one of them. Since I can remember, I know it very well that I am alone.
+.\training_set\plotvoc_hero5043chapter1_part01_17.wav|Vertin|en|Sonetto?! Why are ... Is it because I touched ... that line?
+.\training_set\plotvoc_hero5043chapter1_part01_19.wav|Vertin|en|The forces of the Manus expand dramatically year by year. To stop the trend, we do need additional manpower.
+.\training_set\plotvoc_hero5043chapter1_part01_2.wav|Vertin|en|Every few years, the Foundation selects talented Arcanists from children around the world.
+.\training_set\plotvoc_hero5043chapter1_part01_20.wav|Vertin|en|Maybe that's my mistake. If there is no question, we are ready to go.
+.\training_set\plotvoc_hero5043chapter1_part01_21.wav|Vertin|en|I have no intention to make enemies of the Foundation. As I said, I just want to find out the truth. All the truth about 1999.
+.\training_set\plotvoc_hero5043chapter1_part01_22.wav|Vertin|en|As for Dr Pepper, I think Sonetto will find a way.
+.\training_set\plotvoc_hero5043chapter1_part01_23.wav|Vertin|en|Thank you for bringing the message, Sonetto.
+.\training_set\plotvoc_hero5043chapter1_part01_25.wav|Vertin|en|So, you have seen what the storm was like?
+.\training_set\plotvoc_hero5043chapter1_part01_26.wav|Vertin|en|Then come back as soon as you finish the registration. The foundation is open to the public, but it's still heavily guarded.
+.\training_set\plotvoc_hero5043chapter1_part01_27.wav|Vertin|en|This is my suitcase. Please give it back to me.
+.\training_set\plotvoc_hero5043chapter1_part01_28.wav|Vertin|en|It will probably take some time for them to wake up. Hide them under the car first.
+.\training_set\plotvoc_hero5043chapter1_part01_29.wav|Vertin|en|Mr Apple, I need your help.
+.\training_set\plotvoc_hero5043chapter1_part01_30.wav|Vertin|en|So, what's the first mission for our team?
+.\training_set\plotvoc_hero5043chapter1_part01_32.wav|Vertin|en|We should go. I will carry it with me along the way.
+.\training_set\plotvoc_hero5043chapter1_part01_36.wav|Vertin|en|Why did you all black out?
+.\training_set\plotvoc_hero5043chapter1_part01_37.wav|Vertin|en|You are awake. How do you feel? Any discomfort?
+.\training_set\plotvoc_hero5043chapter1_part01_38.wav|Vertin|en|The subculture movement has indeed changed the social status of some arcanists. While in the 1920s ... there are still many injustices.
+.\training_set\plotvoc_hero5043chapter1_part01_4.wav|Vertin|en|All of us. Our memories of 1999 are blurred. I can only remember that she was placed on a laboratory bed, surrounded by many medical staff.
+.\training_set\plotvoc_hero5043chapter1_part01_41.wav|Vertin|en|They shouted her name, and mine, and I can't remember anything else. Later, no matter how hard I tried to ask, the official answer I got was always no such person.
+.\training_set\plotvoc_hero5043chapter1_part01_42.wav|Vertin|en|There's still 30 minutes. Who's coming early?
+.\training_set\plotvoc_hero5043chapter1_part01_44.wav|Vertin|en|I can't see her at all. The fog is getting thicker.
+.\training_set\plotvoc_hero5043chapter1_part01_46.wav|Vertin|en|Difference in talent is never and never will be the reason to deprive people of life.
+.\training_set\plotvoc_hero5043chapter1_part01_47.wav|Vertin|en|Until 1999, when the first storm came.
+.\training_set\plotvoc_hero5043chapter1_part01_49.wav|Vertin|en|But... Sonetto, did you have oranges just now? There is a scent of orange on the capsule...
+.\training_set\plotvoc_hero5043chapter1_part01_5.wav|Vertin|en|If they shake the suitcase like this, Regulus will probably fall apart.
+.\training_set\plotvoc_hero5043chapter1_part01_50.wav|Vertin|en|They go to orphanages and admonition centers, and even fish out unique ones from the prisons in detention centers.
+.\training_set\plotvoc_hero5043chapter1_part01_51.wav|Vertin|en|Let me explain. Regulus, Apple, what I invited you to join before is... The St. Pavlov Foundation.
+.\training_set\plotvoc_hero5043chapter1_part01_55.wav|Vertin|en|I... I seem to have seen this. It's... I...
+.\training_set\plotvoc_hero5043chapter1_part01_56.wav|Vertin|en|What happened? I don't seem to be affected.
+.\training_set\plotvoc_hero5043chapter1_part01_57.wav|Vertin|en|Hide it in the tree hole this time. It shouldn't be that easy to be found.
+.\training_set\plotvoc_hero5043chapter1_part01_58.wav|Vertin|en|I know what you said to Sonetto just now is expedient. I can still help you get out of here.
+.\training_set\plotvoc_hero5043chapter1_part01_61.wav|Vertin|en|No one's here. The light is off. Did she go to another room?
+.\training_set\plotvoc_hero5043chapter1_part01_65.wav|Vertin|en|The line is... Two-dimensional?
+.\training_set\plotvoc_hero5043chapter1_part01_8.wav|Vertin|en|Regulus! Why are you there?
+.\training_set\plotvoc_hero5043chapter1_part01_att_1.wav|Vertin|en|There's an address on the seal—Polypotion Bar, The Walden.
+.\training_set\plotvoc_hero5043chapter1_part01_att_10.wav|Vertin|en|As long as one of us can leave the woods, there is hope for the rest.
+.\training_set\plotvoc_hero5043chapter1_part01_att_13.wav|Vertin|en|The Manus is changing history, Madam Z.
+.\training_set\plotvoc_hero5043chapter1_part01_att_16.wav|Vertin|en|Too late to climb up the slope. Get ready to fight.
+.\training_set\plotvoc_hero5043chapter1_part01_att_18.wav|Vertin|en|Hello. Please get me Madam Z of the St Pavlov Foundation Committee.
+.\training_set\plotvoc_hero5043chapter1_part01_att_19.wav|Vertin|en|The exit on the northwest ... It's quite close to The Walden on the map.
+.\training_set\plotvoc_hero5043chapter1_part01_att_21.wav|Vertin|en|Oh. So it is said that in the early 20th century, there was a devastating forest fire in Washington.
+.\training_set\plotvoc_hero5043chapter1_part01_att_22.wav|Vertin|en|The Walden. It may have the answer to all the questions.
+.\training_set\plotvoc_hero5043chapter1_part01_att_24.wav|Vertin|en|Thank you very much for your help, Miss Druvis.
+.\training_set\plotvoc_hero5043chapter1_part01_att_25.wav|Vertin|en|They follow the travellers without making any sounds. And in order to see everyone's face clearly, they will...
+.\training_set\plotvoc_hero5043chapter1_part01_att_26.wav|Vertin|en|Sonetto, update the result to the headquarters.
+.\training_set\plotvoc_hero5043chapter1_part01_att_27.wav|Vertin|en|I request access to the historical intelligence on the US financial market in 1929, specifically the date of the Wall Street stock market crash and how much Arcanum was involved in the methods of stock exchange.
+.\training_set\plotvoc_hero5043chapter1_part01_att_3.wav|Vertin|en|Stock? Why does it always have something to do with financial securities?
+.\training_set\plotvoc_hero5043chapter1_part01_att_32.wav|Vertin|en|Also, I request sending backup to reinforce the Storm Gathering tonight. Casual wear required.
+.\training_set\plotvoc_hero5043chapter1_part01_att_34.wav|Vertin|en|The heels? Here you are.
+.\training_set\plotvoc_hero5043chapter1_part01_att_35.wav|Vertin|en|Lots of unknown creatures. Sonetto, stay behind me!
+.\training_set\plotvoc_hero5043chapter1_part01_att_5.wav|Vertin|en|Speaking of which, Sonetto, have you ever heard of a ghost story about "fire"?
+.\training_set\plotvoc_hero5043chapter1_part01_att_7.wav|Vertin|en|No, too many of them. We can only take one round at most, not for long.
+.\training_set\plotvoc_hero5043chapter1_part01_att_8.wav|Vertin|en|Those who died unfortunately didn't want to leave, and they turned into dark ghosts in the woods.
+.\training_set\plotvoc_hero5043chapter1_part01_att_9.wav|Vertin|en|Mr Apple, how much longer can you hold on?
+.\training_set\plotvoc_hero5043chapter1_part02_1.wav|Vertin|en|You've been there. The scent of orange in Sonetto's mission capsule. That's why you can hijack the hostages outside the parking.
+.\training_set\plotvoc_hero5043chapter1_part02_11.wav|Vertin|en|They've made an underground labyrinth in the speakeasy. The end of the labyrinth. What will that be?
+.\training_set\plotvoc_hero5043chapter1_part02_13.wav|Vertin|en|I'm going. Don't worry.
+.\training_set\plotvoc_hero5043chapter1_part02_14.wav|Vertin|en|Go. Run freely.
+.\training_set\plotvoc_hero5043chapter1_part02_15.wav|Vertin|en|Got it. Let's head down to The Walden now. You follow APPLe. Remember, to stay low profile.
+.\training_set\plotvoc_hero5043chapter1_part02_16.wav|Vertin|en|The market is really dropping ahead of time. To accelerate the history like this, is that for...
+.\training_set\plotvoc_hero5043chapter1_part02_21.wav|Vertin|en|Did you find out the relationship between Manus Vindictae and him?
+.\training_set\plotvoc_hero5043chapter1_part02_23.wav|Vertin|en|There will be many unexpected dangers in the labyrinth. We need to move carefully.
+.\training_set\plotvoc_hero5043chapter1_part02_24.wav|Vertin|en|We're here to help. Stay calm, miss.
+.\training_set\plotvoc_hero5043chapter1_part02_25.wav|Vertin|en|Since the last day of 1999, the world started to get reversed by the storm, one after another.
+.\training_set\plotvoc_hero5043chapter1_part02_27.wav|Vertin|en|No, it's nothing. You make the call.
+.\training_set\plotvoc_hero5043chapter1_part02_28.wav|Vertin|en|The hidden path they just made. That may work.
+.\training_set\plotvoc_hero5043chapter1_part02_29.wav|Vertin|en|Community conflicts, turbulent history, new technology, all of these may lead to the storm.
+.\training_set\plotvoc_hero5043chapter1_part02_30.wav|Vertin|en|They've reconstructed the building. All the exits are blocked.
+.\training_set\plotvoc_hero5043chapter1_part02_31.wav|Vertin|en|I just don't feel good about this. Hopefully it's my misjudgment. Is everyone in position?
+.\training_set\plotvoc_hero5043chapter1_part02_32.wav|Vertin|en|What if I say, I can provide you with a shelter?
+.\training_set\plotvoc_hero5043chapter1_part02_36.wav|Vertin|en|Is Schneider casting an arcane skill?
+.\training_set\plotvoc_hero5043chapter1_part02_37.wav|Vertin|en|She's near us. But why can I sense that?
+.\training_set\plotvoc_hero5043chapter1_part02_38.wav|Vertin|en|I'm fine. Why are you behind the stage? But you seem well. Thank goodness.
+.\training_set\plotvoc_hero5043chapter1_part02_40.wav|Vertin|en|Why did you go to the Foundation? Can't the Manus give you what you want?
+.\training_set\plotvoc_hero5043chapter1_part02_41.wav|Vertin|en|Leave four behind for the team! Everyone else move! Don't get caught!
+.\training_set\plotvoc_hero5043chapter1_part02_42.wav|Vertin|en|We can't keep fighting like this. We need to find a way out.
+.\training_set\plotvoc_hero5043chapter1_part02_6.wav|Vertin|en|Which past do you want to return? 50 years ago? A century ago? Or...
+.\training_set\plotvoc_hero5043chapter1_part02_7.wav|Vertin|en|Those behind him are men of the Manus Vindictae.
+.\training_set\plotvoc_hero5043chapter1_part02_8.wav|Vertin|en|Correct. I finally got the answer.
+.\training_set\plotvoc_hero5043chapter1_part02_9.wav|Vertin|en|You were using the history to expedite the storm.
+.\training_set\plotvoc_hero5043chapter2_part01_1.wav|Vertin|en|asymmetric immune protein G
+.\training_set\plotvoc_hero5043chapter2_part01_10.wav|Vertin|en|Why? I've decided to join you.
+.\training_set\plotvoc_hero5043chapter2_part01_12.wav|Vertin|en|I... I think I just saw a critter. Didn't watch my step when driving it away.
+.\training_set\plotvoc_hero5043chapter2_part01_14.wav|Vertin|en|Ah, thank you for wiping the mud off my face.
+.\training_set\plotvoc_hero5043chapter2_part01_16.wav|Vertin|en|The three questions are all done. It's already... already enough!
+.\training_set\plotvoc_hero5043chapter2_part01_17.wav|Vertin|en|Just climb up here, take a small jump, then I'll get it.
+.\training_set\plotvoc_hero5043chapter2_part01_2.wav|Vertin|en|And I'm the only successful subject.
+.\training_set\plotvoc_hero5043chapter2_part01_20.wav|Vertin|en|You often see strange creatures? Are you also an arcanist?
+.\training_set\plotvoc_hero5043chapter2_part01_21.wav|Vertin|en|Schneider, how did you become so young?
+.\training_set\plotvoc_hero5043chapter2_part01_24.wav|Vertin|en|Ah, the critters are making trouble now. Wait a minute, I will deal with them soon.
+.\training_set\plotvoc_hero5043chapter2_part01_25.wav|Vertin|en|So, what are the three questions?
+.\training_set\plotvoc_hero5043chapter2_part01_26.wav|Vertin|en|Where ... where am I?
+.\training_set\plotvoc_hero5043chapter2_part01_27.wav|Vertin|en|The leader behind Manus Vindictae.
+.\training_set\plotvoc_hero5043chapter2_part01_28.wav|Vertin|en|in the mental hospital, the correctional institution, the abandoned orphanage and the streets that no one sets foot on.
+.\training_set\plotvoc_hero5043chapter2_part01_3.wav|Vertin|en|The orange tree feels so real. Warm breeze, the familiar scent.
+.\training_set\plotvoc_hero5043chapter2_part01_31.wav|Vertin|en|In the future ... will you also come to town, Schneider?
+.\training_set\plotvoc_hero5043chapter2_part01_33.wav|Vertin|en|I'm here to pick oranges.
+.\training_set\plotvoc_hero5043chapter2_part01_34.wav|Vertin|en|Yes, we are looking for the arcane antibody immune to the storm.
+.\training_set\plotvoc_hero5043chapter2_part01_36.wav|Vertin|en|I've been wondering, don't you think this orange tastes bitter?
+.\training_set\plotvoc_hero5043chapter2_part01_37.wav|Vertin|en|The pistol. No. No. No. Don't come over.
+.\training_set\plotvoc_hero5043chapter2_part01_42.wav|Vertin|en|I rarely meet them. Most of them are deserted.
+.\training_set\plotvoc_hero5043chapter2_part01_43.wav|Vertin|en|Who says I'm not skilled? Observe. Let me pick up that big orange at the top for you.
+.\training_set\plotvoc_hero5043chapter2_part01_44.wav|Vertin|en|Why are oranges here?
+.\training_set\plotvoc_hero5043chapter2_part01_45.wav|Vertin|en|And how do you indulge in my suffering?
+.\training_set\plotvoc_hero5043chapter2_part01_6.wav|Vertin|en|Isn't the storm created by you?
+.\training_set\plotvoc_hero5043chapter2_part01_8.wav|Vertin|en|Schneider?! Why are you covered in blood ...
+.\training_set\plotvoc_hero5043chapter2_part01_att_1.wav|Vertin|en|The most likely place to park Schneider should be in one of the rooms on the other two floors.
+.\training_set\plotvoc_hero5043chapter2_part01_att_10.wav|Vertin|en|Your wound hasn't healed. Can't get hurt anymore. Stay behind me.
+.\training_set\plotvoc_hero5043chapter2_part01_att_11.wav|Vertin|en|The slime on the thorns will make your body stiff. Be careful.
+.\training_set\plotvoc_hero5043chapter2_part01_att_13.wav|Vertin|en|And this mutation has turned money into food in people's eyes.
+.\training_set\plotvoc_hero5043chapter2_part01_att_14.wav|Vertin|en|Just like the storm. It's there for no reason.
+.\training_set\plotvoc_hero5043chapter2_part01_att_15.wav|Vertin|en|Rowan is full of vitality. Even if it is transplanted from Europe to North America, it grows vigorously and stretches into a vast forest.
+.\training_set\plotvoc_hero5043chapter2_part01_att_17.wav|Vertin|en|Once you dispel the arcanum, it would not be what it is now. I think you are clear, Miss Druvis, that ...
+.\training_set\plotvoc_hero5043chapter2_part01_att_18.wav|Vertin|en|No, I can't stay any longer. I need to pass through here and go to the underground before anyone else comes.
+.\training_set\plotvoc_hero5043chapter2_part01_att_19.wav|Vertin|en|Both his appearance and voice have changed. Just like the believers who can't talk.
+.\training_set\plotvoc_hero5043chapter2_part01_att_20.wav|Vertin|en|This burnt branch should have come from a rowan tree, right?
+.\training_set\plotvoc_hero5043chapter2_part01_att_21.wav|Vertin|en|But what you said, she...
+.\training_set\plotvoc_hero5043chapter2_part01_att_22.wav|Vertin|en|It's weird. It was a straight path when investigating.
+.\training_set\plotvoc_hero5043chapter2_part01_att_23.wav|Vertin|en|Bring the healing potion, other potions, medical equipment, food, masks of the Manus, and ...
+.\training_set\plotvoc_hero5043chapter2_part01_att_24.wav|Vertin|en|People, like this branch, whose life was brutally terminated, they worked out new tools, they tried to eat these softened gold bars and sold the food that's no longer valuable.
+.\training_set\plotvoc_hero5043chapter2_part01_att_26.wav|Vertin|en|Someone's coming. I should hide from them.
+.\training_set\plotvoc_hero5043chapter2_part01_att_28.wav|Vertin|en|This is a cage. She wants to catch us! The exit at two is our last chance! Breakthrough!
+.\training_set\plotvoc_hero5043chapter2_part01_att_29.wav|Vertin|en|It's a pity that the patrolman could not be confirmed. I'm afraid a battle will be inevitable.
+.\training_set\plotvoc_hero5043chapter2_part01_att_31.wav|Vertin|en|How? How is the thorn cage so tough?
+.\training_set\plotvoc_hero5043chapter2_part01_att_32.wav|Vertin|en|Every tree lives for tomorrow.
+.\training_set\plotvoc_hero5043chapter2_part01_att_34.wav|Vertin|en|The Rowan Branch sprouted. The symbol of protection and blessing.
+.\training_set\plotvoc_hero5043chapter2_part01_att_36.wav|Vertin|en|No, we can't be trapped here. Let me try again.
+.\training_set\plotvoc_hero5043chapter2_part01_att_39.wav|Vertin|en|I have seen this tree in Ireland and southwest England. It is often called quickbeam, derived from Old German. Means stay alive.
+.\training_set\plotvoc_hero5043chapter2_part01_att_4.wav|Vertin|en|You used Arcanum to keep it to the moment when it was burned.
+.\training_set\plotvoc_hero5043chapter2_part01_att_43.wav|Vertin|en|The second, the first and underground. Altogether, three secret chambers in the speakeasy. There are mainly material rooms, study rooms and corridor on the second floor cross out.
+.\training_set\plotvoc_hero5043chapter2_part01_att_44.wav|Vertin|en|Is this little rowan branch really alive, Miss Druvis?
+.\training_set\plotvoc_hero5043chapter2_part01_att_45.wav|Vertin|en|Okay, then I'll wait for them to go over.
+.\training_set\plotvoc_hero5043chapter2_part01_att_46.wav|Vertin|en|Why do you blame them? In the storm, there is no life.
+.\training_set\plotvoc_hero5043chapter2_part01_att_47.wav|Vertin|en|Why, the Rowan Branch seems to be pulling me. Does it want me to choose the path where they are?
+.\training_set\plotvoc_hero5043chapter2_part01_att_48.wav|Vertin|en|In the most dangerous days in the Celtic calendar, people wear garlands and berries of rowan to pray for its blessing for vitality.
+.\training_set\plotvoc_hero5043chapter2_part01_att_49.wav|Vertin|en|The storm syndrome turned money into food in people's eyes. It's so ridiculous.
+.\training_set\plotvoc_hero5043chapter2_part01_att_5.wav|Vertin|en|There must be a way. It just takes time.
+.\training_set\plotvoc_hero5043chapter2_part01_att_50.wav|Vertin|en|However, an unexpected fire destroyed all of them.
+.\training_set\plotvoc_hero5043chapter2_part01_att_51.wav|Vertin|en|Mine hands thine order. I'm Vertin, a follower like you. Please let me pass.
+.\training_set\plotvoc_hero5043chapter2_part01_att_6.wav|Vertin|en|People worked so hard to understand life with their own logic.
+.\training_set\plotvoc_hero5043chapter2_part01_att_7.wav|Vertin|en|because they just want to live as much as possible, but not go back in time.
+.\training_set\plotvoc_hero5043chapter2_part01_att_8.wav|Vertin|en|Is it because of the mask? Or arcana?
+.\training_set\plotvoc_hero5043chapter2_part01_att_9.wav|Vertin|en|I'll take it. Go.
+.\training_set\plotvoc_hero5043chapter2_part02_10.wav|Vertin|en|Fine. Last bet, I'll go down.
+.\training_set\plotvoc_hero5043chapter2_part02_12.wav|Vertin|en|Watch your steps. Leave with me.
+.\training_set\plotvoc_hero5043chapter2_part02_15.wav|Vertin|en|Whose people shall be no more?
+.\training_set\plotvoc_hero5043chapter2_part02_17.wav|Vertin|en|It smells nice. Even like...
+.\training_set\plotvoc_hero5043chapter2_part02_18.wav|Vertin|en|Also, the potion he's brewing doesn't do any obvious harm.
+.\training_set\plotvoc_hero5043chapter2_part02_19.wav|Vertin|en|We can't relax yet. Defeat the shadows first. Please, everybody, hold on.
+.\training_set\plotvoc_hero5043chapter2_part02_2.wav|Vertin|en|Everybody, keep 50 feet away from her.
+.\training_set\plotvoc_hero5043chapter2_part02_20.wav|Vertin|en|So that's it ... Lots of reserved food and oil, medical supplies, emergency supplies, and temporary infrastructure tools.
+.\training_set\plotvoc_hero5043chapter2_part02_23.wav|Vertin|en|Don't open your eyes until you meet Sonetto.
+.\training_set\plotvoc_hero5043chapter2_part02_24.wav|Vertin|en|Although you won't go, I still want to know.
+.\training_set\plotvoc_hero5043chapter2_part02_25.wav|Vertin|en|How shall we spend the last hours? And what can I do?
+.\training_set\plotvoc_hero5043chapter2_part02_27.wav|Vertin|en|If this was the last moment in your life, what wish would you want to make?
+.\training_set\plotvoc_hero5043chapter0_part02_37.wav|Vertin|en|And you survived.
+.\training_set\plotvoc_hero5043chapter2_part02_28.wav|Vertin|en|Despite the coming storm or the Foundation's reinforcements, there is only one ending to your story.
+.\training_set\plotvoc_hero5043chapter2_part02_29.wav|Vertin|en|Crap! Other people will be attracted here. I need to take him down.
+.\training_set\plotvoc_hero5043chapter2_part02_3.wav|Vertin|en|Your blessing once brought me fortune and hope.
+.\training_set\plotvoc_hero5043chapter2_part02_32.wav|Vertin|en|We belong to the future. Forget me not.
+.\training_set\plotvoc_hero5043chapter0_part02_23.wav|Vertin|en|I think so.
+.\training_set\plotvoc_hero5043chapter2_part02_35.wav|Vertin|en|Are you really showing me the way? Then I'll go left.
+.\training_set\plotvoc_hero5043chapter2_part02_36.wav|Vertin|en|Maybe she shares the same dream with us.
+.\training_set\plotvoc_hero5043chapter2_part02_38.wav|Vertin|en|Without official support, Manus Vindictae needs supplies to gain a foothold in different eras.
+.\training_set\plotvoc_hero5043chapter2_part02_40.wav|Vertin|en|Schneider, now you need to save your strength.
+.\training_set\plotvoc_hero5043chapter2_part02_42.wav|Vertin|en|Enjoy the dinner. Miss Sotheby prepares for everyone tonight.
+.\training_set\plotvoc_hero5043chapter2_part02_47.wav|Vertin|en|I just don't know. How did you do that? When you bumped me?
+.\training_set\plotvoc_hero5043chapter2_part02_5.wav|Vertin|en|No, I'm picking them up.
+.\training_set\plotvoc_hero5043chapter2_part02_52.wav|Vertin|en|I think ... there is a way to address your problems, Mr. Karson.
+.\training_set\plotvoc_hero5043chapter2_part02_53.wav|Vertin|en|Leave the flashlight. Get up. I'll carry you and jump out.
+.\training_set\plotvoc_hero5043chapter0_part02_43.wav|Vertin|en|It doesn't work on ordinary people.
+.\training_set\plotvoc_hero5043chapter2_part02_56.wav|Vertin|en|It's a misunderstanding. I don't have the potion. It will be delivered very soon.
+.\training_set\plotvoc_hero5043chapter2_part02_57.wav|Vertin|en|Why? Does he really want to treat the patients? Impossible.
+.\training_set\plotvoc_hero5043chapter2_part02_59.wav|Vertin|en|It's the leftover cake from dinner. I can't bring too much with me. Hang in for a while. They will send you out here tonight.
+.\training_set\plotvoc_hero5043chapter2_part02_6.wav|Vertin|en|Weak pulse ... How come? We should have time for first aid …
+.\training_set\plotvoc_hero5043chapter2_part02_60.wav|Vertin|en|This time, I want to hear everyone's wishes.
+.\training_set\plotvoc_hero5043chapter2_part02_61.wav|Vertin|en|This is... a floating staircase going down? Is there another fourth space?
+.\training_set\plotvoc_hero5043chapter2_part02_62.wav|Vertin|en|What do you mean? I... I don't understand.
+.\training_set\plotvoc_hero5043chapter2_part02_63.wav|Vertin|en|We're together now, aren't we? There are more challenges for us to take.
+.\training_set\plotvoc_hero5043chapter2_part02_65.wav|Vertin|en|I didn't have the chance to talk to her alone. But I think, since I can meet you now, maybe...
+.\training_set\plotvoc_hero5043chapter2_part02_67.wav|Vertin|en|Now I will give this blessing to you. I will share my tomorrow with you.
+.\training_set\plotvoc_hero5043chapter2_part02_7.wav|Vertin|en|The so-called peace before the storm is to cover up the transport of supplies.
+.\training_set\plotvoc_hero5043chapter2_part02_70.wav|Vertin|en|the influence scope of the storm syndrome will be further expanded.
+.\training_set\plotvoc_hero5043chapter2_part02_71.wav|Vertin|en|In the following time, symptoms will get worse.
+.\training_set\plotvoc_hero5043chapter2_part02_72.wav|Vertin|en|He used the potions fuel for explosion.
+.\training_set\plotvoc_hero5043chapter2_part02_73.wav|Vertin|en|The underground. Another turn-off.
+.\training_set\plotvoc_hero5043chapter2_part02_74.wav|Vertin|en|And this. Eat. You must have been hungry for so long.
+.\training_set\plotvoc_hero5043chapter2_part02_75.wav|Vertin|en|No. Why? You've never eaten the gold bar in front of us.
+.\training_set\plotvoc_hero5043chapter2_part02_76.wav|Vertin|en|Adior? You mean the storm will also...
+.\training_set\plotvoc_hero5043chapter2_part02_77.wav|Vertin|en|Footsteps. At least five or six people. I should go downstairs quickly.
+.\training_set\plotvoc_hero5043chapter2_part02_78.wav|Vertin|en|He can't be talked into sense. Is he moving just by instinct?
+.\training_set\plotvoc_hero5043chapter2_part02_79.wav|Vertin|en|There are... six hours left.
+.\training_set\plotvoc_hero5043chapter2_part02_8.wav|Vertin|en|Schneider, I'm sorry.
+.\training_set\plotvoc_hero5043chapter2_part02_80.wav|Vertin|en|Forget me not. Sooner or later, you will be destroyed by your own hatred.
+.\training_set\plotvoc_hero5043chapter2_part02_83.wav|Vertin|en|Until we see tomorrow, with our own eyes.
+.\training_set\plotvoc_hero5043chapter2_part02_84.wav|Vertin|en|Enough! Don't live in the past!
+.\training_set\plotvoc_hero5043chapter2_part02_85.wav|Vertin|en|So close. Just avoided another group of guards ... It's a wine room. Schneider is not here. Next ...
+.\training_set\plotvoc_hero5043chapter2_part02_87.wav|Vertin|en|And one day, I will be back and beat you personally.
+.\training_set\plotvoc_hero5043chapter2_part02_89.wav|Vertin|en|You're the last one to tell me your wish.
+.\training_set\plotvoc_hero5043chapter2_part02_9.wav|Vertin|en|Sorry. Take a rest. You can no longer waste your energy like this.
+.\training_set\plotvoc_hero5043chapter2_part02_90.wav|Vertin|en|The enemy is coming. Everybody protect yourselves.
+.\training_set\plotvoc_hero5043chapter2_part02_91.wav|Vertin|en|Thank goodness you're fine. Drink these.
+.\training_set\plotvoc_hero5043chapter2_part02_93.wav|Vertin|en|I can only stun you first. Sorry, Mr Robert.
+.\training_set\plotvoc_hero5043chapter2_part02_95.wav|Vertin|en|No, ten is too late. I must meet Sonetto before that.
+.\training_set\plotvoc_hero5043chapter5_part01_1.wav|Vertin|en|I'm sorry, Miss Radio. I need to borrow you for a second.
+.\training_set\plotvoc_hero5043chapter5_part01_2.wav|Vertin|en|I've informed Madam Z. This will be the first official field mission of our team.
+.\training_set\plotvoc_hero5043chapter5_part01_22.wav|Vertin|en|Regulus, you've been longing for a ship, haven't you?
+.\training_set\plotvoc_hero5043chapter5_part01_24.wav|Vertin|en|Manus Vindictae always has more information on the "Storm" and how to be immune to it. We've been trying our best to keep up with their progress.
+.\training_set\plotvoc_hero5043chapter5_part01_25.wav|Vertin|en|No, the supply box.
+.\training_set\plotvoc_hero5043chapter5_part01_26.wav|Vertin|en|You're not planning on destroying this place now, are you Regulus?
+.\training_set\plotvoc_hero5043chapter5_part01_29.wav|Vertin|en|There might be some clues that are invisible.
+.\training_set\plotvoc_hero5043chapter5_part01_20.wav|Vertin|en|What a familiar name.
+.\training_set\plotvoc_hero5043chapter5_part01_23.wav|Vertin|en|Wait a second, Regulus.
+.\training_set\plotvoc_hero5043chapter5_part01_28.wav|Vertin|en|I have a question for you, Sonetto.
+.\training_set\plotvoc_hero5043chapter5_part01_13.wav|Vertin|en|How do you feel now? I'm sorry about what happened in the rehab center.
+.\training_set\plotvoc_hero5043chapter5_part01_15.wav|Vertin|en|This interrogation won't get us anywhere.
+.\training_set\plotvoc_hero5043chapter1_part01_33.wav|Vertin|en|They won't know.
+.\training_set\plotvoc_hero5043chapter1_part01_35.wav|Vertin|en|I should come back and check again later.
+.\training_set\plotvoc_hero5043chapter5_part01_10.wav|Vertin|en|It has my name on it.
+.\training_set\plotvoc_hero5043chapter5_part01_16.wav|Vertin|en|Thank you, Sonetto.
+.\training_set\plotvoc_hero5043chapter5_part01_17.wav|Vertin|en|As to Regulus' question,
+.\training_set\plotvoc_hero5043chapter5_part01_18.wav|Vertin|en|The current will be flowing backwards every time the Earth is at a felion and perihelion. This is also known as the current reversal.
+.\training_set\plotvoc_hero5043chapter5_part01_7.wav|Vertin|en|I can apply for a ship for you, but it's not guaranteed.
+.\training_set\plotvoc_hero5043chapter1_part01_52.wav|Vertin|en|You are bringing them back to Manus Vindictae?
+.\training_set\plotvoc_hero5043chapter5_part01_60.wav|Vertin|en|I see. I have only one question.
+.\training_set\plotvoc_hero5043chapter5_part01_62.wav|Vertin|en|With these files and the help of Regulus, that should be enough.
+.\training_set\plotvoc_hero5043chapter5_part01_63.wav|Vertin|en|As far as I know, no one is called by that name but me.
+.\training_set\plotvoc_hero5043chapter1_part01_43.wav|Vertin|en|I was not sure.
+.\training_set\plotvoc_hero5043chapter5_part01_64.wav|Vertin|en|Fortunately, now we have another direction.
+.\training_set\plotvoc_hero5043chapter5_part01_65.wav|Vertin|en|Well, she did try her best to pick the music.
+.\training_set\plotvoc_hero5043chapter5_part01_53.wav|Vertin|en|though no one is in the mood. I think this piece is not bad.
+.\training_set\plotvoc_hero5043chapter5_part01_54.wav|Vertin|en|Yes, I understand what you mean. But for now, the evidence can't support our speculation.
+.\training_set\plotvoc_hero5043chapter5_part01_56.wav|Vertin|en|I'll be careful. Thank you, Mesmer.
+.\training_set\plotvoc_hero5043chapter5_part01_66.wav|Vertin|en|Luckily, Ms. Moissan noticed the signs of it at the beginning.
+.\training_set\plotvoc_hero5043chapter5_part01_59.wav|Vertin|en|Then I have no further questions.
+.\training_set\plotvoc_hero5043chapter5_part01_41.wav|Vertin|en|The Apollo star we just heard about means the sun. The Ford Sextant Model T is an arcane device produced in the early 19th century. The Scientific Computing Centre has one of those as a part of their collection.
+.\training_set\plotvoc_hero5043chapter5_part01_45.wav|Vertin|en|Regulus, wait, don't!
+.\training_set\plotvoc_hero5043chapter5_part02_2.wav|Vertin|en|Any Foundation member nearby will provide immediate humanitarian aid.
+.\training_set\plotvoc_hero5043chapter5_part02_20.wav|Vertin|en|Field Mission Evacuation Instructions, Article 21
+.\training_set\plotvoc_hero5043chapter5_part02_22.wav|Vertin|en|Fragments of... Matters.
+.\training_set\plotvoc_hero5043chapter5_part02_24.wav|Vertin|en|Have you seen Sonetto and the others?
+.\training_set\plotvoc_hero5043chapter5_part02_25.wav|Vertin|en|Do you mean this is the right time?
+.\training_set\plotvoc_hero5043chapter5_part02_26.wav|Vertin|en|The travel notes in 1999, Manus Vindictae showing up in Olitiau's base, the storm, or emanation, they must be somehow connected.
+.\training_set\plotvoc_hero5043chapter5_part02_27.wav|Vertin|en|Sorry to interrupt, but I only meant to ask about Urd, the biographer. She had been here on this island and written a travel note called Roaming in Apeiron.
+.\training_set\plotvoc_hero5043chapter5_part02_1.wav|Vertin|en|I apologize, Miss Sophia.
+.\training_set\plotvoc_hero5043chapter5_part02_21.wav|Vertin|en|Do you know the storm?
+.\training_set\plotvoc_hero5043chapter5_part02_28.wav|Vertin|en|Have you seen my companions?
+.\training_set\plotvoc_hero5043chapter5_part02_10.wav|Vertin|en|Let's follow Sophia.
+.\training_set\plotvoc_hero5043chapter5_part02_16.wav|Vertin|en|If you succeed, you shall hear.
+.\training_set\plotvoc_hero5043chapter5_part02_17.wav|Vertin|en|I don't understand.
+.\training_set\plotvoc_hero5043chapter5_part02_18.wav|Vertin|en|To send the code, please turn the knob one time to the right, half to the left, and then one time to the right.
+.\training_set\plotvoc_hero5043chapter1_part02_22.wav|Vertin|en|Leave the rest to me.
+.\training_set\plotvoc_hero5043chapter5_part02_6.wav|Vertin|en|The arcane skills cast by the congregation on this island are very different from those we have seen.
+.\training_set\plotvoc_hero5043chapter5_part02_7.wav|Vertin|en|So it's not determined by our lineage, or Regulus would have been an integer too.
+.\training_set\plotvoc_hero5043chapter5_part02_70.wav|Vertin|en|It's either a kind of arcane skills we're not able to detect...
+.\training_set\plotvoc_hero5043chapter5_part02_71.wav|Vertin|en|Please grant us entry to this island so that we can share them.
+.\training_set\plotvoc_hero5043chapter1_part02_5.wav|Vertin|en|Yes, I heard the sounds of the street.
+.\training_set\plotvoc_hero5043chapter5_part02_60.wav|Vertin|en|Mr Apple is with Regulus. She won't be in danger for now.
+.\training_set\plotvoc_hero5043chapter5_part02_62.wav|Vertin|en|This is not good. They seem dangerous. Regulus, come to my side!
+.\training_set\plotvoc_hero5043chapter5_part02_63.wav|Vertin|en|I'll explain to you later. Trust me. Please, Sonetto.
+.\training_set\plotvoc_hero5043chapter5_part02_64.wav|Vertin|en|Or the moment we stepped onto this island...
+.\training_set\plotvoc_hero5043chapter5_part02_65.wav|Vertin|en|Did a biographer named Urd visit here before, in 1999?
+.\training_set\plotvoc_hero5043chapter5_part02_66.wav|Vertin|en|I'll ask something else instead. What is this place?
+.\training_set\plotvoc_hero5043chapter5_part02_68.wav|Vertin|en|There's no fluctuation of arcane power either. I can't even sense the slightest signs.
+.\training_set\plotvoc_hero5043chapter5_part02_69.wav|Vertin|en|Thank you so much. We are...
+.\training_set\plotvoc_hero5043chapter5_part02_5.wav|Vertin|en|Whenever there is an emergency, the field officer may send an SOS code with their wands through any transmission device with round buttons on it.
+.\training_set\plotvoc_hero5043chapter5_part02_52.wav|Vertin|en|You rebuild my confidence in communicating with people.
+.\training_set\plotvoc_hero5043chapter5_part02_53.wav|Vertin|en|It plans to tear the ship apart from the inside. Everyone watch out!
+.\training_set\plotvoc_hero5043chapter5_part02_54.wav|Vertin|en|You've also been incredibly helpful, Regulus.
+.\training_set\plotvoc_hero5043chapter5_part02_55.wav|Vertin|en|Not good. It's crawling into the cabin.
+.\training_set\plotvoc_hero5043chapter5_part02_58.wav|Vertin|en|No, I'll come with you, Sonetto.
+.\training_set\plotvoc_hero5043chapter5_part02_4.wav|Vertin|en|Sonetto. These people are...
+.\training_set\plotvoc_hero5043chapter5_part02_40.wav|Vertin|en|I can't sense any sign of arcane skill on this stone. The oath is more of a formality than a curse.
+.\training_set\plotvoc_hero5043chapter5_part02_41.wav|Vertin|en|I swear to reveal no secrets.
+.\training_set\plotvoc_hero5043chapter5_part02_42.wav|Vertin|en|This is not good. We need to separate them.
+.\training_set\plotvoc_hero5043chapter5_part02_43.wav|Vertin|en|Maybe another question.
+.\training_set\plotvoc_hero5043chapter5_part02_45.wav|Vertin|en|We are the investigators from St. Pavlov Foundation. We are glad to share the information about the storm, or the emanation.
+.\training_set\plotvoc_hero5043chapter5_part02_46.wav|Vertin|en|The doctrine of the Apeiron is to live in solitude and seek nothing but the truth. In fact, they've never been aggressive towards us.
+.\training_set\plotvoc_hero5043chapter5_part03_12.wav|Vertin|en|Do we have to go through this debate again?
+.\training_set\plotvoc_hero5043chapter5_part03_14.wav|Vertin|en|Sonetto, do not report this to the headquarters before we figure out how the bangle works.
+.\training_set\plotvoc_hero5043chapter5_part03_17.wav|Vertin|en|But the detecting device showed nothing. If we were to find out more, we have to go to the center area.
+.\training_set\plotvoc_hero5043chapter5_part03_18.wav|Vertin|en|That was not your fault, Sonetto. It is now behind us.
+.\training_set\plotvoc_hero5043chapter5_part03_19.wav|Vertin|en|A wooden box in the Olitiau's base has my name on it.
+.\training_set\plotvoc_hero5043chapter5_part03_2.wav|Vertin|en|Shoot, if I could have one more chance.
+.\training_set\plotvoc_hero5043chapter5_part03_21.wav|Vertin|en|Can you fix an IDM, Regulus?
+.\training_set\plotvoc_hero5043chapter5_part03_22.wav|Vertin|en|The peace agreement.
+.\training_set\plotvoc_hero5043chapter5_part03_28.wav|Vertin|en|Wait, these are the records before 2003, you say?
+.\training_set\plotvoc_hero5043chapter5_part03_29.wav|Vertin|en|Haven't you been to a school, Regulus?
+.\training_set\plotvoc_hero5043chapter5_part03_5.wav|Vertin|en|It is easy to prove Sonetto's innocence.
+.\training_set\plotvoc_hero5043chapter5_part03_50.wav|Vertin|en|I see. So that's how it works.
+.\training_set\plotvoc_hero5043chapter5_part03_56.wav|Vertin|en|I need to tell you something more important.
+.\training_set\plotvoc_hero5043chapter5_part03_58.wav|Vertin|en|Relax. I will help you.
+.\training_set\plotvoc_hero5043chapter5_part03_6.wav|Vertin|en|People without a number cannot stand in the Hall of Truth.
+.\training_set\plotvoc_hero5043chapter5_part03_61.wav|Vertin|en|In that case, it's not possible for Sonetto to commit a crime in the Hall of Truth. Because she can't even be in the Hall.
+.\training_set\plotvoc_hero5043chapter5_part03_63.wav|Vertin|en|I attacked Manus followers earlier, as 37 asked me to, but I received no punishment from the bangle.
+.\training_set\plotvoc_hero5043chapter5_part03_64.wav|Vertin|en|She did not commit a sin and did not commit no sin. It's a paradox.
+.\training_set\plotvoc_hero5043chapter5_part03_69.wav|Vertin|en|Why do you keep referring to the storm as the emanation?
+.\training_set\plotvoc_hero5043chapter5_part03_7.wav|Vertin|en|She's doing well, thanks to you.
+.\training_set\plotvoc_hero5043chapter4_part01_12.wav|Vertin|en|Human technologies are being reversed, while Arcanum is blooming.
+.\training_set\plotvoc_hero5043chapter4_part01_13.wav|Vertin|en|I'm fine. Fit as a fiddle.
+.\training_set\plotvoc_hero5043chapter0_part01_33.wav|Vertin|en|The storm will arrive shortly.
+.\training_set\plotvoc_hero5043chapter2_part01_22.wav|Vertin|en|I don't need it.
+.\training_set\plotvoc_hero5043chapter4_part01_16.wav|Vertin|en|Yes. Everything is going to be alright.
+.\training_set\plotvoc_hero5043chapter0_part01_36.wav|Vertin|en|The storm is here.
+.\training_set\plotvoc_hero5043chapter4_part01_17.wav|Vertin|en|The wind feels so good.
+.\training_set\plotvoc_hero5043chapter4_part01_20.wav|Vertin|en|The unexpected first storm brought more than half of the Foundation's elite members away from us. The number of staff of the House of Integratus and the Committee cannot compare with that of their heyday. Even now.
+.\training_set\plotvoc_hero5043chapter4_part01_21.wav|Vertin|en|Thank you. Thank you all.
+.\training_set\plotvoc_hero5043chapter4_part01_23.wav|Vertin|en|Madam Z, I don't want my friends or me to be the sacrifice of this conflict, as we were four years ago.
+.\training_set\plotvoc_hero5043chapter4_part01_27.wav|Vertin|en|That's what I learnt from that stormy night.
+.\training_set\plotvoc_hero5043chapter4_part01_28.wav|Vertin|en|Thank you for being here. Being around me.
+.\training_set\plotvoc_hero5043chapter4_part01_29.wav|Vertin|en|The storm has been here for eight years. None of the people who are left behind can shake off the influence it brought.
+.\training_set\plotvoc_hero5043chapter4_part01_32.wav|Vertin|en|I don't know whose side you are on. But I believe the future you pursue doesn't end up with the Foundation being split apart by factional conflict.
+.\training_set\plotvoc_hero5043chapter4_part01_33.wav|Vertin|en|A neutral, safe and legitimate place for us.
+.\training_set\plotvoc_hero5043chapter4_part01_34.wav|Vertin|en|Beyond their control, these new Arcanists only brought fear. They demand an unchallengeable power to make decisions, and a harsher control of Arcanists.
+.\training_set\plotvoc_hero5043chapter4_part01_41.wav|Vertin|en|The group that believes in mankind's supremacy is splitting the foundation's belief apart.
+.\training_set\plotvoc_hero5043chapter4_part01_42.wav|Vertin|en|But the conflict has been there all the time.
+.\training_set\plotvoc_hero5043chapter4_part01_43.wav|Vertin|en|The conflicts cannot be covered by regulations anymore, Madam Z.
+.\training_set\plotvoc_hero5043chapter4_part01_44.wav|Vertin|en|loud enough to be heard, and have become a faction that couldn't be shaken. The Mankind Caucus.
+.\training_set\plotvoc_hero5043chapter4_part01_45.wav|Vertin|en|Just a bit of a headache. Nothing else.
+.\training_set\plotvoc_hero5043chapter4_part01_46.wav|Vertin|en|No matter what your decision is. Thank you.
+.\training_set\plotvoc_hero5043chapter4_part01_47.wav|Vertin|en|In order to contend against Manus Vindictae, we have kept absorbing arcanists from the outside world ... However, the dissenting voices have only grown louder ...
+.\training_set\plotvoc_hero5043chapter5_part01_11.wav|Vertin|en|And the time in the outside world is...
+.\training_set\plotvoc_hero5043chapter5_part01_12.wav|Vertin|en|Ms. Moissan, welcome to the team. Madam Z said you're an excellent tutor in arcanum.
+.\training_set\plotvoc_hero5043chapter5_part01_14.wav|Vertin|en|The era of 1929 only lasted for two days. The frequent change of time muddles work and responsibilities in the foundation, which in turn caused some chaos within it.
+.\training_set\plotvoc_hero5043chapter5_part01_19.wav|Vertin|en|That'll be the next thing to find out in our investigation, I think.
+.\training_set\plotvoc_hero5043chapter5_part01_21.wav|Vertin|en|The Gorgon Current is mostly created in the Aegean Sea, near the Balkan Peninsula. I remembered an Arcanum magazine in the 1970s, had a detailed article about this, and introduced the circulating current. I read it in the periodical room in SPDM.
+.\training_set\plotvoc_hero5043chapter1_part01_39.wav|Vertin|en|Her voice doesn't sound right.
+.\training_set\plotvoc_hero5043chapter5_part01_3.wav|Vertin|en|Ms. Moissan, watch your six! Let us help you!
+.\training_set\plotvoc_hero5043chapter5_part01_32.wav|Vertin|en|Does that mean it'll be possible for the Scientific Computing Centre to develop protective gears which are immune to the storm? Like the Manus does.
+.\training_set\plotvoc_hero5043chapter1_part01_12.wav|Vertin|en|How's it going?
+.\training_set\plotvoc_hero5043chapter5_part01_34.wav|Vertin|en|I see. Do you mind us investigating this place? It won't be long.
+.\training_set\plotvoc_hero5043chapter5_part01_36.wav|Vertin|en|Laplace didn't detect any unusual arcane marks on her.
+.\training_set\plotvoc_hero5043chapter5_part01_37.wav|Vertin|en|Is there anyone else we can reach out to for rescue?
+.\training_set\plotvoc_hero5043chapter5_part01_39.wav|Vertin|en|What if I tell you that I've got you one?
+.\training_set\plotvoc_hero5043chapter5_part01_4.wav|Vertin|en|What's your plan? Will you come with me?
+.\training_set\plotvoc_hero5043chapter5_part01_40.wav|Vertin|en|Hmm, prepare the teleport soft disk.
+.\training_set\plotvoc_hero5043chapter5_part01_42.wav|Vertin|en|January the Fast 1914
+.\training_set\plotvoc_hero5043chapter5_part01_43.wav|Vertin|en|That base the Manus used to keep its Olitiaus four years ago. It has never been reversed by the "Storm."
+.\training_set\plotvoc_hero5043chapter5_part01_44.wav|Vertin|en|It's not working. I've tried different ways, but the tempest blocked every signal I sent for help.
+.\training_set\plotvoc_hero5043chapter5_part01_46.wav|Vertin|en|The Manus mask they used to stay immune to the "Storm"?!
+.\training_set\plotvoc_hero5043chapter5_part01_47.wav|Vertin|en|End of the 20th century. Voice of the Millennium.
+.\training_set\plotvoc_hero5043chapter5_part01_48.wav|Vertin|en|It used to be the nest of Olitiaus, a kind of creature resting in valleys with abundant water resources.
+.\training_set\plotvoc_hero5043chapter5_part01_49.wav|Vertin|en|According to Madam Z, Ms. Moissan used to be Sotheby's private teacher.
+.\training_set\plotvoc_hero5043chapter5_part01_51.wav|Vertin|en|In the field mission evacuation instructions, apart from the part about asking the timekeeper for help,
+.\training_set\plotvoc_hero5043chapter5_part01_52.wav|Vertin|en|Is this radio broadcasting news in 1999?
+.\training_set\plotvoc_hero5043chapter5_part01_57.wav|Vertin|en|While Ms. Moissan will stay put in the Foundation's headquarters as our contact.
+.\training_set\plotvoc_hero5043chapter1_part01_6.wav|Vertin|en|I should go and take a look.
+.\training_set\plotvoc_hero5043chapter1_part01_66.wav|Vertin|en|Answer my question.
+.\training_set\plotvoc_hero5043chapter5_part01_6.wav|Vertin|en|What's more, it's winter now.
+.\training_set\plotvoc_hero5043chapter5_part01_67.wav|Vertin|en|Are you still our point of contact for the Foundation, Madam Z?
+.\training_set\plotvoc_hero5043chapter5_part01_68.wav|Vertin|en|which is on the third day of January in July this year.
+.\training_set\plotvoc_hero5043chapter5_part01_69.wav|Vertin|en|Sotheby and Druvis are still on leave. They will not take part in this action.
+.\training_set\plotvoc_hero5043chapter5_part01_8.wav|Vertin|en|Regulus is a specialist in optical arcane skills. Maybe she can find something.
+.\training_set\plotvoc_hero5043chapter5_part01_9.wav|Vertin|en|A field trip may be helpful, I guess.
+.\training_set\plotvoc_hero5043chapter5_part02_15.wav|Vertin|en|So that's what their judgment is based on.
+.\training_set\plotvoc_hero5043chapter5_part02_23.wav|Vertin|en|I choose to leave the fragments of matters behind me and enter the Great Hall of Forms as clean as a newborn.
+.\training_set\plotvoc_hero5043chapter5_part02_29.wav|Vertin|en|But won't you be in trouble for helping us?
+.\training_set\plotvoc_hero5043chapter5_part02_3.wav|Vertin|en|This place wouldn't be affected by the "Storm," just like the Olitiau base, Foundation headquarters, and my suitcase.
+.\training_set\plotvoc_hero5043chapter5_part02_30.wav|Vertin|en|You're saying we're in 2007?
+.\training_set\plotvoc_hero5043chapter1_part02_10.wav|Vertin|en|Can you find her position?
+.\training_set\plotvoc_hero5043chapter5_part02_31.wav|Vertin|en|But they use modern mathematical terms, and that girl talked about Kaprekar—he was an Indian mathematician active in the first half of the 20th century.
+.\training_set\plotvoc_hero5043chapter5_part02_32.wav|Vertin|en|I wish to be baptized in the water of Gnosis and be rid of the long darkness of ignorance.
+.\training_set\plotvoc_hero5043chapter5_part02_33.wav|Vertin|en|Are you talking about my pocket watch?
+.\training_set\plotvoc_hero5043chapter5_part02_34.wav|Vertin|en|Yet we haven't spotted any traces of the Manus here.
+.\training_set\plotvoc_hero5043chapter7_part02_8~plotvoc_chap7_hero5043_12736.wav.wav|Vertin|en|No. None of this makes any sense.
+.\training_set\plotvoc_hero5043chapter7_part03_10~plotvoc_chap7_hero5043_14184.wav.wav|Vertin|en|No, we are not aware of that. 37 and I had just entered the cave when the investigator sent back the ritual.
+.\training_set\plotvoc_hero5043chapter7_part03_11~plotvoc_chap7_hero5043_14189.wav.wav|Vertin|en|If possible. Could you kindly explain this to them again after we set up the communication device?
+.\training_set\plotvoc_hero5043chapter7_part03_12~plotvoc_chap7_hero5043_13788.wav.wav|Vertin|en|Take six to safety 37. I'm the one they are after.
+.\training_set\plotvoc_hero5043chapter7_part03_13~plotvoc_chap7_hero5043_13934.wav.wav|Vertin|en|We have fifteen more hours until the storm.
+.\training_set\plotvoc_hero5043chapter7_part03_14~plotvoc_chap7_hero5043_13632.wav.wav|Vertin|en|That strange dream. It lasted longer than I thought.
+.\training_set\plotvoc_hero5043chapter7_part03_15~plotvoc_chap7_hero5043_13669.wav.wav|Vertin|en|Is that the circle you kept talking about? Was it broken during the ceremony?
+.\training_set\plotvoc_hero5043chapter7_part03_17~plotvoc_chap7_hero5043_13751.wav.wav|Vertin|en|The irrational numbers that your people rarely appreciate, are they faced with a different path? A path of passion and madness?
+.\training_set\plotvoc_hero5043chapter7_part03_18~plotvoc_chap7_hero5043_13962.wav.wav|Vertin|en|I can't fathom your motives.
+.\training_set\plotvoc_hero5043chapter5_part02_35.wav|Vertin|en|But as long as we obey their rules, we won't get into other trouble.
+.\training_set\plotvoc_hero5043chapter7_part01_42~plotvoc_chap7_hero5043_11687.wav.wav|Vertin|en|Six has gathered all integers after the assembly. They are going to perform a mass cleansing ceremony.
+.\training_set\plotvoc_hero5043chapter7_part01_43~plotvoc_chap7_hero5043_11473.wav.wav|Vertin|en|More precisely, its 24-hour countdown has begun.
+.\training_set\plotvoc_hero5043chapter7_part01_45~plotvoc_chap7_hero5043_11547.wav.wav|Vertin|en|888, stop conversing with him.
+.\training_set\plotvoc_hero5043chapter7_part01_46~plotvoc_chap7_hero5043_11684.wav.wav|Vertin|en|Sonetto and I talked about this. We think the island is protected by a large-scale arcane ritual
+.\training_set\plotvoc_hero5043chapter7_part01_47~plotvoc_chap7_hero5043_11713.wav.wav|Vertin|en|We are discussing how to leave this place 37.
+.\training_set\plotvoc_hero5043chapter7_part01_49~plotvoc_chap7_hero5043_11395.wav.wav|Vertin|en|I swear on the stone of truth that I have no knowledge of the leak.
+.\training_set\plotvoc_hero5043chapter7_part01_4~plotvoc_chap7_hero5043_11688.wav.wav|Vertin|en|37 also mentioned a test. I think they have more than one way to deal with the changes.
+.\training_set\plotvoc_hero5043chapter7_part01_50~plotvoc_chap7_hero5043_11695.wav.wav|Vertin|en|Yes. Six gave us two hours to leave. That is to say...
+.\training_set\plotvoc_hero5043chapter7_part01_53~plotvoc_chap7_hero5043_11619.wav.wav|Vertin|en|He purged the Storm Syndrome with an arcane skill.
+.\training_set\plotvoc_hero5043chapter7_part01_5~plotvoc_chap7_hero5043_11790.wav.wav|Vertin|en|Before we go, 37, I have a question.
+.\training_set\plotvoc_hero5043chapter7_part01_6~plotvoc_chap7_hero5043_11775.wav.wav|Vertin|en|It's okay, Regulus. I think I'll be safe there.
+.\training_set\plotvoc_hero5043chapter7_part01_7~plotvoc_chap7_hero5043_11475.wav.wav|Vertin|en|With the help of Laplace Scientific Computing Centre, the best we can do now is to send a 24-hour warning prior to the storm.
+.\training_set\plotvoc_hero5043chapter7_part01_9~plotvoc_chap7_hero5043_11701.wav.wav|Vertin|en|It would scald me whenever I thought about going to war with them.
+.\training_set\plotvoc_hero5043chapter7_part02_10~plotvoc_chap7_hero5043_12773.wav.wav|Vertin|en|37? Is that you?
+.\training_set\plotvoc_hero5043chapter7_part02_16~plotvoc_chap7_hero5043_12768.wav.wav|Vertin|en|I have to get out of here.
+.\training_set\plotvoc_hero5043chapter7_part02_25~plotvoc_chap7_hero5043_12765.wav.wav|Vertin|en|Something's not right. None of this is right.
+.\training_set\plotvoc_hero5043chapter7_part02_41~plotvoc_chap7_hero5043_12766.wav.wav|Vertin|en|Something's happened on the island. I must still be in the cave!
+.\training_set\plotvoc_hero5043chapter7_part02_43~plotvoc_chap7_hero5043_12706.wav.wav|Vertin|en|Wait, Regulus, you just kicked over something.
+.\training_set\plotvoc_hero5043chapter7_part02_46~plotvoc_chap7_hero5043_12759.wav.wav|Vertin|en|A... white rooster?
+.\training_set\plotvoc_hero5043chapter7_part02_48~plotvoc_chap7_hero5043_12692.wav.wav|Vertin|en|Did the earthquake do this?
+.\training_set\plotvoc_hero5043chapter5_part02_36.wav|Vertin|en|Which means we need to find out the truth.
+.\training_set\plotvoc_hero5043chapter5_part02_38.wav|Vertin|en|I... I don't understand.
+.\training_set\plotvoc_hero5043chapter5_part02_39.wav|Vertin|en|But when Sophia repaired the floor in front of us with her arcane skill...
+.\training_set\plotvoc_hero5043chapter5_part02_44.wav|Vertin|en|We were under attack by a giant sea monster when sailing in the Gorgon Current. Please help us ashore safely.
+.\training_set\plotvoc_hero5043chapter5_part02_49.wav|Vertin|en|No problem. Miss Sophia, could you give us some privacy?
+.\training_set\plotvoc_hero5043chapter5_part02_56.wav|Vertin|en|I think they are not living in complete isolation. They are still in contact with the outside world.
+.\training_set\plotvoc_hero5043chapter5_part02_57.wav|Vertin|en|This is an archaic arcanist group we're dealing with. I assume they have their own reason for these.
+.\training_set\plotvoc_hero5043chapter5_part04_55.wav|Vertin|en|But this one refers to the storm in 1966, which happened recently.
+.\training_set\plotvoc_hero5043chapter5_part04_62.wav|Vertin|en|37. Where is your mother now?
+.\training_set\plotvoc_hero5043chapter5_part04_63.wav|Vertin|en|I think I know why your model didn't work.
+.\training_set\plotvoc_hero5043chapter5_part04_7.wav|Vertin|en|You've never been to the place where the storm falls, and thus know nothing about the symptoms of the storm syndrome.
+.\training_set\plotvoc_hero5043chapter5_part04_71.wav|Vertin|en|210 told me numbers imply our fate.
+.\training_set\plotvoc_hero5043chapter5_part04_72.wav|Vertin|en|What about your number? What does 37 mean?
+.\training_set\plotvoc_hero5043chapter6_11.wav|Vertin|en|The Foundation is negotiating with the outside world. They're trying to resolve this unfounded territorial dispute peacefully.
+.\training_set\plotvoc_hero5043chapter6_12.wav|Vertin|en|Things have just got better. And we can't let anything else upset this delicate balance.
+.\training_set\plotvoc_hero5043chapter6_13.wav|Vertin|en|If we somehow can't come to an agreement with the Apeiron, we should at least prevent them from allying with the Manus in turn.
+.\training_set\plotvoc_hero5043chapter6_2.wav|Vertin|en|Thank you for your mediation within the committee. I think you're right.
+.\training_set\plotvoc_hero5043chapter6_4.wav|Vertin|en|Sending more people to the island will only exacerbate the trust issue. They don't trust us, and that's what Arcana wants.
+.\training_set\plotvoc_hero5043chapter6_5.wav|Vertin|en|Could you convey our sincere intentions?
+.\training_set\plotvoc_hero5043chapter6_6.wav|Vertin|en|We've yet to reveal the coordinates of the island, and don't want to exacerbate the conflict.
+.\training_set\plotvoc_hero5043chapter6_7.wav|Vertin|en|Don't you want to ask me what I'm writing letters for?
+.\training_set\plotvoc_hero5043chapter7_part01_11~plotvoc_chap7_hero5043_11681.wav.wav|Vertin|en|The immunity hasn't disappeared. It's just waning. For now, only the beach has lost the effect. We're still safe around the Hall of Apeiron.
+.\training_set\plotvoc_hero5043chapter7_part01_12~plotvoc_chap7_hero5043_11552.wav.wav|Vertin|en|Please, listen everyone. 37 is right. Something's changed on this island. Your immunity to the emanation has been weakened.
+.\training_set\plotvoc_hero5043chapter7_part01_15~plotvoc_chap7_hero5043_11796.wav.wav|Vertin|en|if I asked for a way to become immune to the storm.
+.\training_set\plotvoc_hero5043chapter7_part01_16~plotvoc_chap7_hero5043_11685.wav.wav|Vertin|en|the sudden decay of the island's storm immunity might be the result of its changes, though I'm unsure of the specifics.
+.\training_set\plotvoc_hero5043chapter7_part01_17~plotvoc_chap7_hero5043_11794.wav.wav|Vertin|en|You just said that Apeiron will grant an answer to whoever passes the test.
+.\training_set\plotvoc_hero5043chapter7_part01_1~plotvoc_chap7_hero5043_11789.wav.wav|Vertin|en|Thank you both. I'm ready.
+.\training_set\plotvoc_hero5043chapter7_part01_21~plotvoc_chap7_hero5043_11474.wav.wav|Vertin|en|There's always a buffer period before the storm, during which the storm syndrome gradually spreads from the critical point across the globe. The symptoms are different every time, and we have yet to discern a pattern.
+.\training_set\plotvoc_hero5043chapter7_part01_23~plotvoc_chap7_hero5043_11620.wav.wav|Vertin|en|I never thought it would be possible.
+.\training_set\plotvoc_hero5043chapter7_part01_24~plotvoc_chap7_hero5043_11542.wav.wav|Vertin|en|Is that... The Storm Syndrome?
+.\training_set\plotvoc_hero5043chapter7_part01_25~plotvoc_chap7_hero5043_11722.wav.wav|Vertin|en|Me? Where are we going?
+.\training_set\plotvoc_hero5043chapter7_part01_2~plotvoc_chap7_hero5043_11562.wav.wav|Vertin|en|No, 37 didn't cause this. I told you, it was Manus Vindictae.
+.\training_set\plotvoc_hero5043chapter7_part01_32~plotvoc_chap7_hero5043_11776.wav.wav|Vertin|en|But 37, isn't this a sacred test to your people? I've never taken the oath. I'm not one of you.
+.\training_set\plotvoc_hero5043chapter7_part01_34~plotvoc_chap7_hero5043_11396.wav.wav|Vertin|en|We never gave any information to the humans. As we speak, the St. Pavlov Foundation is taking measures to mediate the territorial disputes from outside the island.
+.\training_set\plotvoc_hero5043chapter7_part01_37~plotvoc_chap7_hero5043_11699.wav.wav|Vertin|en|Yes, I can feel it.
+.\training_set\plotvoc_hero5043chapter7_part01_38~plotvoc_chap7_hero5043_11697.wav.wav|Vertin|en|We must set out when the storm countdown reaches 20 hundred.
+.\training_set\plotvoc_hero5043chapter7_part01_39~plotvoc_chap7_hero5043_11563.wav.wav|Vertin|en|They broke the peace agreement and launched suicide attacks. They forced their way into the cave...
+.\training_set\plotvoc_hero5043chapter7_part01_40~plotvoc_chap7_hero5043_11548.wav.wav|Vertin|en|We must subdue him. Now.
+.\training_set\plotvoc_hero5043chapter7_part01_41~plotvoc_chap7_hero5043_11469.wav.wav|Vertin|en|The storm of this era is here.
+.\training_set\plotvoc_hero5043chapter5_part02_61.wav|Vertin|en|Real numbers refer to arcanists, and imaginary numbers mean humans.
+.\training_set\plotvoc_hero5043chapter5_part02_72.wav|Vertin|en|What if we know about the emanation?
+.\training_set\plotvoc_hero5043chapter5_part02_9.wav|Vertin|en|And we'll find our answer here, I think.
+.\training_set\plotvoc_hero5043chapter5_part03_11.wav|Vertin|en|I've signed a peace agreement with Arcana, and the price of breaking it is... Death.
+.\training_set\plotvoc_hero5043chapter5_part03_25.wav|Vertin|en|Since Sonetto has no number, and a person without a number does not exist before the truth,
+.\training_set\plotvoc_hero5043chapter5_part03_26.wav|Vertin|en|Every record here can perfectly match what is in the Foundation's files.
+.\training_set\plotvoc_hero5043chapter5_part03_3.wav|Vertin|en|We are coming closer to a big secret.
+.\training_set\plotvoc_hero5043chapter5_part03_30.wav|Vertin|en|I hereby demand to modify the criminal sentence that has been given to Sonetto.
+.\training_set\plotvoc_hero5043chapter5_part03_32.wav|Vertin|en|I tried to collect some samples last night in the outer region of the island.
+.\training_set\plotvoc_hero5043chapter5_part03_33.wav|Vertin|en|According to the law of the excluded middle, Sonetto either committed a sin or committed no sin. The two statements cannot be both false at the same time.
+.\training_set\plotvoc_hero5043chapter5_part03_34.wav|Vertin|en|After all, there are many other things to investigate on this island other than Manus Vindictae.
+.\training_set\plotvoc_hero5043chapter5_part03_36.wav|Vertin|en|That means she doesn't belong to the criminal set or the non-criminal set.
+.\training_set\plotvoc_hero5043chapter5_part03_37.wav|Vertin|en|but I don't think her purpose would be as simple as hearkening the ancient wisdom.
+.\training_set\plotvoc_hero5043chapter5_part03_38.wav|Vertin|en|I'd like to start by quoting 42's first argument.
+.\training_set\plotvoc_hero5043chapter5_part03_43.wav|Vertin|en|Lilya? Didn't you say you have Regulus with you safely?
+.\training_set\plotvoc_hero5043chapter5_part03_45.wav|Vertin|en|But Schneider should be the victim of a merciless bullet?
+.\training_set\plotvoc_hero5043chapter5_part03_48.wav|Vertin|en|I heard that you completed all the lessons on the scripture.
+.\training_set\plotvoc_hero5043chapter5_part03_49.wav|Vertin|en|Sonetto thus, didn't offend your truth.
+.\training_set\plotvoc_hero5043chapter5_part03_52.wav|Vertin|en|Yes. She put it on without hesitation.
+.\training_set\plotvoc_hero5043chapter5_part03_53.wav|Vertin|en|What's Manus Vindictae's purpose to be here?
+.\training_set\plotvoc_hero5043chapter5_part03_57.wav|Vertin|en|Since we consider a criminal as a negative number and a non-criminal as a positive number, Sonetto at present is considered an unknown number.
+.\training_set\plotvoc_hero5043chapter5_part03_70.wav|Vertin|en|Perhaps this island makes its own judgement on what to be classified as hostility. Like it has a mind of its own.
+.\training_set\plotvoc_hero5043chapter5_part03_9.wav|Vertin|en|I've heard your preachment—pretty demagogic.
+.\training_set\plotvoc_hero5043chapter5_part04_1.wav|Vertin|en|Your model was not wrong. You just missed some key information.
+.\training_set\plotvoc_hero5043chapter5_part04_13.wav|Vertin|en|You made such precise prediction even without leaving the island. That's incredible.
+.\training_set\plotvoc_hero5043chapter5_part04_14.wav|Vertin|en|This is indeed an extreme comment.
+.\training_set\plotvoc_hero5043chapter5_part04_2.wav|Vertin|en|No, it's not junk.
+.\training_set\plotvoc_hero5043chapter5_part04_20.wav|Vertin|en|The form, you said. 37? What is it?
+.\training_set\plotvoc_hero5043chapter5_part04_21.wav|Vertin|en|The cave is the key to be immune to the storm.
+.\training_set\plotvoc_hero5043chapter5_part04_36.wav|Vertin|en|I'm telling the truth, 37. I've been there, in the storm of 1929.
+.\training_set\plotvoc_hero5043chapter5_part04_4.wav|Vertin|en|37. We see the storm very differently.
+.\training_set\plotvoc_hero5043chapter5_part04_41.wav|Vertin|en|They accelerated history, forcing historical events to happen earlier than they were supposed to. Thus, the storm in 1929 occurred sooner than it should.
+.\training_set\plotvoc_hero5043chapter5_part04_42.wav|Vertin|en|Manus Vindictae has changed history.
+.\training_set\plotvoc_hero5043chapter5_part04_43.wav|Vertin|en|and the true purposes of Manus Vindictae.
+.\training_set\plotvoc_hero5043chapter5_part04_48.wav|Vertin|en|There is a cave on this island which has the same effect as my suitcase. That's what the Manus are after!
+.\training_set\plotvoc_hero5043chapter5_part04_50.wav|Vertin|en|Among all the other things, we saw it first of all as a disaster.
+.\training_set\plotvoc_hero5043chapter5_part04_51.wav|Vertin|en|Why did you say my number is zero?
+.\training_set\plotvoc_hero5043chapter7_part03_23~plotvoc_chap7_hero5043_13931.wav.wav|Vertin|en|We still have a chance to stop her before it's truly too late.
+.\training_set\plotvoc_hero5043chapter7_part03_26~plotvoc_chap7_hero5043_14186.wav.wav|Vertin|en|I see. Thank you for the thorough explanation, Madam Lucy. I'll make sure to inform the members of Apeiron.
+.\training_set\plotvoc_hero5043chapter7_part03_28~plotvoc_chap7_hero5043_13959.wav.wav|Vertin|en|I noticed the human aircrafts were loaded with weapons, not from this era.
+.\training_set\plotvoc_hero5043chapter7_part03_29~plotvoc_chap7_hero5043_13668.wav.wav|Vertin|en|Upon our arrival, I sensed a large-scale ritual surrounding the island.
+.\training_set\plotvoc_hero5043chapter7_part03_2~plotvoc_chap7_hero5043_14032.wav.wav|Vertin|en|to teleport a top priority threat to the Parmenides Base!
+.\training_set\plotvoc_hero5043chapter7_part03_31~plotvoc_chap7_hero5043_13930.wav.wav|Vertin|en|Lilia has verified Arcana's location. She is still on this island.
+.\training_set\plotvoc_hero5043chapter7_part03_33~plotvoc_chap7_hero5043_13958.wav.wav|Vertin|en|The fragility and impermanence of sand is precisely why people strive for something eternal. Believing in perfection is not a flaw.
+.\training_set\plotvoc_hero5043chapter7_part03_34~plotvoc_chap7_hero5043_13787.wav.wav|Vertin|en|The mask has robbed them of reason. There's no point in talking further.
+.\training_set\plotvoc_hero5043chapter7_part03_37~plotvoc_chap7_hero5043_13925.wav.wav|Vertin|en|The truth has not abandoned you, 37.
+.\training_set\plotvoc_hero5043chapter7_part03_38~plotvoc_chap7_hero5043_13926.wav.wav|Vertin|en|You haven't used the key yet, have you? It is still coded.
+.\training_set\plotvoc_hero5043chapter7_part03_39~plotvoc_chap7_hero5043_13965.wav.wav|Vertin|en|But you did nothing. You just stood there. Why?
+.\training_set\activityvoc_hero5043lvhu1_2_part01_35.wav|Vertin|en|Do you feel better now?
+.\training_set\activityvoc_hero5043lvhu1_2_part01_39.wav|Vertin|en|Over here, I found her.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_46.wav|Vertin|en|I am kind of attracted indeed.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_50.wav|Vertin|en|What on purpose?
+.\training_set\activityvoc_hero5043lvhu1_2_part01_57.wav|Vertin|en|Didn't you worry that I might throw it away?
+.\training_set\activityvoc_hero5043lvhu1_2_part02_16.wav|Vertin|en|I get it. Let's go back.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_21.wav|Vertin|en|Thank you for your update.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_23.wav|Vertin|en|My life is good enough without them.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_33.wav|Vertin|en|Let's follow it.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_34.wav|Vertin|en|Do you want to come with me?
+.\training_set\activityvoc_hero5043lvhu1_2_part02_41.wav|Vertin|en|So what do you mean?
+.\training_set\activityvoc_hero5043lvhu1_2_part02_43.wav|Vertin|en|I see you.
+.\training_set\activityvoc_hero5043lvhu1_2_part02_45.wav|Vertin|en|If I say I could stay.
+.\training_set\hero5043_activitystory_lvhu_5.wav|Vertin|en|I look forward to it.
+.\training_set\hero5043_level_gudu1_9_18.wav|Vertin|en|But right now, that's not our goal.
+.\training_set\hero5043_level_gudu1_9_21.wav|Vertin|en|What on earth is she trying to do?
+.\training_set\hero5043_level_gudu1_9_22.wav|Vertin|en|My surroundings changed.
+.\training_set\hero5043_level_gudu1_9_23.wav|Vertin|en|The way out, perhaps?
+.\training_set\hero5043_level_gudu1_9_6.wav|Vertin|en|No time to think.
+.\training_set\hero5043_level_qiutu1_4_15.wav|Vertin|en|Is this some kind of ritual?
+.\training_set\hero5043_level_qiutu1_4_17.wav|Vertin|en|Things are not as simple as I thought.
+.\training_set\hero5043_level_qiutu1_4_9.wav|Vertin|en|The conditions are not clear.
+.\training_set\hero5043_skill_17.wav|Vertin|en|Is this some kind of ritual?
+.\training_set\hero5043_skill_19.wav|Vertin|en|Things are not as simple as I thought.
+.\training_set\hero5043_skill_9.wav|Vertin|en|The conditions are not clear.
+.\training_set\plotvoc_hero5043chapter0_part01_10.wav|Vertin|en|You are a careful reader.
+.\training_set\plotvoc_hero5043chapter0_part01_15.wav|Vertin|en|Meet me at the bookstore on Oxford Street.
+.\training_set\plotvoc_hero5043chapter4_part01_35.wav|Vertin|en|And it only grows.
+.\training_set\plotvoc_hero5043chapter4_part01_37.wav|Vertin|en|May I ask what good news?
+.\training_set\plotvoc_hero5043chapter7_part03_41~plotvoc_chap7_hero5043_13560.wav.wav|Vertin|en|37. Things don't seem right out there.
+.\training_set\plotvoc_hero5043chapter7_part03_42~plotvoc_chap7_hero5043_14150.wav.wav|Vertin|en|May I share the truth with the others, 37.
+.\training_set\plotvoc_hero5043chapter7_part03_43~plotvoc_chap7_hero5043_13631.wav.wav|Vertin|en|Has it been six hours since we entered the cave?
+.\training_set\plotvoc_hero5043chapter7_part03_44~plotvoc_chap7_hero5043_14031.wav.wav|Vertin|en|Requesting to use the advanced arcane skill "Aferoj Around," number 000262603100008.
+.\training_set\plotvoc_hero5043chapter7_part03_45~plotvoc_chap7_hero5043_14144.wav.wav|Vertin|en|I have someone in mind that can help us decode faster.
+.\training_set\plotvoc_hero5043chapter7_part03_46~plotvoc_chap7_hero5043_13790.wav.wav|Vertin|en|I will meet with Sonetto at the square. Ms. Radio is with them, and we will contact our people from there.
+.\training_set\plotvoc_hero5043chapter7_part03_47~plotvoc_chap7_hero5043_14147.wav.wav|Vertin|en|But I need your approval before I ask them for help.
+.\training_set\plotvoc_hero5043chapter7_part03_48~plotvoc_chap7_hero5043_13662.wav.wav|Vertin|en|37 and I each had a bizarre dream after the earthquake. Did everyone on the island fall asleep too?
+.\training_set\plotvoc_hero5043chapter7_part03_4~plotvoc_chap7_hero5043_13963.wav.wav|Vertin|en|If you came here to incite hatred and recruit the pure-blood arcanists on this island, you may now walk away with satisfaction.
+.\training_set\plotvoc_hero5043chapter7_part03_50~plotvoc_chap7_hero5043_13960.wav.wav|Vertin|en|Did Manus Vindictae provide them with the technology?
+.\training_set\plotvoc_hero5043chapter7_part03_51~plotvoc_chap7_hero5043_13661.wav.wav|Vertin|en|May I know what happened during the cleansing ceremony?
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_39.wav|Vertin|en|We need to separate them first.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_4.wav|Vertin|en|You want to check them up?
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_41.wav|Vertin|en|I don't doubt it.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_42.wav|Vertin|en|We arrived in Australia not long ago.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_5.wav|Vertin|en|We have to stop him.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_52.wav|Vertin|en|Wait, calm down.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_9.wav|Vertin|en|I tried to warn you.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_10.wav|Vertin|en|We have to put her out for now.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_2.wav|Vertin|en|Ezra is indeed a he.
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_37.wav|Vertin|en|Like what you mentioned last night?
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_50.wav|Vertin|en|Anyone care to have some fresh air?
+.\training_set\activityvoc_hero5043_1_5_wulu_part02_8.wav|Vertin|en|She's not even awake.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_10.wav|Vertin|en|Let's move, friends.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_11.wav|Vertin|en|Ulu, are you alright?
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_12.wav|Vertin|en|He's a hat.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_27.wav|Vertin|en|Yes, a lot.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_29.wav|Vertin|en|Hi, it's Vertin.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_3.wav|Vertin|en|He's your enemy?
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_31.wav|Vertin|en|It's a nice map.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_36.wav|Vertin|en|as well as a helping hand.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_38.wav|Vertin|en|We've got a helping hand.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_44.wav|Vertin|en|You know him well.
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_48.wav|Vertin|en|Miss Desert Flannel?
+.\training_set\activityvoc_hero5043_1_5_wulu_part03_8.wav|Vertin|en|Not in the room, I knew it.
+.\training_set\activityvoc_hero5043_1_6_shuori_14.wav|Vertin|en|What's going on?
+.\training_set\activityvoc_hero5043_1_6_shuori_16.wav|Vertin|en|Sephora's and sheep?
+.\training_set\activityvoc_hero5043_1_6_shuori_8.wav|Vertin|en|I don't remember that.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_1.wav|Vertin|en|Was it normal rain?
+.\training_set\activityvoc_hero5043lvhu1_2_part01_17.wav|Vertin|en|Is it yours, Blonney?
+.\training_set\activityvoc_hero5043lvhu1_2_part01_19.wav|Vertin|en|Protect the victims. Get ready to fight.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_22.wav|Vertin|en|Thank you for your approval.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_25.wav|Vertin|en|Good, now it's time.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_28.wav|Vertin|en|I don't see how these are correlated.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_30.wav|Vertin|en|Michael's car headed south.
+.\training_set\activityvoc_hero5043lvhu1_2_part01_31.wav|Vertin|en|We need to go outside to find him.
+.\training_set\hero5043_level_gudu1_9_3.wav|Vertin|en|I need to get rid of them first.
+.\training_set\plotvoc_hero5043chapter7_part03_5~plotvoc_chap7_hero5043_13791.wav.wav|Vertin|en|Don't worry, we had a plan against the Manus, and we can still carry it out.
+.\training_set\plotvoc_hero5043chapter7_part03_6~plotvoc_chap7_hero5043_13964.wav.wav|Vertin|en|If you wanted to take the island as one of your bases, you could have done so after the cleansing ceremony failed.
+.\training_set\plotvoc_hero5043chapter7_part03_7~plotvoc_chap7_hero5043_13627.wav.wav|Vertin|en|No, 37. None of this was your fault. Hysteria has come to this island, and people are caught up in it.
+.\training_set\plotvoc_hero5043chapter7_part03_8~plotvoc_chap7_hero5043_13628.wav.wav|Vertin|en|It is the Storm Syndrome, taking the form of war.
+.\training_set\plotvoc_hero5043chapter7_part04_10~plotvoc_chap7_hero5043_14462.wav.wav|Vertin|en|No. It's just...
+.\training_set\plotvoc_hero5043chapter7_part04_11~plotvoc_chap7_hero5043_15117.wav.wav|Vertin|en|Yes, it went smoothly. I was expecting something more complicated. So, to get the umbrella, you only need to fill out forms.
+.\training_set\plotvoc_hero5043chapter7_part04_12~plotvoc_chap7_hero5043_14502.wav.wav|Vertin|en|then the essence of this numerical code should also be a circle, right?
+.\training_set\plotvoc_hero5043chapter7_part04_14~plotvoc_chap7_hero5043_15142.wav.wav|Vertin|en|I'm glad to see you back on your feet, Miss Druvis.
+.\training_set\plotvoc_hero5043chapter7_part04_15~plotvoc_chap7_hero5043_14997.wav.wav|Vertin|en|So now you're choosing to be wise and look on.
+.\training_set\plotvoc_hero5043chapter7_part04_17~plotvoc_chap7_hero5043_15066.wav.wav|Vertin|en|Yes. I still remember what 37 said at the time.
+.\training_set\plotvoc_hero5043chapter7_part04_18~plotvoc_chap7_hero5043_15067.wav.wav|Vertin|en|She would rather name it after the mathematical properties of the knot, even if it's too much of a mouthful.
+.\training_set\plotvoc_hero5043chapter7_part04_1~plotvoc_chap7_hero5043_14575.wav.wav|Vertin|en|Great, now there is only one step left. The verification.
+.\training_set\plotvoc_hero5043chapter7_part04_20~plotvoc_chap7_hero5043_14471.wav.wav|Vertin|en|It means the first circle.
+.\training_set\plotvoc_hero5043chapter7_part04_22~plotvoc_chap7_hero5043_15169.wav.wav|Vertin|en|Now we have two new ships.
+.\training_set\plotvoc_hero5043chapter7_part04_23~plotvoc_chap7_hero5043_14590.wav.wav|Vertin|en|Madam Lucy, can you hear us?
+.\training_set\plotvoc_hero5043chapter7_part04_24~plotvoc_chap7_hero5043_14513.wav.wav|Vertin|en|If the experiment works, then the hypothesis is true, and vice versa.
+.\training_set\plotvoc_hero5043chapter7_part04_25~plotvoc_chap7_hero5043_14317.wav.wav|Vertin|en|888. I won't let this happen. I promise.
+.\training_set\plotvoc_hero5043chapter7_part04_26~plotvoc_chap7_hero5043_15099.wav.wav|Vertin|en|I think five. No, 15 might be more helpful.
+.\training_set\plotvoc_hero5043chapter7_part04_27~plotvoc_chap7_hero5043_15039.wav.wav|Vertin|en|Are you nervous? Afraid of the unknown world?
+.\training_set\plotvoc_hero5043chapter7_part04_28~plotvoc_chap7_hero5043_14409.wav.wav|Vertin|en|Yes. What do you think, 37?
+.\training_set\plotvoc_hero5043chapter7_part04_29~plotvoc_chap7_hero5043_15046.wav.wav|Vertin|en|We are prisoners within these cavern walls, our gazes held captive by the shadow's thrall. Until our hands clasped and our chains rattled, we united to break free from our shackles. The sightless joined forces with the soundless, and the voiceless uplifted the helpless. Together, we assembled a sliver of truth, a piece of the world hidden since youth.
+.\training_set\plotvoc_hero5043chapter7_part04_2~plotvoc_chap7_hero5043_15126.wav.wav|Vertin|en|Lilia, how was your commendation ceremony?
+.\training_set\plotvoc_hero5043chapter7_part04_30~plotvoc_chap7_hero5043_14417.wav.wav|Vertin|en|isn't making use of it enough for our purposes?
+.\training_set\plotvoc_hero5043chapter7_part04_32~plotvoc_chap7_hero5043_15037.wav.wav|Vertin|en|Let's go 37. The researchers of Laplace would love to meet you.
+.\training_set\plotvoc_hero5043chapter7_part04_33~plotvoc_chap7_hero5043_15101.wav.wav|Vertin|en|My suitcase can't protect humans from the storm. They'll need the umbrella to survive.
+.\training_set\plotvoc_hero5043chapter7_part04_3~plotvoc_chap7_hero5043_14514.wav.wav|Vertin|en|I see what you mean here. It really is an easily provable hypothesis.
+.\training_set\plotvoc_hero5043chapter7_part04_40~plotvoc_chap7_hero5043_15095.wav.wav|Vertin|en|This is the one thing we need the most.
+.\training_set\plotvoc_hero5043chapter7_part04_41~plotvoc_chap7_hero5043_14577.wav.wav|Vertin|en|Did you hear that, Madam Lucy? Can you help us verify the authenticity of this knot?
+.\training_set\plotvoc_hero5043chapter7_part04_45~plotvoc_chap7_hero5043_15062.wav.wav|Vertin|en|The 162 curses aren't all of them, right?
+.\training_set\plotvoc_hero5043chapter7_part04_48~plotvoc_chap7_hero5043_15102.wav.wav|Vertin|en|In the future missions, I may encounter lots of
+.\training_set\plotvoc_hero5043chapter7_part04_49~plotvoc_chap7_hero5043_15143.wav.wav|Vertin|en|In fact, there's a place I'd like to introduce you to. A flourishing island that survived both war and the storm. I think a talented druid like you would be of great help to them.
+.\training_set\plotvoc_hero5043chapter7_part04_5~plotvoc_chap7_hero5043_15098.wav.wav|Vertin|en|Don't you think one is not enough for my needs?
+.\training_set\plotvoc_hero5043chapter7_part04_6~plotvoc_chap7_hero5043_14998.wav.wav|Vertin|en|But I don't understand. How could one be wise by being uninvolved and looking on from the sidelines?
+.\training_set\plotvoc_hero5043chapter7_part04_7~plotvoc_chap7_hero5043_14758.wav.wav|Vertin|en|I'm sure she'll be happy with what you've accomplished, 37.
+.\training_set\plotvoc_hero5043chapter7_part04_8~plotvoc_chap7_hero5043_14470.wav.wav|Vertin|en|37. I think I know what it says.
+.\training_set\plotvoc_hero5043newworld_chapter7_11.wav|Vertin|en|Certainly, we can chat a little.
+.\training_set\plotvoc_hero5043newworld_chapter7_13.wav|Vertin|en|That pattern is called the Pythagoras tree.
+.\training_set\plotvoc_hero5043newworld_chapter7_2.wav|Vertin|en|I can't be sure. It's just a gut feeling.
+.\training_set\plotvoc_hero5043newworld_chapter7_5.wav|Vertin|en|Perhaps she forgot that she was supposed to hold the ball.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_30.wav|Vertin|en|For one last time.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_33.wav|Vertin|en|So is the kangaroo.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_35.wav|Vertin|en|I didn't know you were famous.
+.\training_set\activityvoc_hero5043_1_5_wulu_part01_38.wav|Vertin|en|Thank you. Hm?
+.\training_set\plotvoc_hero5043chapter0_part01_20.wav|Vertin|en|Enemy ahead. Now.
+.\training_set\plotvoc_hero5043chapter0_part01_24.wav|Vertin|en|I'll help you out. Don't worry.
+.\training_set\plotvoc_hero5043chapter0_part01_27.wav|Vertin|en|in 10 minutes.
+.\training_set\plotvoc_hero5043chapter0_part01_41.wav|Vertin|en|Now, push me.
+.\training_set\plotvoc_hero5043chapter0_part01_42.wav|Vertin|en|I'm not like them.
+.\training_set\plotvoc_hero5043chapter0_part01_48.wav|Vertin|en|Thank you very much for your assistance.
+.\training_set\plotvoc_hero5043chapter0_part01_49.wav|Vertin|en|Shhh, she's here.
+.\training_set\plotvoc_hero5043chapter0_part02_17.wav|Vertin|en|Close your eyes.
+.\training_set\plotvoc_hero5043chapter0_part02_19.wav|Vertin|en|This is my own will.
+.\training_set\plotvoc_hero5043chapter0_part02_29.wav|Vertin|en|Say this with me.
+.\training_set\plotvoc_hero5043chapter0_part02_40.wav|Vertin|en|I doubt I'll ever see them again.
+.\training_set\plotvoc_hero5043chapter0_part02_41.wav|Vertin|en|One last time.
+.\training_set\plotvoc_hero5043chapter0_part02_44.wav|Vertin|en|I'm here to protect you.
+.\training_set\plotvoc_hero5043chapter0_part02_48.wav|Vertin|en|I decided to try it again.
+.\training_set\plotvoc_hero5043chapter1_part01_53.wav|Vertin|en|Rescue the Arcanists.
+.\training_set\plotvoc_hero5043chapter1_part01_59.wav|Vertin|en|Damn it. Let's go.
+.\training_set\plotvoc_hero5043chapter1_part01_7.wav|Vertin|en|So you mean...
+.\training_set\plotvoc_hero5043chapter1_part01_att_12.wav|Vertin|en|Let's move on to the next destination.
+.\training_set\plotvoc_hero5043chapter2_part02_39.wav|Vertin|en|The storm is here.
+.\training_set\plotvoc_hero5043chapter2_part02_54.wav|Vertin|en|Your hands are trembling, Sonetto.
+.\training_set\plotvoc_hero5043chapter2_part02_58.wav|Vertin|en|Are you always tolerating it?
+.\training_set\plotvoc_hero5043chapter4_part01_1.wav|Vertin|en|It's good to see you again.
+.\training_set\plotvoc_hero5043chapter5_part01_5.wav|Vertin|en|Wait, there might be another way.
+.\training_set\plotvoc_hero5043chapter1_part01_att_15.wav|Vertin|en|Maybe we covered Sonetto.
+.\training_set\plotvoc_hero5043chapter1_part01_att_17.wav|Vertin|en|Coming again. Careful!
+.\training_set\plotvoc_hero5043chapter1_part01_att_2.wav|Vertin|en|Please allow us to assist you.
+.\training_set\plotvoc_hero5043chapter1_part01_att_23.wav|Vertin|en|You were not going?
+.\training_set\plotvoc_hero5043chapter1_part01_att_30.wav|Vertin|en|Let's go, Mr Apple.
+.\training_set\plotvoc_hero5043chapter1_part01_att_4.wav|Vertin|en|What is the Storm Gathering?
+.\training_set\plotvoc_hero5043chapter1_part01_att_6.wav|Vertin|en|It's a good thing.
+.\training_set\plotvoc_hero5043chapter1_part02_17.wav|Vertin|en|Thanks for coming to assist.
+.\training_set\plotvoc_hero5043chapter5_part02_37.wav|Vertin|en|Does the name or the book ring a bell?
+.\training_set\plotvoc_hero5043chapter1_part02_18.wav|Vertin|en|Let's see what a good match we are.
+.\training_set\plotvoc_hero5043chapter1_part02_19.wav|Vertin|en|I finally got the answer.
+.\training_set\plotvoc_hero5043chapter2_part01_32.wav|Vertin|en|A great one.
+.\training_set\plotvoc_hero5043chapter2_part01_38.wav|Vertin|en|Hey, I got it.
+.\training_set\plotvoc_hero5043chapter2_part01_47.wav|Vertin|en|I don't feel like it.
+.\training_set\plotvoc_hero5043chapter4_part01_7.wav|Vertin|en|What are we doing next?
+.\training_set\plotvoc_hero5043chapter2_part01_5.wav|Vertin|en|Do I have the right to say no?
+.\training_set\plotvoc_hero5043chapter2_part01_att_16.wav|Vertin|en|What are you talking about?
+.\training_set\plotvoc_hero5043chapter2_part01_att_2.wav|Vertin|en|She heard it all.
+.\training_set\plotvoc_hero5043chapter2_part01_att_27.wav|Vertin|en|It's too risky and...
+.\training_set\plotvoc_hero5043chapter2_part01_att_35.wav|Vertin|en|I'm not sure.
+.\training_set\plotvoc_hero5043chapter2_part01_att_38.wav|Vertin|en|I don't understand.
+.\training_set\plotvoc_hero5043chapter2_part01_att_41.wav|Vertin|en|Damn it, why?
+.\training_set\plotvoc_hero5043chapter2_part02_11.wav|Vertin|en|Will you come with me, Druvis?
+.\training_set\plotvoc_hero5043chapter2_part02_14.wav|Vertin|en|The bullet did hit your chest.
+.\training_set\plotvoc_hero5043chapter2_part02_21.wav|Vertin|en|These powders are not poisonous.
+.\training_set\plotvoc_hero5043chapter2_part02_31.wav|Vertin|en|I didn't know you prayed.
+.\training_set\plotvoc_hero5043chapter2_part02_34.wav|Vertin|en|We're in trouble.
+.\training_set\plotvoc_hero5043chapter2_part02_49.wav|Vertin|en|Your good luck won't last long.
+.\training_set\plotvoc_hero5043chapter2_part02_64.wav|Vertin|en|It's not the time to catch up.
+.\training_set\plotvoc_hero5043chapter2_part02_69.wav|Vertin|en|I'll see you in the relief shelter.
+.\training_set\plotvoc_hero5043chapter2_part02_94.wav|Vertin|en|Calm down. You did nothing wrong.
+.\training_set\plotvoc_hero5043chapter5_part01_58.wav|Vertin|en|I'd like to investigate that place again.
+.\training_set\plotvoc_hero5043chapter5_part02_13.wav|Vertin|en|I know, Sonetto.
+.\training_set\plotvoc_hero5043chapter5_part02_14.wav|Vertin|en|The Abraxases are coming.
+.\training_set\plotvoc_hero5043chapter5_part02_50.wav|Vertin|en|I won't defend our behavior.
+.\training_set\plotvoc_hero5043chapter5_part02_59.wav|Vertin|en|Get ready to run, Sonetto.
+.\training_set\plotvoc_hero5043chapter5_part03_24.wav|Vertin|en|No, this is a dead end.
+.\training_set\plotvoc_hero5043chapter5_part03_60.wav|Vertin|en|I'd be glad to give this chance to you.
+.\training_set\plotvoc_hero5043chapter5_part03_62.wav|Vertin|en|We're counting on you, Sonetto.
+.\training_set\plotvoc_hero5043chapter5_part03_55.wav|Vertin|en|There's no time left.
+.\training_set\plotvoc_hero5043chapter4_part01_15.wav|Vertin|en|Are they alright?
+.\training_set\plotvoc_hero5043chapter4_part01_24.wav|Vertin|en|Thank you for telling me this.
+.\training_set\plotvoc_hero5043chapter4_part01_4.wav|Vertin|en|He didn't belong to that chess game.
+.\training_set\plotvoc_hero5043chapter4_part01_49.wav|Vertin|en|What do you mean?
+.\training_set\plotvoc_hero5043chapter4_part01_5.wav|Vertin|en|Your eyes told me.
+.\training_set\plotvoc_hero5043chapter4_part01_8.wav|Vertin|en|What good weather.
+.\training_set\plotvoc_hero5043chapter5_part01_31.wav|Vertin|en|Show me the thing in your arms.
+.\training_set\plotvoc_hero5043chapter5_part01_38.wav|Vertin|en|We need to slightly twiddle this knob.
+.\training_set\plotvoc_hero5043chapter5_part02_48.wav|Vertin|en|It's clear then.
+.\training_set\plotvoc_hero5043chapter5_part03_13.wav|Vertin|en|I appreciate that.
+.\training_set\plotvoc_hero5043chapter5_part03_16.wav|Vertin|en|What's that you're doing?
+.\training_set\plotvoc_hero5043chapter5_part03_27.wav|Vertin|en|What? It's valid?
+.\training_set\plotvoc_hero5043chapter5_part03_35.wav|Vertin|en|Does that mean you will help us?
+.\training_set\plotvoc_hero5043chapter5_part03_39.wav|Vertin|en|I got it.
+.\training_set\plotvoc_hero5043chapter5_part03_42.wav|Vertin|en|What does the emanation mean?
+.\training_set\plotvoc_hero5043chapter5_part03_44.wav|Vertin|en|It doesn't seem like trouble to me.
+.\training_set\plotvoc_hero5043chapter5_part03_47.wav|Vertin|en|What do you mean?
+.\training_set\plotvoc_hero5043chapter5_part03_59.wav|Vertin|en|This laurel wreath suits you well.
+.\training_set\plotvoc_hero5043chapter5_part03_65.wav|Vertin|en|She didn't break any rules.
+.\training_set\plotvoc_hero5043chapter5_part03_67.wav|Vertin|en|I have a feeling...
+.\training_set\plotvoc_hero5043chapter5_part03_8.wav|Vertin|en|I'll sign it.
+.\training_set\plotvoc_hero5043chapter5_part04_23.wav|Vertin|en|I don't get it.
+.\training_set\plotvoc_hero5043chapter5_part04_29.wav|Vertin|en|I swear I wasn't lying.
+.\training_set\plotvoc_hero5043chapter5_part04_44.wav|Vertin|en|No! 37, no!
+.\training_set\plotvoc_hero5043chapter5_part04_56.wav|Vertin|en|I'm sorry for mentioning your mother.
+.\training_set\plotvoc_hero5043chapter6_1.wav|Vertin|en|Thank you, Miss Marta.
+.\training_set\plotvoc_hero5043chapter6_10.wav|Vertin|en|Come in please.
+.\training_set\plotvoc_hero5043chapter6_3.wav|Vertin|en|I don't understand.
+.\training_set\plotvoc_hero5043chapter6_8.wav|Vertin|en|May I have some more paper?
+.\training_set\plotvoc_hero5043chapter7_part01_13~plotvoc_chap7_hero5043_11607.wav.wav|Vertin|en|I also agree with your verdict.
+.\training_set\plotvoc_hero5043chapter7_part01_18~plotvoc_chap7_hero5043_11468.wav.wav|Vertin|en|It's the storm.
+.\training_set\plotvoc_hero5043chapter7_part01_20~plotvoc_chap7_hero5043_11795.wav.wav|Vertin|en|Will it answer my question?
+.\training_set\plotvoc_hero5043chapter7_part01_27~plotvoc_chap7_hero5043_11375.wav.wav|Vertin|en|Nothing is happening.
+.\training_set\plotvoc_hero5043chapter7_part01_28~plotvoc_chap7_hero5043_11551.wav.wav|Vertin|en|He has the storm syndrome!
+.\training_set\plotvoc_hero5043chapter7_part01_35~plotvoc_chap7_hero5043_11593.wav.wav|Vertin|en|I respectfully accept your verdict.
+.\training_set\plotvoc_hero5043chapter7_part01_36~plotvoc_chap7_hero5043_11632.wav.wav|Vertin|en|Thank you for your thoughtful consideration.
+.\training_set\plotvoc_hero5043chapter7_part01_48~plotvoc_chap7_hero5043_11477.wav.wav|Vertin|en|Another minute has passed.
+.\training_set\plotvoc_hero5043chapter7_part02_14~plotvoc_chap7_hero5043_12695.wav.wav|Vertin|en|Is the timer broken?
+.\training_set\plotvoc_hero5043chapter7_part02_17~plotvoc_chap7_hero5043_12689.wav.wav|Vertin|en|Where am I?
+.\training_set\plotvoc_hero5043chapter7_part02_3~plotvoc_chap7_hero5043_12799.wav.wav|Vertin|en|What did you dream?
+.\training_set\plotvoc_hero5043chapter7_part02_47~plotvoc_chap7_hero5043_12693.wav.wav|Vertin|en|I was in the cave with 37.
+.\training_set\plotvoc_hero5043chapter7_part03_19~plotvoc_chap7_hero5043_13738.wav.wav|Vertin|en|You have my word.
+.\training_set\plotvoc_hero5043chapter7_part03_24~plotvoc_chap7_hero5043_13792.wav.wav|Vertin|en|Now, on my mark.
+.\training_set\plotvoc_hero5043chapter7_part03_25~plotvoc_chap7_hero5043_13933.wav.wav|Vertin|en|We should go now, Sonetto.
+.\training_set\plotvoc_hero5043chapter7_part03_30~plotvoc_chap7_hero5043_13746.wav.wav|Vertin|en|Because six stands for balance.
+.\training_set\plotvoc_hero5043chapter7_part03_35~plotvoc_chap7_hero5043_13758.wav.wav|Vertin|en|I will stop Manus Vindictae.
+.\training_set\plotvoc_hero5043chapter7_part03_3~plotvoc_chap7_hero5043_13638.wav.wav|Vertin|en|37. I have to go.
+.\training_set\plotvoc_hero5043chapter7_part04_21~plotvoc_chap7_hero5043_15049.wav.wav|Vertin|en|Have you got something for me, Mazma?
+.\training_set\plotvoc_hero5043chapter7_part04_34~plotvoc_chap7_hero5043_14896.wav.wav|Vertin|en|Are you joining them, Miss Marta?
+.\training_set\plotvoc_hero5043chapter7_part04_35~plotvoc_chap7_hero5043_14589.wav.wav|Vertin|en|It's the signal dropping.
+.\training_set\plotvoc_hero5043chapter7_part04_38~plotvoc_chap7_hero5043_15036.wav.wav|Vertin|en|Zeno sent a ship to pick us up.
+.\training_set\plotvoc_hero5043chapter7_part04_42~plotvoc_chap7_hero5043_14966.wav.wav|Vertin|en|It's our duty to do so.
+.\training_set\plotvoc_hero5043chapter7_part04_43~plotvoc_chap7_hero5043_14463.wav.wav|Vertin|en|I can read this language.
+.\training_set\plotvoc_hero5043chapter7_part04_44~plotvoc_chap7_hero5043_14450.wav.wav|Vertin|en|First one's done, Mr Ulrich.
+.\training_set\plotvoc_hero5043chapter7_part04_46~plotvoc_chap7_hero5043_15165.wav.wav|Vertin|en|Funny you say that, Sonetto.
+.\training_set\plotvoc_hero5043chapter7_part04_4~plotvoc_chap7_hero5043_15112.wav.wav|Vertin|en|It is a beautiful shape indeed.
+.\training_set\plotvoc_hero5043chapter7_part04_50~plotvoc_chap7_hero5043_15111.wav.wav|Vertin|en|37 was right.
+.\training_set\plotvoc_hero5043chapter7_part04_9~plotvoc_chap7_hero5043_15107.wav.wav|Vertin|en|Thank you, Mesmer.
+.\training_set\plotvoc_hero5043newworld_chapter7_1.wav|Vertin|en|The name is Urd.
+.\training_set\plotvoc_hero5043newworld_chapter7_10.wav|Vertin|en|That is high praise.
+.\training_set\plotvoc_hero5043newworld_chapter7_12.wav|Vertin|en|There is no twist ball, Matilda.
+.\training_set\plotvoc_hero5043newworld_chapter7_14.wav|Vertin|en|What's in it?
+.\training_set\plotvoc_hero5043newworld_chapter7_4.wav|Vertin|en|Of course. Leave it to me.
+.\training_set\plotvoc_hero5043newworld_chapter7_6.wav|Vertin|en|What about Rainbow?
+.\training_set\plotvoc_hero5043newworld_chapter7_7.wav|Vertin|en|I'm under age too.
+.\training_set\plotvoc_hero5043newworld_chapter7_8.wav|Vertin|en|This is Vertin speaking.
