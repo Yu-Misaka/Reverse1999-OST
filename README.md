@@ -3,7 +3,7 @@
 ![image](https://github.com/Yu-Misaka/Reverse1999-OST/blob/main/Image/sundry/bg_denglubeijing.png)
 
 > [!WARNING]
-> Large repository.
+> Large repository. Use shallow clone to reduce size: `git clone --depth=1 https://github.com/Yu-Misaka/Reverse1999-OST.git`.
 
 > [!CAUTION]
 > Only for personal use. Bluepoch Co.,Ltd. All Rights Reserved.
@@ -12,7 +12,7 @@
 
 | Resources | Character | Version | Remark |
 | :--------- | :------- | :---------- | :-------- |
-| Audio | * | 1.9 | |
+| Audio | * | 2.6 | |
 | Image | * | 1.9 | |
 | Text | * | 1.9 | |
 | Live2D | Vertin | 1.9 | |
@@ -35,36 +35,14 @@ Every time the game updates,
 1. copy `PersistentRoot\audios\Windows` to `Origin`, override all existing files if any.
 2. copy `StreamingAssets\Windows\audios\Windows` to `Origin`, override all existing files if any.
 3. delete everything in `Decoded` except `pull_out.nb`.
-4. use "WwiseExtractorConsole" or "foobar2000" + "vgmstream" to decode all `.wem` and `.bnk` files, place the result under `Decoded` folder, override all existing files if any.
+4. use "foobar2000" + "vgmstream" to decode all `.wem` and `.bnk` files, place the result under `Decoded` folder, override all existing files if any.
 
-"WwiseExtractorConsole" extracts each `.wem` and `.bnk` file into separate subfolders, `pull_out.nb` can flatten the directory structure via pulling those audios in all subfolders out by one layer.
+My export settings of foobar2000 is as follows:
+| :--------- | :------- |
+| Output format | Format: MP3 (LAME), V6. |
+| Destination | File name pattern: %filename%_%STREAM_INDEX% |
 
-```
-Root
-├── file1.wem
-├── en
-│   ├── file2.wem
-
-↓ decode into
-
-Root
-├── file1.wem (now this is a folder)
-│   ├── file1_1.ogg (track 1)
-│   └── file1_2.ogg (track 2)
-├── en
-│   └── file2.wem
-│       └── file2_1.ogg (track 1)
-
-↓ pull out
-
-Root
-├── file1_1.ogg
-├── file1_2.ogg
-├── en
-│   └── file2_1.ogg
-```
-
-I don't know how to control the export bitrate of "foobar2000" + "vgmstream" yet, directly export into `.wav` seems to produce excessively large files.
+LAME requires additional encoder. Please refer to [lame_win32-build](https://github.com/Chocobo1/lame_win32-build) for Windows builds.
 
 `select.nb` is for selecting proper audio for AI training. One can utilize `selectedFiles` to select all audio files with duration > 10s of one particular character via inserting corresponding character ID.
 
