@@ -34,7 +34,7 @@ In the following context, the default assets path `C:\Program Files (x86)\revers
 Every time the game updates,
 1. copy `PersistentRoot\audios\Windows` to `Origin`, override all existing files if any.
 2. copy `StreamingAssets\Windows\audios\Windows` to `Origin`, override all existing files if any.
-3. delete everything in `Decoded` except `pull_out.nb`.
+3. delete everything in `Decoded`.
 4. use "foobar2000" + "vgmstream" to decode all `.wem` and `.bnk` files, place the result under `Decoded` folder, override all existing files if any.
 
 My export settings of foobar2000 is as follows:
