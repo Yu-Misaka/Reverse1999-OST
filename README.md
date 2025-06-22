@@ -38,6 +38,7 @@ Every time the game updates,
 4. use "foobar2000" + "vgmstream" to decode all `.wem` and `.bnk` files, place the result under `Decoded` folder, override all existing files if any.
 
 My export settings of foobar2000 is as follows:
+| Option | Settings |
 | :--------- | :------- |
 | Output format | Format: MP3 (LAME), V6. |
 | Destination | File name pattern: %filename%_%STREAM_INDEX% |
